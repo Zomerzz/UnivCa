@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Commit Z. {{date}}",
+  "commitMessage": "Automatic commit Z.",
   "autoCommitMessage": "auto commit Z.",
   "commitMessageScript": "",
   "commitDateFormat": "MM-DD HH:mm",
