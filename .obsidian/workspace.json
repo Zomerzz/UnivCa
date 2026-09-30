@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "64ceb0547dc2ba23",
+        "id": "415932021696ea5e",
         "type": "tabs",
         "children": [
           {
-            "id": "49f0b8144ef99fd3",
+            "id": "c58fbaa7b270567f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "fondamenti di programmazione 30 09"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -177,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49f0b8144ef99fd3",
+  "active": "c58fbaa7b270567f",
   "lastOpenFiles": [
     "Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
     "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
