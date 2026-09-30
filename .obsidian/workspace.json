@@ -11,12 +11,14 @@
             "id": "49f0b8144ef99fd3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "analisi matematica/analisi 30 09.md"
+                "file": "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "analisi 30 09"
+              "icon": "lucide-file",
+              "title": "fondamenti di programmazione 30 09"
             }
           }
         ]
@@ -183,17 +185,18 @@
   },
   "active": "49f0b8144ef99fd3",
   "lastOpenFiles": [
+    "Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
     "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "readme",
+    "Excalidraw",
+    "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
     "analisi matematica/analisi 30 09.md",
+    "readme",
     "img/insiemi e sottoinsiemi di C.png",
     "Recording 20260930103722.m4a",
     "analisi matematica/analisi matematica 28 09.md",
     "analisi matematica/analisi matematica 29 09.md",
     "fisica/lezione 29 09.md",
     "Excalidraw/massim barbaro.md",
-    "fondamenti di programmazione/lezione 28 09.md",
-    "Excalidraw",
     "massimo barbaro",
     "fisica",
     "fondamenti di programmazione",
