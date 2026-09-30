@@ -1,7 +1,7 @@
 [
-  "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
   "omnisearch",
-  "obsidian-git",
-  "runnable-code-blocks"
+  "runnable-code-blocks",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]
