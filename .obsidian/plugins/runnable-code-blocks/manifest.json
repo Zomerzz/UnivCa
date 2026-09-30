@@ -1,0 +1,10 @@
+{
+  "id": "runnable-code-blocks",
+  "name": "Manta Code Blocks",
+  "version": "0.7.10",
+  "minAppVersion": "1.13.0",
+  "description": "Run 24 code-block fences in browser sandboxes, optional local containers, or named remote providers.",
+  "author": "Woonyong Choi",
+  "authorUrl": "https://github.com/woonyong-choi",
+  "isDesktopOnly": false
+}

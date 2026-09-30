@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "b9c29c689b528b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "64ceb0547dc2ba23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "742ddddab8b1a00a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "fisica/lezione 29 09.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "lezione 29 09"
+            }
+          },
+          {
+            "id": "49f0b8144ef99fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fondamenti di programmazione 30 09"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f90a925bddf11987",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a0740bb57972b90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38f4c57ea908ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
+          },
+          {
+            "id": "fd6ba17a0989dc5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4c54f592fbc77e7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6d4bbd5a65909c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.04734802246094
+  },
+  "right": {
+    "id": "1338e7bce472a31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "36e1b3e7bd833c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a68f68b7b397515",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "analisi matematica/analisi 30 09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "4c470b95bf132a9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "analisi matematica/analisi 30 09.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          },
+          {
+            "id": "c74e35042fa5e00f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "970f1414292fceed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Avvia/ferma registrazione": false
+    }
+  },
+  "active": "49f0b8144ef99fd3",
+  "lastOpenFiles": [
+    "readme",
+    "analisi matematica/analisi 30 09.md",
+    "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "img/insiemi e sottoinsiemi di C.png",
+    "Recording 20260930103722.m4a",
+    "analisi matematica/analisi matematica 28 09.md",
+    "analisi matematica/analisi matematica 29 09.md",
+    "fisica/lezione 29 09.md",
+    "Excalidraw/massim barbaro.md",
+    "fondamenti di programmazione/lezione 28 09.md",
+    "Excalidraw",
+    "massimo barbaro",
+    "fisica",
+    "fondamenti di programmazione",
+    "img",
+    "math 1.md",
+    "Benvenuto.md",
+    "analisi matematica"
+  ]
+}
