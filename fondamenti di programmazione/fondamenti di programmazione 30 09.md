@@ -2,7 +2,8 @@
 Ogni calcolatore, sia questo una calcolatrice, un microonde, o un  personal computer è semplificabile al minimo termine con il **Modello di Von Newman** 
 ![[fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw]]
 
-
+# Memoria RAM
+la memoria RAM ( Random Access Memory) è un componente del calcolatore formata da miliardi di celle di memoria, che a loro volta sono composte da 1 Byte, o 8 bit 
 
 ```run-c
 #include <stdio.h>  // include una libreria del core, che comprende anche printf ( per esempio )
