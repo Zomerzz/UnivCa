@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a2b333b5d9ffde63",
+        "id": "1e0b21eabeba14bc",
         "type": "tabs",
         "children": [
           {
-            "id": "ecd17e4f9c22e7c5",
+            "id": "1af1db1ec08ba23e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "fisica/FIsica 01 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "FIsica 01 10"
-            }
-          },
-          {
-            "id": "d356ae47de200695",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "analisi matematica/Drawing 2026-10-01 15.07.47.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-01 15.07.47.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047,
-    "collapsed": true
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -189,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d356ae47de200695",
+  "active": "1af1db1ec08ba23e",
   "lastOpenFiles": [
     "fisica/FIsica 01 10.md",
     "analisi matematica/Drawing 2026-10-01 15.07.47.excalidraw.md",
