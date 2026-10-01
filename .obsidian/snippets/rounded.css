@@ -1,0 +1,6 @@
+.markdown-embed && .embed-file{
+    border-radius: 24px;
+    overflow: hidden;
+    border: 1px solid var(--background-modifier-border);
+    padding: 10px;
+}
