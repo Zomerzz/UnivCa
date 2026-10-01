@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e92f33b6e76ef95d",
+        "id": "a2b333b5d9ffde63",
         "type": "tabs",
         "children": [
           {
-            "id": "fce73a7da908c6c1",
+            "id": "ecd17e4f9c22e7c5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "fisica/FIsica 01 10.md"
+                "file": "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "FIsica 01 10"
+              "icon": "lucide-file",
+              "title": "fondamenti di programmazione 01 10"
             }
           }
         ]
@@ -84,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -176,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fce73a7da908c6c1",
+  "active": "ecd17e4f9c22e7c5",
   "lastOpenFiles": [
+    "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
     "fisica/FIsica 01 10.md",
     "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
     "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
