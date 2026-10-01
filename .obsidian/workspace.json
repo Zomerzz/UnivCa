@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "64ceb0547dc2ba23",
+        "id": "e92f33b6e76ef95d",
         "type": "tabs",
         "children": [
           {
-            "id": "49f0b8144ef99fd3",
+            "id": "fce73a7da908c6c1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "fisica/FIsica 01 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "FIsica 01 10"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -84,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.38356018066406
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -167,27 +165,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selettore rapido": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota giornaliera": false,
-      "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
       "audio-recorder:Avvia/ferma registrazione": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49f0b8144ef99fd3",
+  "active": "63b486af163b355e",
   "lastOpenFiles": [
+    "fisica/FIsica 01 10.md",
+    "conflict-files-obsidian-git.md",
     "analisi matematica/analisi 30 09.md",
     "Recording 20261001082628.m4a",
     "analisi matematica/analisi matematica 28 09.md",
     "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "fisica/FIsica 01 10.md",
     "fisica/Senza nome.md",
     "fisica/lezione 29 09.md",
     "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
