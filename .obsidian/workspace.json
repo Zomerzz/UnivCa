@@ -11,13 +11,30 @@
             "id": "1af1db1ec08ba23e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "fondamenti di programmazione 30 09"
+            }
+          },
+          {
+            "id": "2f517db1d8a60326",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "fondamenti di programmazione/Drawing 2026-10-01 18.04.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-01 18.04.43.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,14 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1af1db1ec08ba23e",
+  "active": "2f517db1d8a60326",
   "lastOpenFiles": [
+    "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "fondamenti di programmazione/Drawing 2026-10-01 18.04.43.excalidraw.md",
+    "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
+    "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
     "fisica/FIsica 01 10.md",
     "analisi matematica/Drawing 2026-10-01 15.07.47.excalidraw.md",
     "fisica/lezione 29 09.md",
-    "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
     "analisi matematica/analisi matematica 28 09.md",
     "analisi matematica/analisi matematica 29 09.md",
     "conflict-files-obsidian-git.md",
