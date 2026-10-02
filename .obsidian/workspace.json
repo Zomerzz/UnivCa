@@ -11,10 +11,12 @@
             "id": "6e7b7cd5934ba03a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "excalidraw",
+              "state": {
+                "file": "fisica/FIsica 01 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "FIsica 01 10"
             }
           }
         ]
@@ -173,26 +175,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63b486af163b355e",
+  "active": "6e7b7cd5934ba03a",
   "lastOpenFiles": [
+    "fisica/fisica 02 10.md",
+    "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
+    "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
+    "Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
+    "fisica/fisica 29 09.md",
+    "fisica/FIsica 01 10.md",
+    "fondamenti di programmazione/Drawing 2026-10-01 18.04.43.excalidraw.md",
     "analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
     "analisi matematica/pdf",
     "analisi matematica/analisi matematica 30 09.md",
     "analisi matematica/analisi matematica 01 10.md",
-    "fondamenti di programmazione/Drawing 2026-10-01 18.04.43.excalidraw.md",
     "Recording 20261001082628.m4a",
-    "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
-    "fisica/FIsica 01 10.md",
     "analisi matematica/Drawing 2026-10-01 15.07.47.excalidraw.md",
-    "fisica/lezione 29 09.md",
     "analisi matematica/analisi matematica 28 09.md",
     "analisi matematica/analisi matematica 29 09.md",
     "conflict-files-obsidian-git.md",
     "analisi matematica/analisi 30 09.md",
     "fisica/Senza nome.md",
-    "Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
     "Excalidraw",
     "readme",
     "img/insiemi e sottoinsiemi di C.png",
@@ -203,7 +206,6 @@
     "fondamenti di programmazione",
     "img",
     "math 1.md",
-    "Benvenuto.md",
-    "analisi matematica"
+    "Benvenuto.md"
   ]
 }
