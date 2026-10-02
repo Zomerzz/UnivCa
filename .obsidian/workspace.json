@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "62dcb48bb4e97c95",
+        "id": "10500c7e187f0be3",
         "type": "tabs",
         "children": [
           {
-            "id": "47d763459294a496",
+            "id": "6e7b7cd5934ba03a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "analisi matematica/analisi matematica 28 09.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 28 09"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -84,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -169,30 +167,31 @@
     "hiddenItems": {
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
       "audio-recorder:Avvia/ferma registrazione": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47d763459294a496",
+  "active": "63b486af163b355e",
   "lastOpenFiles": [
-    "analisi matematica/analisi matematica 29 09.md",
-    "analisi matematica/analisi matematica 30 09.md",
-    "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
-    "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "fisica/FIsica 01 10.md",
-    "fisica/lezione 29 09.md",
-    "analisi matematica/analisi matematica 01 10.md",
     "analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
-    "Senza nome.base",
-    "analisi matematica/pdf/Non confermato 196735.crdownload",
     "analisi matematica/pdf",
-    "analisi matematica/Nuova cartella",
-    "Recording 20261001082628.m4a",
-    "analisi matematica/analisi matematica 28 09.md",
+    "analisi matematica/analisi matematica 30 09.md",
+    "analisi matematica/analisi matematica 01 10.md",
     "fondamenti di programmazione/Drawing 2026-10-01 18.04.43.excalidraw.md",
+    "Recording 20261001082628.m4a",
+    "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
+    "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
+    "fisica/FIsica 01 10.md",
+    "analisi matematica/Drawing 2026-10-01 15.07.47.excalidraw.md",
+    "fisica/lezione 29 09.md",
+    "analisi matematica/analisi matematica 28 09.md",
+    "analisi matematica/analisi matematica 29 09.md",
+    "conflict-files-obsidian-git.md",
+    "analisi matematica/analisi 30 09.md",
+    "fisica/Senza nome.md",
     "Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
     "Excalidraw",
     "readme",
@@ -200,7 +199,11 @@
     "Recording 20260930103722.m4a",
     "Excalidraw/massim barbaro.md",
     "massimo barbaro",
+    "fisica",
+    "fondamenti di programmazione",
+    "img",
     "math 1.md",
-    "Benvenuto.md"
+    "Benvenuto.md",
+    "analisi matematica"
   ]
 }
