@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "fisica/fisica 29 09.md"
+                "file": "fisica/fisica 02 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 29 09"
+              "title": "fisica 02 10"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "tutoring 02 10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6e85d750ba0dc0a",
+  "active": "6e7b7cd5934ba03a",
   "lastOpenFiles": [
     "fisica/fisica 29 09.md",
     "fisica/tutoring 02 10.md",
