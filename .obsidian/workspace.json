@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47d763459294a496",
+            "id": "65cf532aac0347ae",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "fisica/FIsica 01 10.md"
+                "file": "esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "FIsica 01 10"
+              "title": "Drawing 2026-10-03 14.10.51.excalidraw"
             }
           }
         ]
@@ -175,15 +175,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32cccdb724847c52",
+  "active": "65cf532aac0347ae",
   "lastOpenFiles": [
     "fisica/FIsica 01 10.md",
     "fisica/fisica 02 10.md",
+    "fisica/fisica 29 09.md",
+    "fisica/tutoring 02 10.md",
+    "esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
+    "esercizzi",
     "analisi matematica/analisi matematica 30 09.md",
     "analisi matematica/analisi matematica 29 09.md",
     "analisi matematica/analisi matematica 28 09.md",
-    "fisica/tutoring 02 10.md",
-    "fisica/fisica 29 09.md",
     "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
     "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
     "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
@@ -202,7 +204,6 @@
     "img/insiemi e sottoinsiemi di C.png",
     "Recording 20260930103722.m4a",
     "Excalidraw/massim barbaro.md",
-    "massimo barbaro",
     "math 1.md",
     "Benvenuto.md"
   ]
