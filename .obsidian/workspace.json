@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3b818d07ee40a3e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c1f32b80e4c53a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
-            }
-          }
-        ]
-      },
-      {
         "id": "6a28913be5c9530d",
         "type": "tabs",
         "children": [
@@ -129,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -189,6 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,7 +205,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c1f32b80e4c53a6",
+  "active": "75f3c530440ef839",
   "lastOpenFiles": [
     "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
     "Appunti Emanuel/desktop.ini",
