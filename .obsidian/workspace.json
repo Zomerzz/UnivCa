@@ -11,10 +11,12 @@
             "id": "f0aff9ca0da6d3e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "criteri di invertibilità e restrizione del dominio"
             }
           }
         ]
@@ -175,7 +177,7 @@
   },
   "active": "f0aff9ca0da6d3e7",
   "lastOpenFiles": [
-    "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
+    "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Emanuel/Senza nome.md",
     "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
     "Appunti Z/analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
