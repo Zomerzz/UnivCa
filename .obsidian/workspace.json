@@ -1,22 +1,36 @@
 {
   "main": {
-    "id": "b9c29c689b528b71",
+    "id": "bf6b14184e57b56d",
     "type": "split",
     "children": [
       {
-        "id": "62dcb48bb4e97c95",
+        "id": "0453f00225078ac8",
         "type": "tabs",
         "children": [
           {
-            "id": "65cf532aac0347ae",
+            "id": "f582a57e9c3d8c44",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-03 14.10.51.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "610a9925b2d5fa26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e8bec3d0d8804bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -25,15 +39,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f90a925bddf11987",
+    "id": "6a75f84bf15458cd",
     "type": "split",
     "children": [
       {
-        "id": "8a0740bb57972b90",
+        "id": "76de28f4bf05fac1",
         "type": "tabs",
         "children": [
           {
-            "id": "38f4c57ea908ae9c",
+            "id": "dd722d5e52dc1edb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +62,7 @@
             }
           },
           {
-            "id": "fd6ba17a0989dc5c",
+            "id": "4f5c9f42ab9a7124",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,44 +77,40 @@
               "icon": "lucide-search",
               "title": "Ricerca"
             }
-          }
-        ]
-      },
-      {
-        "id": "deeb9aa6cd61bfb9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "63b486af163b355e",
+            "id": "539e5f619b4fa388",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 300
   },
   "right": {
-    "id": "1338e7bce472a31c",
+    "id": "36dd2189d25592f1",
     "type": "split",
     "children": [
       {
-        "id": "36e1b3e7bd833c93",
+        "id": "9a4b697347dba88c",
         "type": "tabs",
         "children": [
           {
-            "id": "5a68f68b7b397515",
+            "id": "a6de9e0eafe3f930",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "analisi matematica/analisi 30 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,22 +124,20 @@
             }
           },
           {
-            "id": "4c470b95bf132a9e",
+            "id": "63801790fd70de7d",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
-                "file": "analisi matematica/analisi 30 09.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "Struttura"
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
             }
           },
           {
-            "id": "c74e35042fa5e00f",
+            "id": "398f8657da790966",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,7 +152,7 @@
             }
           },
           {
-            "id": "970f1414292fceed",
+            "id": "fb32ee3f03566224",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,56 +164,63 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
+          },
+          {
+            "id": "faba384ab7fe2a3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 209.6951904296875,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
-      "audio-recorder:Avvia/ferma registrazione": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65cf532aac0347ae",
+  "active": "f582a57e9c3d8c44",
   "lastOpenFiles": [
-    "esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
-    "fisica/fisica 02 10.md",
-    "fisica/FIsica 01 10.md",
-    "fisica/fisica 29 09.md",
+    "readme",
+    "img/insiemi e sottoinsiemi di C.png",
+    "img",
     "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
     "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
     "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "Excalidraw/Drawing 2026-10-03 14.31.37.excalidraw.md",
+    "fondamenti di programmazione",
+    "fisica/fisica 29 09.md",
     "fisica/tutoring 02 10.md",
+    "fisica/fisica 02 10.md",
+    "fisica/FIsica 01 10.md",
+    "fisica",
+    "esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
     "esercizzi",
+    "analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
+    "analisi matematica/pdf",
+    "analisi matematica/analisi matematica 28 09.md",
     "analisi matematica/analisi matematica 30 09.md",
     "analisi matematica/analisi matematica 29 09.md",
-    "analisi matematica/analisi matematica 28 09.md",
-    "fisica/lezione 29 09.md",
     "analisi matematica/analisi matematica 01 10.md",
-    "analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
-    "Senza nome.base",
-    "analisi matematica/pdf/Non confermato 196735.crdownload",
-    "analisi matematica/pdf",
-    "analisi matematica/Nuova cartella",
-    "Recording 20261001082628.m4a",
-    "fondamenti di programmazione/Drawing 2026-10-01 18.04.43.excalidraw.md",
-    "Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
-    "Excalidraw",
-    "readme",
-    "img/insiemi e sottoinsiemi di C.png",
-    "Recording 20260930103722.m4a",
-    "Excalidraw/massim barbaro.md",
-    "math 1.md",
+    "analisi matematica",
     "Benvenuto.md"
   ]
 }
