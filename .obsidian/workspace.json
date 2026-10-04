@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a28913be5c9530d",
+        "id": "84b2c928561d1869",
         "type": "tabs",
         "children": [
           {
-            "id": "75f3c530440ef839",
+            "id": "305ed12640afeef0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -78,22 +78,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c339e5c3401cac98",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "69a2a9938124db04",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,7 +157,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,19 +164,9 @@
               "icon": "lucide-list",
               "title": "Struttura"
             }
-          },
-          {
-            "id": "6a9e41a6a826eb7c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -215,7 +186,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6a9e41a6a826eb7c",
+  "active": "a3fb0bc28f244b95",
   "lastOpenFiles": [
     "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
     "Appunti Emanuel/desktop.ini",
