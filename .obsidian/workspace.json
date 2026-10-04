@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.199951171875
+    "width": 272.4000244140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a3fb0bc28f244b95",
+  "active": "305ed12640afeef0",
   "lastOpenFiles": [
     "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
     "Appunti Emanuel/desktop.ini",
