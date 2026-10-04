@@ -195,11 +195,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.199951171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +215,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "75f3c530440ef839",
+  "active": "6a9e41a6a826eb7c",
   "lastOpenFiles": [
     "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
     "Appunti Emanuel/desktop.ini",
