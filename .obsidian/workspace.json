@@ -1,36 +1,22 @@
 {
   "main": {
-    "id": "bf6b14184e57b56d",
+    "id": "b9c29c689b528b71",
     "type": "split",
     "children": [
       {
-        "id": "0453f00225078ac8",
+        "id": "62dcb48bb4e97c95",
         "type": "tabs",
         "children": [
           {
-            "id": "f582a57e9c3d8c44",
+            "id": "65cf532aac0347ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
-            }
-          }
-        ]
-      },
-      {
-        "id": "610a9925b2d5fa26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7e8bec3d0d8804bd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-03 14.10.51.excalidraw"
             }
           }
         ]
@@ -39,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a75f84bf15458cd",
+    "id": "f90a925bddf11987",
     "type": "split",
     "children": [
       {
-        "id": "76de28f4bf05fac1",
+        "id": "8a0740bb57972b90",
         "type": "tabs",
         "children": [
           {
-            "id": "dd722d5e52dc1edb",
+            "id": "38f4c57ea908ae9c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +48,7 @@
             }
           },
           {
-            "id": "4f5c9f42ab9a7124",
+            "id": "fd6ba17a0989dc5c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,40 +63,44 @@
               "icon": "lucide-search",
               "title": "Ricerca"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "deeb9aa6cd61bfb9",
+        "type": "tabs",
+        "children": [
           {
-            "id": "539e5f619b4fa388",
+            "id": "63b486af163b355e",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-bookmark",
-              "title": "Segnalibri"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285
   },
   "right": {
-    "id": "36dd2189d25592f1",
+    "id": "1338e7bce472a31c",
     "type": "split",
     "children": [
       {
-        "id": "9a4b697347dba88c",
+        "id": "36e1b3e7bd833c93",
         "type": "tabs",
         "children": [
           {
-            "id": "a6de9e0eafe3f930",
+            "id": "5a68f68b7b397515",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "analisi matematica/analisi 30 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,20 +114,22 @@
             }
           },
           {
-            "id": "63801790fd70de7d",
+            "id": "4c470b95bf132a9e",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "analisi matematica/analisi 30 09.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "icon": "lucide-list",
+              "title": "Struttura"
             }
           },
           {
-            "id": "398f8657da790966",
+            "id": "c74e35042fa5e00f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +144,7 @@
             }
           },
           {
-            "id": "fb32ee3f03566224",
+            "id": "970f1414292fceed",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,63 +156,57 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
-          },
-          {
-            "id": "faba384ab7fe2a3c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Struttura"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 209.6951904296875,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selettore rapido": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota giornaliera": false,
-      "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f582a57e9c3d8c44",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
+    "Appunti Emanuel",
+    "Appunti Z",
+    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
+    "Appunti Z/fisica/fisica 02 10.md",
+    "Appunti Z/fisica/FIsica 01 10.md",
+    "Appunti Z/fisica/fisica 29 09.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 01 10.md",
+    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
+    "Appunti Z/Excalidraw/Drawing 2026-10-03 14.31.37.excalidraw.md",
+    "Appunti Z/fisica/tutoring 02 10.md",
+    "Appunti Z/esercizzi",
+    "Appunti Z/analisi matematica/analisi matematica 30 09.md",
+    "Appunti Z/analisi matematica/analisi matematica 29 09.md",
+    "Appunti Z/analisi matematica/analisi matematica 28 09.md",
+    "fisica/lezione 29 09.md",
+    "Appunti Z/analisi matematica/analisi matematica 01 10.md",
+    "Appunti Z/analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
+    "Senza nome.base",
+    "analisi matematica/pdf/Non confermato 196735.crdownload",
+    "Appunti Z/analisi matematica/pdf",
+    "analisi matematica/Nuova cartella",
+    "Recording 20261001082628.m4a",
+    "fondamenti di programmazione/Drawing 2026-10-01 18.04.43.excalidraw.md",
+    "Appunti Z/Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
+    "Appunti Z/Excalidraw",
     "readme",
-    "img/insiemi e sottoinsiemi di C.png",
-    "img",
-    "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
-    "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "fondamenti di programmazione",
-    "fisica/fisica 29 09.md",
-    "fisica/tutoring 02 10.md",
-    "fisica/fisica 02 10.md",
-    "fisica/FIsica 01 10.md",
-    "fisica",
-    "esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
-    "esercizzi",
-    "analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
-    "analisi matematica/pdf",
-    "analisi matematica/analisi matematica 28 09.md",
-    "analisi matematica/analisi matematica 30 09.md",
-    "analisi matematica/analisi matematica 29 09.md",
-    "analisi matematica/analisi matematica 01 10.md",
-    "analisi matematica",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
+    "Excalidraw/massim barbaro.md",
+    "math 1.md",
     "Benvenuto.md"
   ]
 }
