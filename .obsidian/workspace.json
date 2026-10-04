@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "950c390398b0bf65",
+        "id": "975c916389f0ff94",
         "type": "tabs",
         "children": [
           {
-            "id": "a3897aad6aa13eca",
+            "id": "f0aff9ca0da6d3e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-03 14.31.47.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -175,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3897aad6aa13eca",
+  "active": "f0aff9ca0da6d3e7",
   "lastOpenFiles": [
-    "Appunti Emanuel/Senza nome.md",
     "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
+    "Appunti Emanuel/Senza nome.md",
     "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
     "Appunti Z/analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
     "Appunti Z/analisi matematica/analisi matematica 01 10.md",
