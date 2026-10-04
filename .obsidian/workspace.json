@@ -11,12 +11,14 @@
             "id": "f0aff9ca0da6d3e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md"
+                "file": "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "criteri di invertibilità e restrizione del dominio"
+              "icon": "lucide-file",
+              "title": "fondamenti di programmazione 30 09"
             }
           }
         ]
@@ -172,11 +174,14 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
       "audio-recorder:Avvia/ferma registrazione": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
   "active": "f0aff9ca0da6d3e7",
   "lastOpenFiles": [
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 01 10.md",
+    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
     "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Emanuel/Senza nome.md",
     "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
@@ -191,8 +196,6 @@
     "Appunti Z/fisica/FIsica 01 10.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 01 10.md",
-    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
     "Appunti Z/Excalidraw/Drawing 2026-10-03 14.31.37.excalidraw.md",
     "Appunti Z/fisica/tutoring 02 10.md",
     "Appunti Z/esercizzi",

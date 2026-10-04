@@ -3,5 +3,7 @@
   "obsidian-git",
   "obsidian-latex-suite",
   "omnisearch",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "runnable-code-blocks",
+  "obisidian-note-linker"
 ]
