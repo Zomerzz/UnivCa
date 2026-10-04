@@ -11,10 +11,12 @@
             "id": "a3897aad6aa13eca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-03 14.31.47.excalidraw"
             }
           }
         ]
@@ -175,12 +177,12 @@
   },
   "active": "a3897aad6aa13eca",
   "lastOpenFiles": [
+    "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
     "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
     "Appunti Z/analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
     "Appunti Z/analisi matematica/analisi matematica 01 10.md",
     "Appunti Z/analisi matematica/analisi matematica 29 09.md",
     "Appunti Z/analisi matematica/analisi matematica 30 09.md",
-    "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
     "Appunti Emanuel/Senza nome.md",
     "Appunti Emanuel/desktop.ini",
     "Appunti Emanuel",
