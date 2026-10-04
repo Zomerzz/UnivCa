@@ -78,6 +78,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "7bf919d9eafed810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db2fae934d9ed629",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +205,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "305ed12640afeef0",
+  "active": "71ab372761ec5b9e",
   "lastOpenFiles": [
     "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
     "Appunti Emanuel/desktop.ini",
