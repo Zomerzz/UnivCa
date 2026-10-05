@@ -32,6 +32,18 @@
               "icon": "lucide-file",
               "title": "fondamenti di programmazione 01 10"
             }
+          },
+          {
+            "id": "5965356d559d0187",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw"
+            }
           }
         ],
         "currentTab": 1
@@ -192,8 +204,10 @@
   },
   "active": "a11369872320df5c",
   "lastOpenFiles": [
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 01 10.md",
+    "Excalidraw",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
     "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
     "Appunti Emanuel/Limiti di funzioni.md",
     "Appunti Z/analisi matematica/analisi matematica 05 10.md",
@@ -220,7 +234,6 @@
     "Appunti Z/Excalidraw",
     "Appunti Z/analisi matematica",
     "Appunti Z",
-    "Appunti Emanuel/desktop.ini",
     "fisica/fisica 29 09.md",
     "fisica/tutoring 02 10.md",
     "fisica/FIsica 01 10.md",
@@ -228,7 +241,6 @@
     "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
     "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
     "Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
-    "fondamenti di programmazione/Drawing 2026-10-01 18.04.43.excalidraw.md",
     "img/insiemi e sottoinsiemi di C.png"
   ]
 }
