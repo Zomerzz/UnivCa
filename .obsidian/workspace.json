@@ -71,8 +71,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-bookmark",
-              "title": "Segnalibri"
+              "icon": "lucide-ghost",
+              "title": "bookmarks"
             }
           }
         ]
@@ -132,8 +132,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
             }
           },
           {
@@ -171,7 +171,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,11 +188,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selettore rapido": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota giornaliera": false,
-      "templates:Inserisci modello": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
       "obsidian-git:Open Git source control": false,
