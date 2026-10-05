@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "10500c7e187f0be3",
+        "id": "71e174f79a3a46bb",
         "type": "tabs",
         "children": [
           {
-            "id": "a6e85d750ba0dc0a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/analisi matematica 28 09.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 28 09"
-            }
-          },
-          {
-            "id": "a11369872320df5c",
+            "id": "0eb1449fbbf70cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 01 10.md",
+                "file": "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fondamenti di programmazione 01 10"
-            }
-          },
-          {
-            "id": "5965356d559d0187",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw"
+              "title": "fondamenti di programmazione 05 10"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,16 +177,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a11369872320df5c",
+  "active": "0eb1449fbbf70cb2",
   "lastOpenFiles": [
-    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 01 10.md",
-    "Excalidraw",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
     "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "Appunti Emanuel/Limiti di funzioni.md",
-    "Appunti Z/analisi matematica/analisi matematica 05 10.md",
     "Appunti Z/analisi matematica/analisi matematica 28 09.md",
+    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
+    "Appunti Z/analisi matematica/analisi matematica 05 10.md",
+    "Appunti Z/analisi matematica/pdf/lezione 05 10.pdf",
+    "Appunti Z/analisi matematica/pdf/Non confermato 600702.crdownload",
+    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
+    "Appunti Emanuel/matematica",
+    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
+    "Appunti Emanuel/fondamenti programmazione",
+    "Excalidraw",
+    "Appunti Emanuel/Limiti di funzioni.md",
     "Appunti Z/analisi matematica/analisi matematica 30 09.md",
     "Appunti Z/analisi matematica/analisi matematica 29 09.md",
     "Appunti Z/fisica/fisica 29 09.md",
@@ -230,17 +212,9 @@
     "Appunti Z/analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
     "Appunti Z/Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
     "Appunti Z/Excalidraw/Drawing 2026-10-03 14.31.37.excalidraw.md",
-    "Appunti Z/analisi matematica/pdf",
-    "Appunti Z/Excalidraw",
-    "Appunti Z/analisi matematica",
-    "Appunti Z",
     "fisica/fisica 29 09.md",
     "fisica/tutoring 02 10.md",
     "fisica/FIsica 01 10.md",
-    "fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "fondamenti di programmazione/fondamenti di programmazione 01 10.md",
-    "fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
     "img/insiemi e sottoinsiemi di C.png"
   ]
 }
