@@ -14,9 +14,11 @@ int main (void)
 	int x =0;
 	double y =0;
 	float z =0;
+	char a ='a';
 	printf("dim integer: %zu", sizeof(x)*8);
 	printf("dim double: %zu", sizeof(y)*8);
 	printf("dim float: %zu", sizeof(z)*8); 
+	printf("dim char: %zu", sizeof(a)*8); 
 	return 0;
 }
 ```
