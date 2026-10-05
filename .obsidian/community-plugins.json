@@ -1,10 +1,10 @@
 [
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-latex-suite",
   "omnisearch",
   "obsidian-style-settings",
   "runnable-code-blocks",
   "obisidian-note-linker",
-  "excalidraw-extras"
+  "excalidraw-extras",
+  "obsidian-excalidraw-plugin"
 ]
