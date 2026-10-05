@@ -4,24 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "71e174f79a3a46bb",
+        "id": "84b2c928561d1869",
         "type": "tabs",
         "children": [
           {
-            "id": "0eb1449fbbf70cb2",
+            "id": "305ed12640afeef0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
-                "mode": "source",
-                "source": false
+                "file": "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md"
               },
-              "icon": "lucide-file",
-              "title": "fondamenti di programmazione 05 10"
+              "icon": "excalidraw-icon",
+              "title": "criteri di invertibilità e restrizione del dominio"
+            }
+          },
+          {
+            "id": "0bd9d515d31e499e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Limiti di funzioni 05-10-2026"
+            }
+          },
+          {
+            "id": "fd6ed8263d593bbb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "variabili e tipi Ram 05-10-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,37 +236,42 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0eb1449fbbf70cb2",
+  "active": "fd6ed8263d593bbb",
   "lastOpenFiles": [
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
-    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "Appunti Z/analisi matematica/analisi matematica 28 09.md",
-    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
-    "Appunti Z/analisi matematica/analisi matematica 05 10.md",
     "Appunti Z/analisi matematica/pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/pdf/Non confermato 600702.crdownload",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
-    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
-    "Appunti Emanuel/matematica",
-    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-    "Appunti Emanuel/fondamenti programmazione",
+    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
     "Excalidraw",
-    "Appunti Emanuel/Limiti di funzioni.md",
-    "Appunti Z/analisi matematica/analisi matematica 30 09.md",
-    "Appunti Z/analisi matematica/analisi matematica 29 09.md",
+    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
+    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
+    "Appunti Emanuel/fondamenti programmazione/Variabili e tipi Ram 05-10-2026.md",
+    "Appunti Emanuel/fondamenti programmazione",
+    "Appunti Emanuel/matematica",
+    "Appunti Z/analisi matematica/analisi matematica 05 10.md",
+    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
+    "Appunti Emanuel/desktop.ini",
+    "readme",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
+    "Appunti Z/img",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 01 10.md",
+    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
+    "Appunti Z/fondamenti di programmazione",
+    "Appunti Z/fisica/tutoring 02 10.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/fisica/fisica 02 10.md",
     "Appunti Z/fisica/FIsica 01 10.md",
     "Appunti Z/fisica",
     "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
     "Appunti Z/esercizzi",
-    "Appunti Z/analisi matematica/pdf/LEZIONE_01-10-2026.pdf",
     "Appunti Z/Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
     "Appunti Z/Excalidraw/Drawing 2026-10-03 14.31.37.excalidraw.md",
-    "fisica/fisica 29 09.md",
-    "fisica/tutoring 02 10.md",
-    "fisica/FIsica 01 10.md",
-    "img/insiemi e sottoinsiemi di C.png"
+    "Appunti Z/analisi matematica/analisi matematica 30 09.md",
+    "Appunti Z/analisi matematica/analisi matematica 29 09.md",
+    "Appunti Z/analisi matematica/analisi matematica 01 10.md",
+    "Appunti Z/analisi matematica/analisi matematica 28 09.md",
+    "Appunti Emanuel/Senza nome.md",
+    "Benvenuto.md"
   ]
 }
