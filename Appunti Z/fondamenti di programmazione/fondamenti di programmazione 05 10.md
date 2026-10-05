@@ -22,3 +22,9 @@ int main (void)
 	return 0;
 }
 ```
+
+domanda semplice che molti sbagliano
+differenza tra
+- print(x) // valore di x
+- print(&x) // indirizzo di memoria del range di variabile di x
+L'operatore & ( indirizzo di:) mostra il singolo indirizzo della variabile non il suo contenuto
