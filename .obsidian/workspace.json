@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71e174f79a3a46bb",
+        "id": "b71a212edeb8e8d2",
         "type": "tabs",
         "children": [
           {
-            "id": "0eb1449fbbf70cb2",
+            "id": "fcf273f91c42e3fb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-                "bFile": "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: variabili e tipi Ram 05-10-2026  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -177,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eb1449fbbf70cb2",
+  "active": "63b486af163b355e",
   "lastOpenFiles": [
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
     "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
