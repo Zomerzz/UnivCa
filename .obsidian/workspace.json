@@ -1,22 +1,22 @@
 {
   "main": {
-    "id": "05eb52fc399ede86",
+    "id": "b9c29c689b528b71",
     "type": "split",
     "children": [
       {
-        "id": "84b2c928561d1869",
+        "id": "b71a212edeb8e8d2",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6ed8263d593bbb",
+            "id": "fcf273f91c42e3fb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md"
+                "file": "Appunti Z/analisi matematica/analisi matematica 28 09.md"
               },
               "icon": "excalidraw-icon",
-              "title": "variabili e tipi Ram 05-10-2026"
+              "title": "analisi matematica 28 09"
             }
           }
         ]
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "64f06ff10bfe6fa8",
+    "id": "f90a925bddf11987",
     "type": "split",
     "children": [
       {
-        "id": "d44358f82a1593d0",
+        "id": "8a0740bb57972b90",
         "type": "tabs",
         "children": [
           {
-            "id": "71ab372761ec5b9e",
+            "id": "38f4c57ea908ae9c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "0a9c40a89922f832",
+            "id": "fd6ba17a0989dc5c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,28 +63,15 @@
               "icon": "lucide-search",
               "title": "Ricerca"
             }
-          },
-          {
-            "id": "579e576f231a10d5",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "bookmarks"
-            }
           }
         ]
       },
       {
-        "id": "7bf919d9eafed810",
+        "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
         "children": [
           {
-            "id": "db2fae934d9ed629",
+            "id": "63b486af163b355e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -97,22 +84,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.3000183105469
+    "width": 321.4291229248047
   },
   "right": {
-    "id": "59124d8b9f7ddea6",
+    "id": "1338e7bce472a31c",
     "type": "split",
     "children": [
       {
-        "id": "1ce4daffd6bd986a",
+        "id": "36e1b3e7bd833c93",
         "type": "tabs",
         "children": [
           {
-            "id": "64490c3f27020ad7",
+            "id": "5a68f68b7b397515",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "analisi matematica/analisi 30 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,20 +114,22 @@
             }
           },
           {
-            "id": "bbdfb5f74c98e0fc",
+            "id": "4c470b95bf132a9e",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "analisi matematica/analisi 30 09.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-ghost",
-              "title": "outgoing-link"
+              "icon": "lucide-list",
+              "title": "Struttura"
             }
           },
           {
-            "id": "131a9e590af71457",
+            "id": "c74e35042fa5e00f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,7 +144,7 @@
             }
           },
           {
-            "id": "033c6604aa4fa72e",
+            "id": "970f1414292fceed",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,76 +156,63 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
-          },
-          {
-            "id": "f432ad552e0516d0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Struttura"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 209.6951904296875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Avvia/ferma registrazione": false,
-      "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd6ed8263d593bbb",
+  "active": "fcf273f91c42e3fb",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
-    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Z/analisi matematica/analisi matematica 30 09.md",
+    "Appunti Z/analisi matematica/analisi matematica 29 09.md",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
-    "Appunti Z/analisi matematica/pdf/lezione 05 10.pdf",
-    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
-    "Excalidraw",
-    "Appunti Emanuel/fondamenti programmazione/Variabili e tipi Ram 05-10-2026.md",
-    "Appunti Emanuel/fondamenti programmazione",
-    "Appunti Emanuel/matematica",
-    "Appunti Z/analisi matematica/analisi matematica 05 10.md",
-    "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
-    "Appunti Emanuel/desktop.ini",
-    "readme",
-    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
-    "Appunti Z/img",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 01 10.md",
     "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "Appunti Z/fondamenti di programmazione",
-    "Appunti Z/fisica/tutoring 02 10.md",
+    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
+    "Appunti Z/analisi matematica/pdf/jdk-21.0.12_windows-x64_bin.exe",
+    "Appunti Z/analisi matematica/pdf/Non confermato 303751.crdownload",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Appunti Z/analisi matematica/analisi matematica 28 09.md",
+    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
+    "Appunti Z/analisi matematica/analisi matematica 05 10.md",
+    "Appunti Z/analisi matematica/pdf/lezione 05 10.pdf",
+    "Appunti Z/analisi matematica/pdf/Non confermato 600702.crdownload",
+    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
+    "Appunti Emanuel/matematica",
+    "Appunti Emanuel/fondamenti programmazione",
+    "Excalidraw",
+    "Appunti Emanuel/Limiti di funzioni.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/fisica/fisica 02 10.md",
     "Appunti Z/fisica/FIsica 01 10.md",
+    "Appunti Z/analisi matematica/analisi matematica 01 10.md",
+    "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
+    "Appunti Z/img",
+    "Appunti Z/fondamenti di programmazione",
+    "fisica/fisica 02 10.md",
+    "Appunti Z/fisica/tutoring 02 10.md",
     "Appunti Z/fisica",
     "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
-    "Appunti Z/esercizzi",
     "Appunti Z/Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
     "Appunti Z/Excalidraw/Drawing 2026-10-03 14.31.37.excalidraw.md",
-    "Appunti Z/analisi matematica/analisi matematica 30 09.md",
-    "Appunti Z/analisi matematica/analisi matematica 29 09.md",
-    "Appunti Z/analisi matematica/analisi matematica 01 10.md",
-    "Appunti Z/analisi matematica/analisi matematica 28 09.md",
-    "Appunti Emanuel/Senza nome.md",
-    "Benvenuto.md"
+    "fisica/fisica 29 09.md",
+    "fisica/tutoring 02 10.md",
+    "fisica/FIsica 01 10.md",
+    "img/insiemi e sottoinsiemi di C.png"
   ]
 }
