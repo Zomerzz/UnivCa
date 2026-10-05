@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "analisi matematica 28 09"
             }
+          },
+          {
+            "id": "a11369872320df5c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/analisi matematica 05 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 05 10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,14 +188,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6e85d750ba0dc0a",
+  "active": "a11369872320df5c",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/analisi matematica 28 09.md",
+    "Appunti Z/analisi matematica/analisi matematica 05 10.md",
     "Appunti Z/analisi matematica/analisi matematica 30 09.md",
     "Appunti Z/analisi matematica/analisi matematica 29 09.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/fisica/fisica 02 10.md",
     "Appunti Z/fisica/FIsica 01 10.md",
-    "Appunti Z/analisi matematica/analisi matematica 28 09.md",
     "Appunti Z/analisi matematica/analisi matematica 01 10.md",
     "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Z/img/insiemi e sottoinsiemi di C.png",
