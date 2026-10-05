@@ -194,9 +194,19 @@
               "icon": "lucide-list",
               "title": "Struttura"
             }
+          },
+          {
+            "id": "b59b16f5901126da",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -216,9 +226,9 @@
   },
   "active": "0bd9d515d31e499e",
   "lastOpenFiles": [
+    "Appunti Emanuel/Limiti di funzioni.md",
     "Appunti Z/analisi matematica/analisi matematica 05 10.md",
     "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md",
-    "Appunti Emanuel/Limiti di funzioni.md",
     "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
     "Appunti Emanuel/desktop.ini",
     "readme",
