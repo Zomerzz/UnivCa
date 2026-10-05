@@ -11,13 +11,28 @@
             "id": "305ed12640afeef0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "criteri di invertibilità e restrizione del dominio"
+            }
+          },
+          {
+            "id": "0bd9d515d31e499e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Limiti di funzioni.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Limiti di funzioni"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,6 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Appunti Emanuel/Limiti di funzioni.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.4000244140625
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +214,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db2fae934d9ed629",
+  "active": "0bd9d515d31e499e",
   "lastOpenFiles": [
     "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Emanuel/Limiti di funzioni.md",
     "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
     "Appunti Emanuel/desktop.ini",
     "readme",
