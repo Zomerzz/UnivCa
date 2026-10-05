@@ -59,7 +59,7 @@ cos(x) ^iiEObpTH
 arccos (x) ^eIYhdNZh
 
 ## Element Links
-XcLTuByk: [[LEZIONE_01-10-2026.pdf]]
+XcLTuByk: [[lezione 1 10.pdf]]
 
 %%
 ## Drawing
