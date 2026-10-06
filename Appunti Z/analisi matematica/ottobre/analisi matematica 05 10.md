@@ -102,6 +102,18 @@ f2764252facfdd8c6870c2298fd81b11dae352e5: $$+\infty \cdot \infty = +\infty$$
 
 5fe0cb7ddb7e70450ce2b9626068b2388b0874cf: $$\frac{a}{0} = \infty \to a \ne 0$$
 
+dd1c4fa6f558c4979fe6cd8ac0178a446040c43e: $$\frac{0}{0}$$
+
+28b9a9182b20e7b0b1e47dd0f8eb25634fc8a4b7: $$\frac{\infty}{\infty}$$
+
+bbcfccfa227388a3115a58ccb2ff8cd499090265: $$0 \cdot \infty$$
+
+28d189717f0dbd91cca220ed25049b0a705e49cd: $$+\infty -\infty$$
+
+9e2bd1597cde0f788ff08e189160111ef55cc33a: $$o^0$$
+
+59f98687493939f62d90003c9240d78b97f93f94: $$1 ^\infty$$
+
 %%
 ## Drawing
 ```compressed-json
