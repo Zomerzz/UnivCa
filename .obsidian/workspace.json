@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "analisi matematica 06 10"
             }
+          },
+          {
+            "id": "0d247907f189bd01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/ottobre/tutoring ale.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "tutoring ale"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,9 +189,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "8fc832da9157c641",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
     "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
+    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
+    "Appunti Z/fisica/Fisica 06 10.md",
+    "Appunti Z/fisica/fisica 02 10.md",
     "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
     "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
     "Recording 20261006092612.m4a",
@@ -187,7 +203,6 @@
     "Appunti Emanuel/matematica/Drawing 2026-10-06 15.05.52.excalidraw.md",
     "Appunti Z/analisi matematica/analisi matematica 05 10.md",
     "Recording 20261006092629.m4a",
-    "Appunti Z/fisica/Fisica 06 10.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 28 09.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
@@ -213,7 +228,6 @@
     "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
     "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Emanuel/Senza nome.md",
-    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
     "Appunti Z/img/insiemi e sottoinsiemi di C.png"
   ]
 }
