@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md"
+                "file": "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md"
               },
               "icon": "excalidraw-icon",
               "title": "variabili e tipi Ram 05-10-2026"
@@ -32,15 +32,15 @@
             }
           },
           {
-            "id": "b1a2f1cfc12128a5",
+            "id": "e46a955a4f25f7fb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md"
+                "file": "Appunti Emanuel/matematica/Drawing 2026-10-06 15.05.52.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "analisi matematica 06 10"
+              "title": "Drawing 2026-10-06 15.05.52.excalidraw"
             }
           }
         ],
@@ -225,41 +225,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "e46a955a4f25f7fb",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/ottobre",
-    "Appunti Z/analisi matematica/settembre",
-    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
-    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-    "Appunti Z/fisica/Fisica 06 10.md",
-    "Recording 20261006092629.m4a",
-    "Recording 20261006092612.m4a",
-    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Appunti Emanuel/Fisica",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
+    "Appunti Z/analisi matematica/settembre/analisi matematica 28 09.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 28 09.md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
-    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "Appunti Z/analisi matematica/pdf/jdk-21.0.12_windows-x64_bin.exe",
-    "Appunti Z/analisi matematica/pdf/Non confermato 303751.crdownload",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
+    "Appunti Z/analisi matematica/settembre",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 05 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
+    "Appunti Z/analisi matematica/ottobre",
+    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/pdf/Non confermato 600702.crdownload",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Z/analisi matematica/--pdf",
+    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
+    "Appunti Emanuel/matematica/Drawing 2026-10-06 15.05.52.excalidraw.md",
+    "Appunti Emanuel/matematica/matematica 06-10-2026.md",
+    "Recording 20261006092629.m4a",
+    "Recording 20261006092612.m4a",
+    "Appunti Z/fisica/Fisica 06 10.md",
+    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
+    "Appunti Emanuel/Fisica",
+    "Senza nome",
+    "Appunti Z/analisi matematica/pdf/lezione 1 10.pdf",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
-    "Appunti Emanuel/matematica",
-    "Appunti Emanuel/Limiti di funzioni.md",
+    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
+    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
+    "Appunti Emanuel/fondamenti programmazione/Variabili e tipi Ram 05-10-2026.md",
+    "Appunti Z/analisi matematica/analisi matematica 05 10.md",
+    "Appunti Emanuel/Drawing 2026-10-03 14.31.47.excalidraw.md",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 01 10.md",
+    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
+    "Appunti Z/fisica/tutoring 02 10.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/fisica/fisica 02 10.md",
     "Appunti Z/fisica/FIsica 01 10.md",
-    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
-    "Appunti Z/Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
-    "Appunti Z/Excalidraw/Drawing 2026-10-03 14.31.37.excalidraw.md",
-    "img/insiemi e sottoinsiemi di C.png"
+    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md"
   ]
 }
