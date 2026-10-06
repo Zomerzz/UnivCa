@@ -181,13 +181,23 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
+          },
+          {
+            "id": "a348a6cb82777b84",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 209.6951904296875,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -200,12 +210,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "b1a2f1cfc12128a5",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 05 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
+    "Pasted Image 20261006151613_345.png",
     "Appunti Z/analisi matematica/ottobre",
     "Appunti Z/analisi matematica/settembre",
     "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
     "Appunti Z/fisica/Fisica 06 10.md",
     "Recording 20261006092629.m4a",
@@ -222,12 +234,10 @@
     "Appunti Z/analisi matematica/pdf/Non confermato 303751.crdownload",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
     "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 05 10.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/pdf/Non confermato 600702.crdownload",
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
-    "Appunti Emanuel/matematica",
     "Appunti Emanuel/Limiti di funzioni.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/fisica/fisica 02 10.md",
