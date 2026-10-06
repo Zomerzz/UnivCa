@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "analisi matematica 05 10"
             }
+          },
+          {
+            "id": "b105c91e6f98456c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Note di rilascio 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +189,7 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "8fc832da9157c641",
+  "active": "4870d79ec13d6938",
   "lastOpenFiles": [
     "Appunti Z/analisi matematica/analisi matematica 28 09.md",
     "Appunti Z/analisi matematica/analisi matematica 29 09.md",
