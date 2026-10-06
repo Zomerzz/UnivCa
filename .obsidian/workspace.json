@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8c4b98aef6587156",
+        "id": "b71a212edeb8e8d2",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc832da9157c641",
+            "id": "fcf273f91c42e3fb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 01 10"
+            }
+          },
+          {
+            "id": "0c5efc8ab16a0dd2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/Fisica 06-10-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Fisica 06-10-2026"
+            }
+          },
+          {
+            "id": "b1a2f1cfc12128a5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -19,7 +43,8 @@
               "title": "analisi matematica 06 10"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -156,64 +181,75 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
+          },
+          {
+            "id": "a348a6cb82777b84",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 209.6951904296875,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
       "audio-recorder:Avvia/ferma registrazione": false,
-      "obsidian-git:Open Git source control": false,
-      "obisidian-note-linker:Note Linker": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fc832da9157c641",
+  "active": "b1a2f1cfc12128a5",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
-    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
-    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-    "Recording 20261006092612.m4a",
-    "Pasted Image 20261006151613_345.png",
-    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
     "Appunti Emanuel/matematica/Drawing 2026-10-06 15.05.52.excalidraw.md",
-    "Appunti Z/analisi matematica/analisi matematica 05 10.md",
-    "Recording 20261006092629.m4a",
-    "Appunti Z/fisica/Fisica 06 10.md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 28 09.md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
-    "Appunti Z/analisi matematica/settembre",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 05 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
+    "Pasted Image 20261006151613_345.png",
     "Appunti Z/analisi matematica/ottobre",
-    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/--pdf",
+    "Appunti Z/analisi matematica/settembre",
     "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
+    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
+    "Appunti Z/fisica/Fisica 06 10.md",
+    "Recording 20261006092629.m4a",
+    "Recording 20261006092612.m4a",
+    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Emanuel/Fisica",
-    "Appunti Z/analisi matematica/analisi matematica 28 09.md",
-    "Appunti Z/analisi matematica/analisi matematica 29 09.md",
-    "Appunti Z/analisi matematica/analisi matematica 30 09.md",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
-    "Appunti Z/analisi matematica/pdf/lezione 1 10.pdf",
-    "Appunti Z/analisi matematica/pdf/lezione 05 10.pdf",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
+    "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
+    "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
+    "Appunti Z/analisi matematica/settembre/analisi matematica 28 09.md",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
-    "Appunti Z/analisi matematica/analisi matematica 01 10.md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 01 10.md",
     "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
+    "Appunti Z/analisi matematica/pdf/jdk-21.0.12_windows-x64_bin.exe",
+    "Appunti Z/analisi matematica/pdf/Non confermato 303751.crdownload",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/analisi matematica/pdf/Non confermato 600702.crdownload",
+    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
+    "Appunti Emanuel/Limiti di funzioni.md",
+    "Appunti Z/fisica/fisica 29 09.md",
+    "Appunti Z/fisica/fisica 02 10.md",
+    "Appunti Z/fisica/FIsica 01 10.md",
     "Appunti Emanuel/criteri di invertibilità e restrizione del dominio.md",
-    "Appunti Emanuel/Senza nome.md",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
+    "fisica/fisica 02 10.md",
+    "Appunti Z/fisica/tutoring 02 10.md",
     "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
-    "Appunti Z/img/insiemi e sottoinsiemi di C.png"
+    "Appunti Z/Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
+    "Appunti Z/Excalidraw/Drawing 2026-10-03 14.31.37.excalidraw.md",
+    "img/insiemi e sottoinsiemi di C.png"
   ]
 }
