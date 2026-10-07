@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "analisi matematica 06 10"
             }
+          },
+          {
+            "id": "76097191ab54c154",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 07 10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,13 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d46a40b016baa6d2",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
     "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
     "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Appunti Emanuel/matematica/Drawing 2026-10-06 15.05.52.excalidraw.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 05 10.md",
     "Pasted Image 20261006151613_345.png",
@@ -225,7 +239,6 @@
     "Appunti Z/img/insiemi e sottoinsiemi di C.png",
     "fisica/fisica 02 10.md",
     "Appunti Z/fisica/tutoring 02 10.md",
-    "Appunti Z/Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
     "img/insiemi e sottoinsiemi di C.png"
   ]
 }
