@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0552e3d15d57eb60",
+        "id": "67c427e2a8b55aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "f868f3ffce9ce224",
+            "id": "d46a40b016baa6d2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.87562561035156
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -156,24 +156,34 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
+          },
+          {
+            "id": "a348a6cb82777b84",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 209.6951904296875,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
       "audio-recorder:Avvia/ferma registrazione": false,
-      "obsidian-git:Open Git source control": false,
-      "obisidian-note-linker:Note Linker": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f868f3ffce9ce224",
