@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "67c427e2a8b55aa2",
+        "id": "c1bce1dbf17ad86d",
         "type": "tabs",
         "children": [
           {
-            "id": "d46a40b016baa6d2",
+            "id": "e6676d435cdcdc38",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 06 10"
-            }
-          },
-          {
-            "id": "76097191ab54c154",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 07 10"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76097191ab54c154",
+  "active": "e6676d435cdcdc38",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
+    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
     "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
