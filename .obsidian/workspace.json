@@ -23,6 +23,18 @@
             "id": "3642a35510e316d7",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+            }
+          },
+          {
+            "id": "7af5bd4e888960c4",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Appunti Emanuel/Fisica/Fisica 06-10-2026.md"
