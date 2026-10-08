@@ -23,18 +23,6 @@
             "id": "3642a35510e316d7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
-            }
-          },
-          {
-            "id": "7af5bd4e888960c4",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Appunti Emanuel/Fisica/Fisica 06-10-2026.md"
@@ -237,8 +225,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "11f014e5bd4f431f",
   "lastOpenFiles": [
+    "Appunti Z/fondamenti di programmazione/pdf/intro_C.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf/input outpu.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf/decisionali.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
     "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
@@ -266,17 +259,12 @@
     "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
     "Recording 20261006092612.m4a",
     "Pasted Image 20261006151613_345.png",
-    "Appunti Z/analisi matematica/analisi matematica 05 10.md",
     "Recording 20261006092629.m4a",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
     "Appunti Z/analisi matematica/settembre",
     "Appunti Z/analisi matematica/ottobre",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf",
-    "Appunti Emanuel/Fisica",
-    "Appunti Z/analisi matematica/pdf/lezione 1 10.pdf",
-    "Appunti Z/analisi matematica/pdf/lezione 05 10.pdf",
     "Appunti Z/img/insiemi e sottoinsiemi di C.png"
   ]
 }
