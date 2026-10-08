@@ -225,7 +225,44 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "11f014e5bd4f431f",
+  "floating": {
+    "id": "9ce355f9be1c6fbd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e5557c6fa4b86808",
+        "type": "window",
+        "children": [
+          {
+            "id": "de7afae325f6c232",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8fc832da9157c641",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -2600,
+        "y": 246,
+        "width": 1664,
+        "height": 1032,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "ba01e9b8ea225e79",
   "lastOpenFiles": [
     "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md",
