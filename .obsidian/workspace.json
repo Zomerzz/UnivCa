@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "3f3b2b406b08f20b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
-            }
-          },
-          {
             "id": "7af5bd4e888960c4",
             "type": "leaf",
             "state": {
@@ -223,10 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f3b2b406b08f20b",
+  "active": "7af5bd4e888960c4",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/fisica/Fisica 06 10.md",
     "Appunti Z/fisica/fisica 02 10.md",
