@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8c4b98aef6587156",
+        "id": "0f1c2330134edc8d",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc832da9157c641",
+            "id": "2bc1eaf8d2a10105",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-                "mode": "source",
-                "source": false
+                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
               },
-              "icon": "lucide-file",
-              "title": "fondamenti di programmazione 30 09"
+              "icon": "lucide-file-text",
+              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+            }
+          },
+          {
+            "id": "ba01e9b8ea225e79",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/Lavagna esercizzi.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lavagna esercizzi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +189,54 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "8fc832da9157c641",
+  "floating": {
+    "id": "9ce355f9be1c6fbd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e5557c6fa4b86808",
+        "type": "window",
+        "children": [
+          {
+            "id": "de7afae325f6c232",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8fc832da9157c641",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -2600,
+        "y": 246,
+        "width": 1664,
+        "height": 1032,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "ba01e9b8ea225e79",
   "lastOpenFiles": [
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/fisica/Lavagna esercizzi.md",
+    "Appunti Z/fisica/Senza nome",
+    "Appunti Z/fisica/tutoring 02 10.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf.crswap",
+    "Appunti Z/fondamenti di programmazione/Drawing 2026-10-07 12.04.18.excalidraw.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Appunti Z/fisica/pdf",
+    "Appunti Z/fisica/Senza nome.md",
     "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/scanf 07-10-06.md",
@@ -187,8 +244,6 @@
     "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
     "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "Appunti Z/fisica/tutoring 02 10.md",
     "Appunti Z/fisica/Fisica 06 10.md",
     "Appunti Z/fisica/FIsica 01 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
@@ -206,17 +261,9 @@
     "Appunti Z/analisi matematica/settembre/analisi matematica 28 09.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
     "Appunti Z/analisi matematica/settembre",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 05 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
     "Appunti Z/analisi matematica/ottobre",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/--pdf",
-    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
-    "Appunti Emanuel/Fisica",
-    "Appunti Z/analisi matematica/analisi matematica 28 09.md",
-    "Appunti Z/analisi matematica/pdf/lezione 1 10.pdf",
-    "Appunti Z/analisi matematica/pdf/lezione 05 10.pdf",
     "Appunti Z/img/insiemi e sottoinsiemi di C.png"
   ]
 }
