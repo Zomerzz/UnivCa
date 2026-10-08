@@ -54,9 +54,21 @@
               "icon": "excalidraw-icon",
               "title": "fissica 2026-10-08 .excalidraw"
             }
+          },
+          {
+            "id": "11f014e5bd4f431f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "infinitesimi e infiniti 08-10-2026"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,11 +225,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "bd6f4c25f1a505c0",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md",
+    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/scanf 07-10-06.md",
-    "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md",
     "Pasted Image 20261008093716_696.png",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Emanuel/Fisica/fisica 08-10-2026.md",
@@ -244,7 +257,6 @@
     "Appunti Z/analisi matematica/analisi matematica 05 10.md",
     "Recording 20261006092629.m4a",
     "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 28 09.md",
     "Appunti Z/analisi matematica/settembre",
     "Appunti Z/analisi matematica/ottobre",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
