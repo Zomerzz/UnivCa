@@ -4,71 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0552e3d15d57eb60",
+        "id": "c1bce1dbf17ad86d",
         "type": "tabs",
         "children": [
           {
-            "id": "f868f3ffce9ce224",
+            "id": "e6676d435cdcdc38",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md"
+                "file": "Appunti Z/fisica/Fisica 06 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "limiti notevoli 07-10-2026"
+              "title": "Fisica 06 10"
             }
           },
           {
-            "id": "3642a35510e316d7",
+            "id": "65b7e3a65fbd3838",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/Fisica 06-10-2026.md"
+                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Fisica 06-10-2026"
-            }
-          },
-          {
-            "id": "c4a0909fd984e4b7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/scanf 07-10-06.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "scanf 07-10-06"
-            }
-          },
-          {
-            "id": "bd6f4c25f1a505c0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fissica 2026-10-08 .excalidraw"
-            }
-          },
-          {
-            "id": "11f014e5bd4f431f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "infinitesimi e infiniti 08-10-2026"
+              "title": "analisi matematica 08 10"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.87562561035156
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -205,66 +170,77 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
+          },
+          {
+            "id": "a348a6cb82777b84",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 209.6951904296875,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
       "audio-recorder:Avvia/ferma registrazione": false,
-      "obsidian-git:Open Git source control": false,
-      "obisidian-note-linker:Note Linker": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11f014e5bd4f431f",
+  "active": "7af5bd4e888960c4",
   "lastOpenFiles": [
-    "Appunti Z/fondamenti di programmazione/pdf/intro_C.pdf",
-    "Appunti Z/fondamenti di programmazione/pdf/input outpu.pdf",
-    "Appunti Z/fondamenti di programmazione/pdf/decisionali.pdf",
-    "Appunti Z/fondamenti di programmazione/pdf",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
-    "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
-    "Appunti Emanuel/fondamenti programmazione/scanf 07-10-06.md",
-    "Pasted Image 20261008093716_696.png",
-    "Appunti Z/fisica/fisica 08 10.md",
-    "Appunti Emanuel/Fisica/fisica 08-10-2026.md",
-    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
-    "Appunti Z/fondamenti di programmazione/Drawing 2026-10-07 12.04.18.excalidraw.md",
-    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
-    "Appunti Emanuel/matematica/Senza nome.md",
-    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/fisica/Fisica 06 10.md",
+    "Appunti Z/fisica/fisica 02 10.md",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
     "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "Appunti Z/fisica/tutoring 02 10.md",
-    "Appunti Z/fisica/Fisica 06 10.md",
+    "Appunti Z/fondamenti di programmazione/pdf/decisionali.pdf",
+    "Appunti Z/fisica/fisica 08 10.md",
+    "Appunti Z/fondamenti di programmazione/pdf/slide_2026_decisionali.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf/input outpu.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf/intro_C.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf/slide_2026_IO.pdf",
+    "Appunti Z/fisica/pdf",
+    "Appunti Z/fisica/Nuova cartella",
+    "Appunti Z/fondamenti di programmazione/pdf/slide_2026_intro_C.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf",
     "Appunti Z/fisica/FIsica 01 10.md",
-    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
-    "Appunti Z/fisica/fisica 02 10.md",
-    "Excalidraw/fondamenti di programmazione 01 10 2026-10-05 11.47.51.excalidraw.md",
     "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-    "Recording 20261006092612.m4a",
+    "Appunti Emanuel/fondamenti programmazione/scanf 07-10-06.md",
+    "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md",
+    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
+    "Pasted Image 20261008093716_696.png",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Appunti Z/fondamenti di programmazione/Drawing 2026-10-07 12.04.18.excalidraw.md",
+    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
+    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
+    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
+    "Appunti Emanuel/matematica/Drawing 2026-10-06 15.05.52.excalidraw.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 05 10.md",
     "Pasted Image 20261006151613_345.png",
-    "Recording 20261006092629.m4a",
-    "Appunti Z/analisi matematica/settembre",
-    "Appunti Z/analisi matematica/ottobre",
-    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/--pdf",
-    "Appunti Z/img/insiemi e sottoinsiemi di C.png"
+    "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
+    "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
+    "img/insiemi e sottoinsiemi di C.png"
   ]
 }
