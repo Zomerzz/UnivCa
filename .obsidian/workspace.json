@@ -49,10 +49,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md"
+                "file": "Appunti Emanuel/Fisica/moto circolare uniforme.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fissica 2026-10-08 .excalidraw"
+              "title": "moto circolare uniforme"
             }
           },
           {
@@ -66,9 +66,21 @@
               "icon": "excalidraw-icon",
               "title": "limiti notevoli 06-10-2026"
             }
+          },
+          {
+            "id": "e09ad4b2ee2755da",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/fisica 2026-09-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 2026-09-2026"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,12 +237,15 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "11f014e5bd4f431f",
+  "active": "e09ad4b2ee2755da",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
+    "Appunti Emanuel/Fisica/fisica 2026-09-2026.md",
+    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
+    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
+    "Pasted Image 20261008224258_004.png",
     "Pasted Image 20261008221059_150.png",
     "Appunti Z/fisica/Lavagna esercizzi.md",
-    "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md",
-    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
     "Appunti Z/fondamenti di programmazione/pdf/intro_C.pdf",
     "Appunti Z/fondamenti di programmazione/pdf/input outpu.pdf",
@@ -242,7 +257,6 @@
     "Pasted Image 20261008093716_696.png",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Emanuel/Fisica/fisica 08-10-2026.md",
-    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
     "Appunti Z/fondamenti di programmazione/Drawing 2026-10-07 12.04.18.excalidraw.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
