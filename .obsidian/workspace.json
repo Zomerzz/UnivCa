@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 08 10.md"
+                "file": "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 08 10"
+              "title": "limiti notevoli 07-10-2026"
             }
           },
           {
@@ -40,23 +40,47 @@
                 "file": "Appunti Emanuel/fondamenti programmazione/scanf 07-10-06.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Lavagna esercizzi"
+              "title": "scanf 07-10-06"
             }
           },
           {
-            "id": "f8f48f625be1fb3c",
+            "id": "bd6f4c25f1a505c0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 09 10.md"
+                "file": "Appunti Emanuel/Fisica/moto circolare uniforme.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 09 10"
+              "title": "moto circolare uniforme"
+            }
+          },
+          {
+            "id": "11f014e5bd4f431f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "limiti notevoli 06-10-2026"
+            }
+          },
+          {
+            "id": "e09ad4b2ee2755da",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "riepilogo circolare uniforme"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -213,8 +237,9 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f8f48f625be1fb3c",
+  "active": "e09ad4b2ee2755da",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 09 10.md",
     "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
     "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
@@ -228,36 +253,26 @@
     "Appunti Z/fondamenti di programmazione/pdf/decisionali.pdf",
     "Appunti Z/fondamenti di programmazione/pdf",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
-    "Pasted Image 20261008224258_004.png",
-    "Pasted Image 20261008093716_696.png",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
-    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
-    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
-    "Appunti Z/fisica/fisica 02 10.md",
+    "Appunti Emanuel/fondamenti programmazione/scanf 07-10-06.md",
+    "Pasted Image 20261008093716_696.png",
+    "Appunti Z/fisica/fisica 08 10.md",
+    "Appunti Emanuel/Fisica/fisica 08-10-2026.md",
+    "Appunti Z/fondamenti di programmazione/Drawing 2026-10-07 12.04.18.excalidraw.md",
+    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
+    "Appunti Emanuel/matematica/Senza nome.md",
+    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
     "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
-    "Appunti Z/fondamenti di programmazione/pdf/decisionali.pdf",
-    "Appunti Z/fondamenti di programmazione/pdf/slide_2026_decisionali.pdf",
-    "Appunti Z/fondamenti di programmazione/pdf/input outpu.pdf",
-    "Appunti Z/fondamenti di programmazione/pdf/intro_C.pdf",
-    "Appunti Z/fondamenti di programmazione/pdf/slide_2026_IO.pdf",
-    "Appunti Z/fisica/pdf",
-    "Appunti Z/fisica/Nuova cartella",
-    "Appunti Z/fondamenti di programmazione/pdf/slide_2026_intro_C.pdf",
-    "Appunti Z/fondamenti di programmazione/pdf",
+    "Appunti Z/fisica/tutoring 02 10.md",
+    "Appunti Z/fisica/Fisica 06 10.md",
     "Appunti Z/fisica/FIsica 01 10.md",
-    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-    "Appunti Emanuel/fondamenti programmazione/scanf 07-10-06.md",
-    "Appunti Emanuel/Fisica/fissica 2026-10-08 .excalidraw.md",
-    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
-    "Appunti Z/fondamenti di programmazione/Drawing 2026-10-07 12.04.18.excalidraw.md",
-    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
-    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
+    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
+    "Appunti Z/fisica/fisica 02 10.md",
+    "Recording 20261006092612.m4a",
     "Pasted Image 20261006151613_345.png",
     "Recording 20261006092629.m4a",
     "Appunti Z/analisi matematica/settembre",
