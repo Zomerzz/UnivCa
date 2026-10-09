@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1bce1dbf17ad86d",
+        "id": "0552e3d15d57eb60",
         "type": "tabs",
         "children": [
           {
-            "id": "e6676d435cdcdc38",
+            "id": "f868f3ffce9ce224",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "65b7e3a65fbd3838",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
-            }
-          },
-          {
-            "id": "7af5bd4e888960c4",
+            "id": "3642a35510e316d7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/Lavagna esercizzi.md"
+                "file": "Appunti Emanuel/Fisica/Fisica 06-10-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Fisica 06-10-2026"
+            }
+          },
+          {
+            "id": "c4a0909fd984e4b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/scanf 07-10-06.md"
               },
               "icon": "excalidraw-icon",
               "title": "scanf 07-10-06"
@@ -78,9 +78,21 @@
               "icon": "excalidraw-icon",
               "title": "riepilogo circolare uniforme"
             }
+          },
+          {
+            "id": "d0e7c896c4302ce8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/strutture di controllo iterative 09-10-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "strutture di controllo iterative 09-10-2026"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 374.87562561035156
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -217,49 +229,42 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
-          },
-          {
-            "id": "a348a6cb82777b84",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 209.6951904296875,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "audio-recorder:Avvia/ferma registrazione": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "omnisearch:Omnisearch": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "obsidian-git:Open Git source control": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "e09ad4b2ee2755da",
+  "active": "d0e7c896c4302ce8",
   "lastOpenFiles": [
-    "Appunti Z/fisica/fisica 09 10.md",
-    "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
-    "Appunti Z/fisica/fisica 08 10.md",
-    "Appunti Z/fisica/Fisica 06 10.md",
+    "Appunti Emanuel/fondamenti programmazione/strutture di controllo iterative 09-10-2026.md",
     "Appunti Z/fisica/fisica 09 10.md",
     "Appunti Z/fisica/Lavagna esercizzi.md",
-    "Pasted Image 20261008221059_150.png",
+    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
     "Appunti Emanuel/Fisica/moto circolare uniforme.md",
-    "Appunti Emanuel/Fisica/fisica 2026-09-2026.md",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
+    "Pasted Image 20261008224258_004.png",
+    "Pasted Image 20261008221059_150.png",
+    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
+    "Appunti Z/fondamenti di programmazione/pdf/intro_C.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf/input outpu.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf/decisionali.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
     "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/scanf 07-10-06.md",
@@ -279,10 +284,13 @@
     "Appunti Z/fisica/FIsica 01 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
-    "Appunti Z/fisica/fisica 02 10.md",
     "Recording 20261006092612.m4a",
     "Pasted Image 20261006151613_345.png",
-    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
-    "img/insiemi e sottoinsiemi di C.png"
+    "Recording 20261006092629.m4a",
+    "Appunti Z/analisi matematica/settembre",
+    "Appunti Z/analisi matematica/ottobre",
+    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png"
   ]
 }
