@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.87562561035156,
-    "collapsed": true
+    "width": 374.87562561035156
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -231,6 +230,8 @@
   "lastOpenFiles": [
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/Lavagna esercizzi.md",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/fisica/fisica 09 10.md",
     "Appunti Emanuel/fondamenti programmazione/strutture di controllo iterative 09-10-2026.md",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
@@ -265,8 +266,6 @@
     "Recording 20261006092629.m4a",
     "Appunti Z/analisi matematica/settembre",
     "Appunti Z/analisi matematica/ottobre",
-    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/img/insiemi e sottoinsiemi di C.png"
   ]
 }
