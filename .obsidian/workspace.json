@@ -11,12 +11,12 @@
             "id": "2bc1eaf8d2a10105",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+                "file": "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+              "icon": "excalidraw-icon",
+              "title": "Limiti di funzioni 05-10-2026"
             }
           }
         ]
@@ -167,14 +167,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
       "audio-recorder:Avvia/ferma registrazione": false,
       "omnisearch:Omnisearch": false,
-      "audio-recorder:Avvia/ferma registrazione": false,
-      "obsidian-git:Open Git source control": false,
-      "obisidian-note-linker:Note Linker": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -193,12 +192,10 @@
                 "id": "8fc832da9157c641",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Nuova scheda"
                 }
               }
             ]
@@ -207,8 +204,8 @@
         "direction": "vertical",
         "x": -2600,
         "y": 246,
-        "width": 1664,
-        "height": 1032,
+        "width": 1030,
+        "height": 804,
         "maximize": false,
         "zoom": -0.5
       }
@@ -216,6 +213,8 @@
   },
   "active": "2bc1eaf8d2a10105",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
+    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
     "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
@@ -247,8 +246,6 @@
     "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
     "Appunti Z/fisica/Fisica 06 10.md",
     "Appunti Z/fisica/FIsica 01 10.md",
-    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Recording 20261006092612.m4a",
     "Pasted Image 20261006151613_345.png",
     "Recording 20261006092629.m4a",

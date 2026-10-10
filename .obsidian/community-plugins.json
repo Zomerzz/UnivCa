@@ -1,9 +1,9 @@
 [
-  "obsidian-latex-suite",
   "omnisearch",
   "obsidian-style-settings",
   "obisidian-note-linker",
-  "excalidraw-extras",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-latex-suite",
+  "excalidraw-extras"
 ]
