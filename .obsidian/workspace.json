@@ -80,11 +80,11 @@
         ]
       },
       {
-        "id": "9442cab4bd9a22d9",
+        "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
         "children": [
           {
-            "id": "072701a4d9804615",
+            "id": "63b486af163b355e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 374.87562561035156
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 209.6951904296875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +184,9 @@
       "bases:Crea nuova Base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "obsidian-git:Open Git source control": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
   "floating": {
@@ -224,18 +226,15 @@
       }
     ]
   },
-  "active": "ba01e9b8ea225e79",
+  "active": "63b486af163b355e",
   "lastOpenFiles": [
+    "Appunti Z/fisica/Lavagna esercizzi.md",
     "Excalidraw/Drawing 2026-10-10 17.36.38.excalidraw.md",
-    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
-    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026 2.md",
     "Excalidraw/Drawing 2026-10-10 17.31.24.excalidraw.md",
-    "Excalidraw",
-    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026 1.md",
-    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
-    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
-    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
+    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026 2.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/fisica/fisica 09 10.md",
     "Appunti Emanuel/fondamenti programmazione/strutture di controllo iterative 09-10-2026.md",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
@@ -265,7 +264,9 @@
     "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
     "Recording 20261006092612.m4a",
     "Pasted Image 20261006151613_345.png",
-    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
-    "img/insiemi e sottoinsiemi di C.png"
+    "Recording 20261006092629.m4a",
+    "Appunti Z/analisi matematica/settembre",
+    "Appunti Z/analisi matematica/ottobre",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png"
   ]
 }
