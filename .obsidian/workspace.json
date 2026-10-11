@@ -235,22 +235,23 @@
           }
         ],
         "direction": "vertical",
-        "x": 1668,
-        "y": 33,
+        "x": 91,
+        "y": 254,
         "width": 880,
         "height": 1032,
-        "maximize": false,
+        "maximize": true,
         "zoom": -0.5
       }
     ]
   },
   "active": "2bc1eaf8d2a10105",
   "lastOpenFiles": [
-    "Appunti Z/fisica/fisica 08 10.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/Lavagna esercizzi.md",
+    "Pasted Image 20261011155238_505.png",
+    "Appunti Z/fisica/fisica 08 10.md",
     "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
     "Excalidraw",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Excalidraw/Drawing 2026-10-10 17.41.20.excalidraw.md",
     "Excalidraw/Drawing 2026-10-10 17.36.38.excalidraw.md",
     "Excalidraw/Drawing 2026-10-10 17.31.24.excalidraw.md",
