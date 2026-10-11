@@ -176,42 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "9ce355f9be1c6fbd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e5557c6fa4b86808",
-        "type": "window",
-        "children": [
-          {
-            "id": "de7afae325f6c232",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8fc832da9157c641",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Nuova scheda"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -2600,
-        "y": 246,
-        "width": 1030,
-        "height": 804,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "8fc832da9157c641",
+  "active": "2bc1eaf8d2a10105",
   "lastOpenFiles": [
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
