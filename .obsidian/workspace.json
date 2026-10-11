@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.87562561035156
+    "width": 374.87562561035156,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -215,10 +216,10 @@
           }
         ],
         "direction": "vertical",
-        "x": -2600,
-        "y": 246,
-        "width": 1030,
-        "height": 804,
+        "x": 1668,
+        "y": 33,
+        "width": 880,
+        "height": 1032,
         "maximize": false,
         "zoom": -0.5
       }
