@@ -18,16 +18,14 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
-  "rebaseAutoStash": "enabled",
   "mergeStrategy": "theirs",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "treeStructure": false,
+  "treeStructure": true,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
-  "limitToVault": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -68,5 +66,7 @@
     "ignoreWhitespace": false,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
-  }
+  },
+  "rebaseAutoStash": "enabled",
+  "limitToVault": false
 }
