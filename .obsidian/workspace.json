@@ -25,14 +25,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md"
+                "file": "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md"
               },
               "icon": "excalidraw-icon",
-              "title": "variabili e tipi Ram 05-10-2026"
+              "title": "criteri di invertibilità e restrizione del dominio"
+            }
+          },
+          {
+            "id": "6e414ae78a86010f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/12-10-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "12-10-2026"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,8 +236,12 @@
       }
     ]
   },
-  "active": "c7497f849a6fbf42",
+  "active": "8fc832da9157c641",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/12-10-2026.md",
+    "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
+    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
     "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
     "Pasted Image 20261012074449_059.png",
     "Pasted Image 20261011155238_505.png",
@@ -233,12 +249,10 @@
     "Excalidraw",
     "Appunti Z/img/Pasted Image 20261008224258_004.png",
     "Appunti Z/img/Pasted Image 20261008221059_150.png",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
     "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026 2.md",
-    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
     "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Excalidraw/Drawing 2026-10-10 17.41.20.excalidraw.md",
@@ -262,7 +276,6 @@
     "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
-    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Recording 20261006092612.m4a",
     "Pasted Image 20261006151613_345.png",
     "Recording 20261006092629.m4a",
