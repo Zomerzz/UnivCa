@@ -44,15 +44,15 @@
             }
           },
           {
-            "id": "09eb2f2d23970d42",
+            "id": "48742033ed2b4a1c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/Lavagna esercizzi.md"
+                "file": "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Lavagna esercizzi"
+              "title": "tutoring 13 10"
             }
           }
         ],
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047,
-    "collapsed": true
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -224,8 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09eb2f2d23970d42",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
+    "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
+    "Appunti Z/fisica/Lavagna esercizzi.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Pasted Image 20261013121641_318.png",
     "Pasted Image 20261013120045_491.png",
     "Appunti Z/fisica/fisica 13 10.md",
@@ -233,7 +236,6 @@
     "Appunti Z/fisica/fisica 09 10.md",
     "Appunti Z/fisica/Fisica 06 10.md",
     "Appunti Z/fisica/fisica 08 10.md",
-    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/fisica/Senza nome.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
