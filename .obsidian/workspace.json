@@ -78,18 +78,6 @@
               "icon": "excalidraw-icon",
               "title": "tutoring ale"
             }
-          },
-          {
-            "id": "09eb2f2d23970d42",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/fisica/fisica 13 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fisica 13 10"
-            }
           }
         ],
         "currentTab": 3
@@ -261,6 +249,7 @@
   },
   "active": "a5e5395b52ac8efd",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 13 10.md",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
@@ -286,8 +275,10 @@
     "Appunti Z/img/Pasted Image 20261008224258_004.png",
     "Appunti Z/img/Pasted Image 20261008221059_150.png",
     "Appunti Z/fisica/fisica 29 09.md",
+    "Appunti Z/fisica/fisica 09 10.md",
     "Appunti Emanuel/fondamenti programmazione/strutture di controllo iterative 09-10-2026.md",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
+    "Appunti Z/fisica/Fisica 06 10.md",
     "Pasted Image 20261008221059_150.png",
     "Appunti Emanuel/Fisica/moto circolare uniforme.md",
     "Appunti Emanuel/Fisica/fisica 2026-09-2026.md",
@@ -295,7 +286,6 @@
     "Pasted Image 20261008224258_004.png",
     "Pasted Image 20261008093716_696.png",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
-    "Appunti Z/fisica/fisica 02 10.md",
     "Appunti Z/fondamenti di programmazione/pdf/decisionali.pdf",
     "Appunti Z/fondamenti di programmazione/pdf/slide_2026_decisionali.pdf",
     "Appunti Z/fondamenti di programmazione/pdf/input outpu.pdf",
