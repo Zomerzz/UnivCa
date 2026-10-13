@@ -32,6 +32,42 @@
             }
           },
           {
+            "id": "7af5bd4e888960c4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/fisica 08 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 08 10"
+            }
+          },
+          {
+            "id": "a5e5395b52ac8efd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "13-10-2026 forze apparenti"
+            }
+          },
+          {
+            "id": "ebbae1d34ee7463c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 12 10"
+            }
+          },
+          {
             "id": "5925705324e59437",
             "type": "leaf",
             "state": {
@@ -41,18 +77,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "tutoring ale"
-            }
-          },
-          {
-            "id": "48742033ed2b4a1c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "tutoring 13 10"
             }
           }
         ],
@@ -223,25 +247,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "a5e5395b52ac8efd",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
-    "Appunti Z/fisica/Lavagna esercizzi.md",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Pasted Image 20261013121641_318.png",
     "Pasted Image 20261013120045_491.png",
     "Appunti Z/fisica/fisica 13 10.md",
-    "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
-    "Appunti Z/fisica/fisica 09 10.md",
-    "Appunti Z/fisica/Fisica 06 10.md",
     "Appunti Z/fisica/fisica 08 10.md",
-    "Appunti Z/fisica/Senza nome.md",
+    "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
+    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
+    "Appunti Z/fisica/Lavagna esercizzi.md",
     "Pasted Image 20261012143828_067.png",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Pasted Image 20261012140557_888.png",
     "Appunti Emanuel/fondamenti programmazione/12-10-2026 struttre di controllo iterative.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
@@ -257,11 +278,14 @@
     "Appunti Z/img/Pasted Image 20261008224258_004.png",
     "Appunti Z/img/Pasted Image 20261008221059_150.png",
     "Appunti Z/fisica/fisica 29 09.md",
+    "Appunti Z/fisica/fisica 09 10.md",
     "Appunti Emanuel/fondamenti programmazione/strutture di controllo iterative 09-10-2026.md",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
+    "Appunti Z/fisica/Fisica 06 10.md",
     "Pasted Image 20261008221059_150.png",
     "Appunti Emanuel/Fisica/moto circolare uniforme.md",
     "Appunti Emanuel/Fisica/fisica 2026-09-2026.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
     "Pasted Image 20261008224258_004.png",
     "Appunti Z/fondamenti di programmazione/pdf/decisionali.pdf",
     "Appunti Z/fondamenti di programmazione/pdf/slide_2026_decisionali.pdf",
