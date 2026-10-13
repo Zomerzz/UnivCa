@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -225,6 +226,7 @@
   },
   "active": "09eb2f2d23970d42",
   "lastOpenFiles": [
+    "Pasted Image 20261013120045_491.png",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Z/fisica/fisica 13 10.md",
