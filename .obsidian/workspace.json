@@ -11,10 +11,12 @@
             "id": "29f9b3786fb374a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/Lavagna esercizzi.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lavagna esercizzi"
             }
           }
         ]
@@ -174,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63b486af163b355e",
+  "active": "29f9b3786fb374a0",
   "lastOpenFiles": [
     "Pasted Image 20261013121641_318.png",
     "Pasted Image 20261013120045_491.png",
