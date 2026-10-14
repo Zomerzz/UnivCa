@@ -54,6 +54,18 @@
               "icon": "excalidraw-icon",
               "title": "analisi matematica 14 10"
             }
+          },
+          {
+            "id": "d4dd83d229dc730d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/ottobre/tutoring ale.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "tutoring ale"
+            }
           }
         ],
         "currentTab": 3
@@ -121,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047,
-    "collapsed": true
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
