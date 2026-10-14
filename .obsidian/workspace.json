@@ -35,12 +35,12 @@
             "id": "2c5d8084def40a2e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf"
+                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md"
               },
-              "icon": "lucide-file-text",
-              "title": "lezione 05 10"
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 07 10"
             }
           },
           {
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -237,8 +238,11 @@
   },
   "active": "d94b9f3cbb9d00a7",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Emanuel/matematica/14.10.2026.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
@@ -251,7 +255,6 @@
     "Appunti Z/img/Pasted Image 20261011155238_505.png",
     "Appunti Z/analisi matematica/settembre/analisi matematica 28 09.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
     "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Pasted Image 20261013121641_318.png",
@@ -262,14 +265,12 @@
     "Appunti Z/fisica/Fisica 06 10.md",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Z/fisica/Senza nome.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
     "Pasted Image 20261012143828_067.png",
     "Pasted Image 20261012140557_888.png",
     "Appunti Emanuel/fondamenti programmazione/12-10-2026 struttre di controllo iterative.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
     "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
     "Appunti Emanuel/matematica/12-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
