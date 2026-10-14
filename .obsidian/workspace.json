@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7f4d680a184a2818",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+            }
+          },
+          {
             "id": "65b7e3a65fbd3838",
             "type": "leaf",
             "state": {
@@ -23,52 +35,18 @@
             "id": "519bd4142398a4bf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+                "file": "Appunti Z/fondamenti di programmazione/Senza nome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
-            }
-          },
-          {
-            "id": "2c5d8084def40a2e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 07 10"
-            }
-          },
-          {
-            "id": "d94b9f3cbb9d00a7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 14 10"
-            }
-          },
-          {
-            "id": "d4dd83d229dc730d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/tutoring ale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "tutoring ale"
+              "icon": "lucide-file",
+              "title": "Senza nome"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,8 +90,19 @@
               "icon": "lucide-search",
               "title": "Ricerca"
             }
+          },
+          {
+            "id": "0e563bc67d36529a",
+            "type": "leaf",
+            "state": {
+              "type": "group-tabs-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "Recent tab groups"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "deeb9aa6cd61bfb9",
@@ -133,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047,
-    "collapsed": true
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -233,16 +221,19 @@
       "audio-recorder:Avvia/ferma registrazione": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "group-tabs:Recent tab groups": false
     }
   },
-  "active": "d94b9f3cbb9d00a7",
+  "active": "519bd4142398a4bf",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
-    "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/fondamenti di programmazione/Senza nome.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
+    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
+    "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
@@ -258,7 +249,6 @@
     "Appunti Z/analisi matematica/settembre/analisi matematica 28 09.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
     "Appunti Z/fisica/Lavagna esercizzi.md",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Pasted Image 20261013121641_318.png",
     "Pasted Image 20261013120045_491.png",
     "Appunti Z/fisica/fisica 13 10.md",
@@ -274,8 +264,6 @@
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
-    "Appunti Emanuel/matematica/12-10-2026.md",
-    "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
     "Excalidraw",
     "Appunti Z/fondamenti di programmazione/pdf/decisionali.pdf",
     "Appunti Z/fondamenti di programmazione/pdf/slide_2026_decisionali.pdf",

@@ -1,0 +1,10 @@
+{
+  "id": "group-tabs",
+  "name": "Group Tabs",
+  "version": "1.1.6",
+  "minAppVersion": "1.4.10",
+  "description": "Group related files into one native tab, reopen recent groups, and export markdown members as one file.",
+  "author": "stagars-m",
+  "authorUrl": "https://github.com/stagars-m",
+  "isDesktopOnly": true
+}
