@@ -11,12 +11,12 @@
             "id": "65b7e3a65fbd3838",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+                "file": "Appunti Z/fisica/Lavagna esercizzi.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+              "icon": "excalidraw-icon",
+              "title": "Lavagna esercizzi"
             }
           },
           {
@@ -31,7 +31,8 @@
               "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,13 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65b7e3a65fbd3838",
+  "active": "519bd4142398a4bf",
   "lastOpenFiles": [
+    "Appunti Z/fisica/Lavagna esercizzi.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Z/fisica/fisica 13 10.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/fisica/fisica 09 10.md",
@@ -224,7 +226,6 @@
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026 2.md",
     "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Excalidraw/Drawing 2026-10-10 17.41.20.excalidraw.md",
     "Excalidraw/Drawing 2026-10-10 17.36.38.excalidraw.md",
     "Excalidraw/Drawing 2026-10-10 17.31.24.excalidraw.md",
@@ -234,7 +235,6 @@
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
     "Appunti Z/fisica/Fisica 06 10.md",
     "Pasted Image 20261008221059_150.png",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Pasted Image 20261008224258_004.png",
     "Recording 20261006092612.m4a",
     "Recording 20261006092629.m4a",
