@@ -126,6 +126,18 @@
               "icon": "excalidraw-icon",
               "title": "fisica 08 10"
             }
+          },
+          {
+            "id": "88cf50d6c4276516",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/fisica 15 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 15 10"
+            }
           }
         ],
         "currentTab": 6
@@ -193,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
