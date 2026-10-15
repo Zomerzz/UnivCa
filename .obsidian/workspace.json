@@ -11,12 +11,12 @@
             "id": "65b7e3a65fbd3838",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Appunti Z/fisica/Lavagna esercizzi.md"
+                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Lavagna esercizzi"
+              "icon": "lucide-file-text",
+              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
             }
           }
         ]
@@ -188,9 +188,9 @@
   },
   "active": "65b7e3a65fbd3838",
   "lastOpenFiles": [
+    "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Z/fisica/fisica 09 10.md",
-    "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/fisica 15 10.md",
     "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md",
