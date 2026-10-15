@@ -44,9 +44,21 @@
               "icon": "lucide-file",
               "title": "Senza nome"
             }
+          },
+          {
+            "id": "88cf50d6c4276516",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/fisica 15 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 15 10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,19 +102,8 @@
               "icon": "lucide-search",
               "title": "Ricerca"
             }
-          },
-          {
-            "id": "0e563bc67d36529a",
-            "type": "leaf",
-            "state": {
-              "type": "group-tabs-history-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "group-tabs-history-view"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "deeb9aa6cd61bfb9",
@@ -122,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -224,10 +226,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "519bd4142398a4bf",
+  "active": "88cf50d6c4276516",
   "lastOpenFiles": [
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fondamenti di programmazione/Senza nome.md",
+    "Appunti Z/fisica/fisica 15 10.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
