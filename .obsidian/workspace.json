@@ -97,8 +97,8 @@
             "state": {
               "type": "group-tabs-history-view",
               "state": {},
-              "icon": "history",
-              "title": "Recent tab groups"
+              "icon": "lucide-ghost",
+              "title": "group-tabs-history-view"
             }
           }
         ],
@@ -221,8 +221,7 @@
       "audio-recorder:Avvia/ferma registrazione": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "group-tabs:Recent tab groups": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "519bd4142398a4bf",
