@@ -11,12 +11,12 @@
             "id": "65b7e3a65fbd3838",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+                "file": "Appunti Z/fisica/Lavagna esercizzi.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+              "icon": "excalidraw-icon",
+              "title": "Lavagna esercizzi"
             }
           }
         ]
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -188,8 +189,12 @@
   },
   "active": "65b7e3a65fbd3838",
   "lastOpenFiles": [
-    "Appunti Z/fisica/tutoring 16 10.md",
+    "Appunti Z/fisica/fisica 13 10.md",
+    "Appunti Z/fisica/Lavagna esercizzi.md",
+    "Appunti Z/fisica/fisica 29 09.md",
+    "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/fisica/tutoring 16 10.md",
     "Pasted Image 20261016172852_184.png",
     "Appunti Z/fisica/tutoring 02 10.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
@@ -198,7 +203,6 @@
     "Appunti Emanuel/fondamenti programmazione/la stronzarte di val.md",
     "Appunti Emanuel/fondamenti programmazione/16_10_2026 array continuo.md",
     "Appunti Emanuel/Fisica/16_10_2026.md",
-    "Appunti Z/fisica/Lavagna esercizzi.md",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Z/fisica/fisica 09 10.md",
     "Appunti Z/fisica/fisica 15 10.md",
@@ -210,8 +214,6 @@
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Z/fisica/fisica 13 10.md",
-    "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/img/Pasted Image 20261013121641_318.png",
     "Appunti Z/img/Pasted Image 20261013120045_491.png",
     "Appunti Z/img/Pasted Image 20261012143828_067.png",
