@@ -1,0 +1,80 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.28.1",
+  "libraryItems": [
+    {
+      "id": "wsgSya_ag5OpVtu2cf-wy",
+      "status": "unpublished",
+      "elements": [
+        {
+          "id": "44YU37eYwgScWPGJ4EeEF",
+          "type": "line",
+          "x": -376.9643249511719,
+          "y": -212.90999221801758,
+          "width": 364.4180908203125,
+          "height": 373.18157958984375,
+          "angle": 0,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "frameId": null,
+          "index": "a0",
+          "roundness": {
+            "type": 2
+          },
+          "seed": 176185211,
+          "version": 571,
+          "versionNonce": 1410183413,
+          "isDeleted": false,
+          "boundElements": null,
+          "updated": 1792133164333,
+          "created": 1792133136734,
+          "link": null,
+          "locked": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              120.49896240234375,
+              369.5301208496094
+            ],
+            [
+              346.16070556640625,
+              373.18157958984375
+            ],
+            [
+              364.4180908203125,
+              315.4881591796875
+            ],
+            [
+              322.79119873046875,
+              284.8157043457031
+            ],
+            [
+              303.07318115234375,
+              329.36376953125
+            ],
+            [
+              330.8243408203125,
+              335.9364929199219
+            ]
+          ],
+          "startBinding": null,
+          "endBinding": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "polygon": false
+        }
+      ],
+      "created": 1792133164783
+    }
+  ]
+}
