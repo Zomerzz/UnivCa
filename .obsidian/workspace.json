@@ -11,124 +11,40 @@
             "id": "65b7e3a65fbd3838",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+                "file": "Appunti Z/fisica/Lavagna esercizzi.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+              "icon": "excalidraw-icon",
+              "title": "Lavagna esercizzi"
             }
           },
           {
-            "id": "519bd4142398a4bf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
-            }
-          },
-          {
-            "id": "7af5bd4e888960c4",
+            "id": "f7b7d2d0c748f99d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 08 10.md"
+                "file": "Appunti Z/fisica/fisica 16 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 08 10"
+              "title": "fisica 16 10"
             }
           },
           {
-            "id": "a5e5395b52ac8efd",
+            "id": "9c089188fd44d6b4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md"
+                "file": "Appunti Z/fisica/fisica 15 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "limiti notevoli 07-10-2026"
-            }
-          },
-          {
-            "id": "4a7dcf4e7348614c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "14.10.2026 DERIVATE FUNZIONI COMPOSTE"
-            }
-          },
-          {
-            "id": "5e0c5b40f2feb0a6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "14_10_2026 generare un n casuale"
-            }
-          },
-          {
-            "id": "01eb3f9f7671e779",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "15_10_2026 newton ed esercizio sulle montagne russe"
-            }
-          },
-          {
-            "id": "ebbae1d34ee7463c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_10_2026"
-            }
-          },
-          {
-            "id": "5925705324e59437",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/tutoring ale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "tutoring ale"
-            }
-          },
-          {
-            "id": "104eb22d56c04ec6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/fisica/fisica 08 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fisica 08 10"
+              "title": "fisica 15 10"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,23 +211,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebbae1d34ee7463c",
+  "active": "f7b7d2d0c748f99d",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 15 10.md",
+    "Appunti Z/fisica/fisica 16 10.md",
+    "Appunti Z/fisica/Lavagna esercizzi.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
-    "Appunti Z/fisica/fisica 16 10.md",
-    "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md",
-    "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
     "Appunti Emanuel/Fisica/16_10_2026.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
-    "Appunti Z/fisica/fisica 15 10.md",
-    "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md",
     "Appunti Z/fondamenti di programmazione/Senza nome.md",
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
-    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
+    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
+    "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
     "Appunti Z/fisica/fisica 08 10.md",
-    "Appunti Z/fisica/Lavagna esercizzi.md",
+    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
+    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
     "Appunti Z/fisica/fisica 13 10.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/fisica/fisica 09 10.md",
@@ -324,17 +241,15 @@
     "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/fondamenti programmazione/12-10-2026 struttre di controllo iterative.md",
+    "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
     "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
     "Appunti Z/img/Pasted Image 20261011155238_505.png",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026 2.md",
-    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Pasted Image 20261008221059_150.png",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Pasted Image 20261008224258_004.png",
     "Recording 20261006092612.m4a",
     "Recording 20261006092629.m4a",
