@@ -11,12 +11,12 @@
             "id": "65b7e3a65fbd3838",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Appunti Z/fisica/tutoring 16 10.md"
+                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "tutoring 16 10"
+              "icon": "lucide-file-text",
+              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "65b7e3a65fbd3838",
   "lastOpenFiles": [
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/tutoring 16 10.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Pasted Image 20261016172852_184.png",
     "Appunti Z/fisica/tutoring 02 10.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
