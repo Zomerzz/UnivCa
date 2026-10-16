@@ -109,10 +109,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/Drawing 2026-10-16 11.44.19.excalidraw.md"
+                "file": "Appunti Emanuel/fondamenti programmazione/la stronzarte di val.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-16 11.44.19.excalidraw"
+              "title": "la stronzarte di val"
+            }
+          },
+          {
+            "id": "291bf461840da860",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/16_10_2026 array continuo.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "16_10_2026 array continuo"
             }
           },
           {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -309,8 +321,9 @@
   },
   "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
+    "Appunti Emanuel/fondamenti programmazione/la stronzarte di val.md",
+    "Appunti Emanuel/fondamenti programmazione/16_10_2026 array continuo.md",
     "Appunti Emanuel/Fisica/16_10_2026.md",
-    "Appunti Emanuel/fondamenti programmazione/Drawing 2026-10-16 11.44.19.excalidraw.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Appunti Z/fisica/fisica 16 10.md",
@@ -342,7 +355,6 @@
     "Appunti Z/img/Pasted Image 20261011155238_505.png",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026 2.md",
-    "Appunti Emanuel/fondamenti programmazione/variabili e tipi Ram 05-10-2026.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
