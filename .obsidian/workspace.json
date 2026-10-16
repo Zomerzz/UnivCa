@@ -13,50 +13,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/Lavagna esercizzi.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Lavagna esercizzi"
-            }
-          },
-          {
-            "id": "f7b7d2d0c748f99d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/fisica/fisica 13 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fisica 13 10"
-            }
-          },
-          {
-            "id": "de04730efc0f94d0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "Appunti Z/fisica/tutoring 16 10.md"
               },
               "icon": "excalidraw-icon",
               "title": "tutoring 16 10"
             }
-          },
-          {
-            "id": "9c089188fd44d6b4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/fisica/fisica 15 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fisica 15 10"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -223,38 +187,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "65b7e3a65fbd3838",
   "lastOpenFiles": [
-    "Appunti Z/fisica/fisica 13 10.md",
-    "Appunti Z/fisica/tutoring 16 10.md",
-    "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
-    "Appunti Emanuel/fondamenti programmazione/la stronzarte di val.md",
-    "Appunti Emanuel/fondamenti programmazione/16_10_2026 array continuo.md",
-    "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
-    "Appunti Z/fisica/fisica 16 10.md",
-    "Appunti Emanuel/fondamenti programmazione/Drawing 2026-10-16 11.44.19.excalidraw.md",
-    "Appunti Z/fisica/fisica 15 10.md",
-    "Appunti Z/fisica/Lavagna esercizzi.md",
+    "Pasted Image 20261016172852_184.png",
+    "Appunti Z/fisica/tutoring 02 10.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
+    "Appunti Z/fisica/tutoring 16 10.md",
+    "Appunti Z/fisica/fisica 16 10.md",
+    "Appunti Emanuel/fondamenti programmazione/la stronzarte di val.md",
+    "Appunti Emanuel/fondamenti programmazione/16_10_2026 array continuo.md",
     "Appunti Emanuel/Fisica/16_10_2026.md",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/fisica/Lavagna esercizzi.md",
+    "Appunti Z/fisica/fisica 08 10.md",
+    "Appunti Z/fisica/fisica 09 10.md",
+    "Appunti Z/fisica/fisica 15 10.md",
     "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md",
     "Appunti Z/fondamenti di programmazione/Senza nome.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
     "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
-    "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
+    "Appunti Z/fisica/fisica 13 10.md",
     "Appunti Z/fisica/fisica 29 09.md",
-    "Appunti Z/fisica/fisica 09 10.md",
     "Appunti Z/img/Pasted Image 20261013121641_318.png",
     "Appunti Z/img/Pasted Image 20261013120045_491.png",
     "Appunti Z/img/Pasted Image 20261012143828_067.png",
     "Appunti Z/img/Pasted Image 20261012140557_888.png",
     "Appunti Z/img/Pasted Image 20261012074449_059.png",
+    "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
     "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/fondamenti programmazione/12-10-2026 struttre di controllo iterative.md",
