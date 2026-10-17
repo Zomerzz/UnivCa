@@ -18,6 +18,18 @@
               "icon": "excalidraw-icon",
               "title": "Lavagna esercizzi"
             }
+          },
+          {
+            "id": "cd7815faa8622291",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+            }
           }
         ]
       }
@@ -84,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047,
-    "collapsed": true
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -189,11 +200,11 @@
   },
   "active": "65b7e3a65fbd3838",
   "lastOpenFiles": [
-    "Appunti Z/fisica/fisica 13 10.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/Lavagna esercizzi.md",
+    "Appunti Z/fisica/fisica 13 10.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/tutoring 16 10.md",
     "Pasted Image 20261016172852_184.png",
     "Appunti Z/fisica/tutoring 02 10.md",
@@ -223,7 +234,6 @@
     "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/fondamenti programmazione/12-10-2026 struttre di controllo iterative.md",
-    "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
     "Appunti Z/img/Pasted Image 20261011155238_505.png",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
