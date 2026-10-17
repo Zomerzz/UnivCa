@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.20001220703125
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -319,9 +320,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "291bf461840da860",
+  "active": "e3509f7072b995de",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/Lavagna esercizi 2.md",
     "Pasted Image 20261017163516_108.png",
+    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/Lavagna esercizzi 1.md",
     "Appunti Z/img/Pasted Image 20261016172852_184.png",
     "Appunti Z/Lavagna esercizzi 1.md",
     "Appunti Z/Lavagna esercizi 2.md",
