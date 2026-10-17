@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -189,6 +190,9 @@
   "active": "fce03045694d2c8b",
   "lastOpenFiles": [
     "Appunti Z/Lavagna esercizzi 1.md",
+    "Appunti Z/Lavagna esercizi 2.md",
+    "Pasted Image 20261017230042_767.png",
+    "Pasted Image 20261017163516_108.png",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
@@ -198,11 +202,8 @@
     "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
     "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/Lavagna esercizi 2.md",
-    "Pasted Image 20261017163516_108.png",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/img/Pasted Image 20261016172852_184.png",
-    "Appunti Z/Lavagna esercizi 2.md",
     "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
     "Appunti Emanuel/fondamenti programmazione/16_10_2026 array continuo.md",
     "Pasted Image 20261016172852_184.png",
@@ -228,7 +229,6 @@
     "Appunti Z/img/Pasted Image 20261011155238_505.png",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Pasted Image 20261008221059_150.png",
     "Recording 20261006092612.m4a",
     "Recording 20261006092629.m4a",
     "Appunti Z/analisi matematica/settembre"
