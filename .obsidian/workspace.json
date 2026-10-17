@@ -11,6 +11,18 @@
             "id": "cd7815faa8622291",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "lezione 05 10"
+            }
+          },
+          {
+            "id": "e3509f7072b995de",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Appunti Z/Lavagna esercizi 2.md"
@@ -188,6 +200,10 @@
   },
   "active": "cd7815faa8622291",
   "lastOpenFiles": [
+    "Appunti Z/Lavagna esercizi 2.md",
+    "Pasted Image 20261017163516_108.png",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/Lavagna esercizzi 1.md",
     "Appunti Z/img/Pasted Image 20261016172852_184.png",
@@ -209,7 +225,6 @@
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
-    "Appunti Z/Lavagna esercizi 2.md",
     "Appunti Z/fisica/fisica 13 10.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
@@ -223,8 +238,6 @@
     "Appunti Z/img/Pasted Image 20261012140557_888.png",
     "Appunti Z/img/Pasted Image 20261012074449_059.png",
     "Appunti Z/img/Pasted Image 20261011155238_505.png",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Pasted Image 20261008221059_150.png",
     "Pasted Image 20261008224258_004.png",
     "Recording 20261006092612.m4a",
