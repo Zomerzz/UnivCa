@@ -31,7 +31,8 @@
               "title": "Lavagna esercizi 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -198,11 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd7815faa8622291",
+  "active": "e3509f7072b995de",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/Lavagna esercizi 2.md",
     "Pasted Image 20261017163516_108.png",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/Lavagna esercizzi 1.md",
