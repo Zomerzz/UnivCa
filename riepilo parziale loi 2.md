@@ -42,9 +42,21 @@ sappiamo che le funzioni che vanno a 0 più velocemente (di grado maggiore) poss
 
 ---
 
+![[Pasted image 20261018171614.png|wrap-right]]
 ## <font color="#4bacc6">Definizione – funzioni asintotiche</font>
 si diche che due funzioni f. sono asintotiche tra loro per $x \to x_{0}$ se
 $$
 \lim_{ x \to x_{0}  } \frac{f(x) }{g(x) } = 1
 $$
-si scrive $f$ ~ $g$  $x \to x_{0}$  per $($$f$ si comporta come $g$)
+si scrive $f$ ~ $g$  $x \to x_{0}$  per $($$f$ si comporta come $g$) 
+possiamo dire che tutte le funzioni presenti nel grafico sono asintotiche tra loro per $x \to 0$
+
+
+
+---
+## <font color="#4bacc6">Algebra della funzioni infinitesime</font>}
+
+una funzione moltiplicata per un coefficiente allora l’ordine della funzione è pari alla somma dei gradi del coefficiente e della funzione
+se invece abbiamo una somma sappiamo che non essendo un binomio si può trascurare il valore con il grado maggiore perché tende a 0 più velocemente
+
+
