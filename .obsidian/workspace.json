@@ -4,23 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c1bce1dbf17ad86d",
+        "id": "67caddc2fd2eaf4f",
         "type": "tabs",
         "children": [
           {
-            "id": "65b7e3a65fbd3838",
+            "id": "a4eb59b394c3363b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Appunti Z/img/insiemi e sottoinsiemi di C.png"
+                "file": "Riepilogo parziale loi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "insiemi e sottoinsiemi di C"
+              "icon": "lucide-file",
+              "title": "Riepilogo parziale loi"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.20001220703125
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -187,8 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78343a9ff663db98",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
+    "Riepilogo parziale loi.md",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
     "Appunti Z/img/Pasted Image 20261008221059_150.png",
     "Appunti Z/img/Pasted Image 20261008224258_004.png",
     "Appunti Z/img/Pasted Image 20261011155238_505.png",
@@ -198,13 +202,11 @@
     "Appunti Z/img/Pasted Image 20261013120045_491.png",
     "Appunti Z/img/Pasted Image 20261013121641_318.png",
     "Appunti Z/img/Pasted Image 20261016172852_184.png",
-    "Appunti Z/img/sinx x.png",
     "Appunti Z/Lavagna esercizi 2.md",
     "Excalidraw/Senza nome 2026-10-18 15.15.41.excalidraw.md",
     "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
     "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
     "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
-    "Pasted image 20261018152201.png",
     "Appunti Z/Senza nome.md",
     "Appunti Z/Lavagna esercizzi 1.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
@@ -222,24 +224,16 @@
     "[[Appunti Emanuel",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
     "Appunti Emanuel/Fisica/moto circolare uniforme.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Z/img/Pasted Image 20261017230042_767.png",
-    "Appunti Z/Senza nome.md",
+    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Recording 20261006092612.m4a",
-    "Recording 20261006092629.m4a",
-    "Appunti Z/analisi matematica/settembre",
-    "Appunti Z/analisi matematica/ottobre"
+    "Recording 20261006092612.m4a"
   ]
 }
