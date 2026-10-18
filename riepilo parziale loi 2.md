@@ -18,13 +18,24 @@ allora si dice che $x_{0}$, f(x) è un infinitesimo di ordine $\alpha$ rispetto 
 ## <font color="#4bacc6">Confronto tra infinitesimi</font>
 Sia f(x) e g(x) infinitesime per $x \to x_{0}$ 
 $$
-\lim_{ x \to x_{0} } \frac{f(x)}{g(x)}  
+\lim_{ x \to x_{0} } \frac{[f(x)]^\alpha}{[g(x)]^\beta}  
 \begin{cases}
 l \ne 0 &  &  \text{ord}(f) = \text{ord}(g) \\
 \pm \infty  &  & \text{ord}(f) < \text{ord}(g) \\ 
-0  &  & \text{ord}(f) < \text{ord}(g) \\ \\
-\text{non esiste}  &   &  f \ e \ g \text{non confrontabili}
+0  &  & \text{ord}(f) < \text{ord}(g) \\ 
+\text{non esiste}  &   &  f \ e \ g \  \text{non confrontabili}
 \end{cases}
 $$
 Stesso risultato se F(x) g(x) sono infinitesime per $x \to \infty$ 
-> prendiamo due valori messi a frazione, se il loro rapporto da un numero 
+> prendiamo due valori messi a frazione, possiamo osservare che se $\alpha$ e $\beta$ sono uguali allora avremo che il limite non andrà a zero se svolto
+> prendiamo due valori messi a frazione, possiamo osservare che se $\alpha$ è maggiore di  $\beta$ allora avremo che il limite tende a infinito e non dobbiamo svolgerlo oltre
+> prendiamo due valori messi a frazione, possiamo osservare che se $\alpha$ è minore di  $\beta$ allora avremo che il limite tende a infinito e non dobbiamo svolgerlo oltre
+> prendiamo due valori messi a frazione, possiamo osservare che se $\alpha$ e $\beta$ non sono confrontabili (uno dei due non esiste o non è determinato) allora il limite non esiste
+
+---
+## <font color="#4bacc6">Calcolo dei limiti mediante il confronto tra infiitesimi</font>
+
+$$
+\lim_{ x \to x_{0}  } \frac{f_{1} + f_{2}}{g_{1} + g_{2}} 
+$$
+sappiamo che le funzioni che vanno a 0 più velocemente (di grado maggiore) possono essere ignorate ( prendiamo $f_{1}$ e $f_{2}$ se sappiamo che $f_{1}$ va a zero più velocemente allora sappiamo che avvicinandoci a zero avremo un  punto in cui $f_{1}$ è 0 e $f_{2}$ no) 
