@@ -39,3 +39,12 @@ $$
 \lim_{ x \to x_{0}  } \frac{f_{1} + f_{2}}{g_{1} + g_{2}} 
 $$
 sappiamo che le funzioni che vanno a 0 più velocemente (di grado maggiore) possono essere ignorate ( prendiamo $f_{1}$ e $f_{2}$ se sappiamo che $f_{1}$ va a zero più velocemente allora sappiamo che avvicinandoci a zero avremo un  punto in cui $f_{1}$ è 0 e $f_{2}$ no) 
+
+---
+
+## <font color="#4bacc6">Definizione – funzioni asintotiche</font>
+si diche che due funzioni f. sono asintotiche tra loro per $x \to x_{0}$ se
+$$
+\lim_{ x \to x_{0}  } \frac{f(x) }{g(x) } = 1
+$$
+si scrive $f$ ~ $g$  $x \to x_{0}$  per $($$f$ si comporta come $g$)
