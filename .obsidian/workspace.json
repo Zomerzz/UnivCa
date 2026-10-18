@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6a885bafb90c179",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/Lavagna esercizi 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Lavagna esercizi 2"
-            }
-          },
-          {
             "id": "9ad0426b2e2d03e0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 16 10.md"
+                "file": "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 16 10"
+              "title": "Drawing 2026-10-18 19.11.40.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -203,14 +191,15 @@
   "active": "9ad0426b2e2d03e0",
   "lastOpenFiles": [
     "Appunti Z/fisica/fisica 29 09.md",
+    "Appunti Z/fisica/fisica 16 10.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Z/img/Pasted image 20261018174952.png",
+    "Appunti Z/img/Pasted image 20261018174627.png",
+    "Appunti Z/img/Pasted image 20261018174541.png",
+    "Appunti Z/Lavagna esercizi 2.md",
     "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md",
     "Pasted Image 20261018193019_807.png",
     "Pasted image 20261018185805.png",
-    "Appunti Z/Lavagna esercizi 2.md",
-    "Appunti Z/img/Pasted image 20261018174541.png",
-    "Appunti Z/img/Pasted image 20261018174627.png",
-    "Appunti Z/img/Pasted image 20261018174952.png",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
     "Riepilogo parziale loi.md",
     "riepilo parziale loi 2.md",
@@ -241,8 +230,6 @@
     "[[Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "[[Appunti Emanuel/matematica",
     "[[Appunti Emanuel",
-    "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
-    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Recording 20261006092612.m4a"
