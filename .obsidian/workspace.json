@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c09d6885b39995de",
+        "id": "67caddc2fd2eaf4f",
         "type": "tabs",
         "children": [
           {
-            "id": "fce03045694d2c8b",
+            "id": "a4eb59b394c3363b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi.md"
+                "file": "Appunti Z/Senza nome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Riepilogo parziale loi"
+              "icon": "lucide-file",
+              "title": "Senza nome"
             }
           }
         ]
@@ -186,13 +188,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fce03045694d2c8b",
+  "active": "a4eb59b394c3363b",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Z/Lavagna esercizi 2.md",
+    "Appunti Z/Senza nome.md",
+    "Appunti Z/fisica/fisica 08 10.md",
+    "Appunti Z/img/Pasted Image 20261017230042_767.png",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
+    "Appunti Z/img/Pasted Image 20261008221059_150.png",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/Lavagna esercizzi 1.md",
+    "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
+    "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
+    "Pasted Image 20261017163516_108.png",
+    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
+    "[[Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "[[Appunti Emanuel/matematica",
+    "[[Appunti Emanuel",
+    "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
+    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
-    "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
+    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
+    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
@@ -203,36 +222,18 @@
     "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
-    "Appunti Z/Lavagna esercizi 2.md",
-    "Appunti Z/Lavagna esercizzi 1.md",
-    "Pasted Image 20261017230042_767.png",
-    "Pasted Image 20261017163516_108.png",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Appunti Z/fisica/fisica 08 10.md",
-    "Appunti Emanuel/Fisica/16_10_2026.md",
-    "Appunti Emanuel/fondamenti programmazione/la stronzarte di val.md",
-    "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md",
-    "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/img/Pasted Image 20261016172852_184.png",
-    "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
-    "Appunti Emanuel/fondamenti programmazione/16_10_2026 array continuo.md",
     "Pasted Image 20261016172852_184.png",
-    "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Appunti Z/img/Pasted Image 20261013121641_318.png",
     "Appunti Z/img/Pasted Image 20261013120045_491.png",
     "Appunti Z/img/Pasted Image 20261012143828_067.png",
     "Appunti Z/img/Pasted Image 20261012140557_888.png",
-    "Appunti Z/img/Pasted Image 20261012074449_059.png",
-    "Appunti Z/img/Pasted Image 20261011155238_505.png",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Recording 20261006092612.m4a",
-    "Recording 20261006092629.m4a",
-    "Appunti Z/analisi matematica/settembre"
+    "Recording 20261006092612.m4a"
   ]
 }
