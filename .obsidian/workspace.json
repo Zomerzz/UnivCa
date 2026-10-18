@@ -66,7 +66,8 @@
               "title": "Ricerca"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "deeb9aa6cd61bfb9",
@@ -191,6 +192,7 @@
   },
   "active": "f6a885bafb90c179",
   "lastOpenFiles": [
+    "Pasted image 20261018161343.png",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "riepilo parziale loi 2.md",
