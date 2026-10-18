@@ -57,9 +57,9 @@ possiamo dire che tutte le funzioni presenti nel grafico sono asintotiche tra lo
 ## <font color="#4bacc6">Algebra della funzioni infinitesime</font>
 
 una funzione moltiplicata per un coefficiente allora l’ordine della funzione è pari alla somma dei gradi del coefficiente e della funzione
-$c \cdot f(x) = o(x^{\alpha}) = o(x^{\alpha})$
+$c^{\beta} \cdot f(x^{\alpha}) = o(x^{\alpha}) = o(x^{\alpha + \beta}) \ \ \ \ \ \ f(x^{\alpha}) \cdot g(x^{\beta}) = o(x^{\alpha+\beta})$
 se invece abbiamo una somma sappiamo che non essendo un binomio si può trascurare il valore con il grado maggiore perché tende a 0 più velocemente
-
+$f(x^{\alpha}) + g(x^{\beta}) = o(x^{\gamma}) \ \ \ \ \ \ \ \gamma = min(\alpha, \beta)$ 
 
 ---
 
