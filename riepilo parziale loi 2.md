@@ -52,11 +52,19 @@ si scrive $f$ ~ $g$  $x \to x_{0}$  per $($$f$ si comporta come $g$)
 possiamo dire che tutte le funzioni presenti nel grafico sono asintotiche tra loro per $x \to 0$
 
 
-
+> se il rapporto tra due funzioni al limite è 1 allora le due funzioni si comportano allo stesso modo in quel punto
 ---
-## <font color="#4bacc6">Algebra della funzioni infinitesime</font>}
+## <font color="#4bacc6">Algebra della funzioni infinitesime</font>
 
 una funzione moltiplicata per un coefficiente allora l’ordine della funzione è pari alla somma dei gradi del coefficiente e della funzione
+$c \cdot f(x) = o(x^{\alpha}) = o(x^{\alpha})$
 se invece abbiamo una somma sappiamo che non essendo un binomio si può trascurare il valore con il grado maggiore perché tende a 0 più velocemente
 
 
+---
+
+## <font color="#4bacc6">Gerarchia degli infiniti</font>
+
+$$
+(\log_{a}x)^{a} \ll x^{\beta} \ll b^{x}\ll x^{x}
+$$
