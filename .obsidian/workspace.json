@@ -121,10 +121,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
+                "file": "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md"
               },
               "icon": "excalidraw-icon",
-              "title": "16_10_2026"
+              "title": "12-10-2026 punti di discontinuità"
+            }
+          },
+          {
+            "id": "f32e85f5910ded36",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Riepilogo parziale loi"
             }
           },
           {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -217,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047,
-    "collapsed": true
+    "width": 413.20001220703125
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -320,14 +331,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3509f7072b995de",
+  "active": "f32e85f5910ded36",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/Lavagna esercizi 2.md",
+    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Emanuel/Fisica/16_10_2026.md",
     "Pasted Image 20261017163516_108.png",
-    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Appunti Z/Lavagna esercizzi 1.md",
     "Appunti Z/img/Pasted Image 20261016172852_184.png",
     "Appunti Z/Lavagna esercizzi 1.md",
     "Appunti Z/Lavagna esercizi 2.md",
@@ -337,7 +346,6 @@
     "Pasted Image 20261016172852_184.png",
     "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
     "Appunti Z/fisica/tutoring 16 10.md",
-    "Appunti Emanuel/Fisica/16_10_2026.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Appunti Z/fisica/fisica 16 10.md",
@@ -361,14 +369,12 @@
     "Appunti Z/img/Pasted Image 20261012074449_059.png",
     "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
     "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
-    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Z/img/Pasted Image 20261011155238_505.png",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Pasted Image 20261008221059_150.png",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Pasted Image 20261008224258_004.png",
     "Recording 20261006092612.m4a",
     "Recording 20261006092629.m4a",
     "Appunti Z/analisi matematica/settembre",
