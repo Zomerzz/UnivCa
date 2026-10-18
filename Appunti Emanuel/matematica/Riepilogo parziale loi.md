@@ -74,6 +74,12 @@ allora ->$\lim_{ x \to x_{0}}f(x)=l$
 
 ## <font color="#953734">Dimostrazioni limiti notevoli</font>
 
+![[Pasted image 20261018185805.png|wrap-right]]
 # $\frac {\sin x}{x}$
 
+Per la dimostrazione mi servo del seguente diagramma.
 
+noto la relazione che lega i tre triangoli $A_{OPH}<A_{OPA}<A_{OQA}$
+L'area dei tre triangoli è
+# $A_{OPH}= \frac{1 \cdot \sin x}{2}$
+$A_{OPA}$
