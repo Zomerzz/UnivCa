@@ -4,34 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "20f26020de526170",
+        "id": "c1bce1dbf17ad86d",
         "type": "tabs",
         "children": [
           {
-            "id": "f6a885bafb90c179",
+            "id": "f32e85f5910ded36",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Appunti Z/Lavagna esercizi 2.md"
+                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Lavagna esercizi 2"
+              "icon": "lucide-file",
+              "title": "Riepilogo parziale loi"
             }
           },
           {
-            "id": "9ad0426b2e2d03e0",
+            "id": "78343a9ff663db98",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md"
+                "file": "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md"
               },
               "icon": "excalidraw-icon",
-              "title": "limiti notevoli 06-10-2026"
+              "title": "limiti notevoli 07-10-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 413.20001220703125
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -199,25 +202,21 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "f32e85f5910ded36",
+  "active": "78343a9ff663db98",
   "lastOpenFiles": [
     "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md",
     "Pasted image 20261018185805.png",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
     "Appunti Z/img/Pasted image 20261018174952.png",
     "Appunti Z/img/Pasted image 20261018174627.png",
     "Appunti Z/img/Pasted image 20261018174541.png",
-    "Appunti Z/img/Pasted image 20261018174627.png",
-    "Appunti Z/img/Pasted image 20261018174952.png",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
-    "Riepilogo parziale loi.md",
-    "riepilo parziale loi 2.md",
-    "Appunti Z/Lavagna esercizzi 1.md",
+    "Appunti Z/img/Pasted image 20261018171614.png",
     "Appunti Z/img/Pasted image 20261018171317.png",
     "Appunti Z/img/Pasted image 20261018165443.png",
+    "Appunti Z/img/Pasted image 20261018165403.png",
     "Appunti Z/img/Pasted image 20261018163736.png",
     "Appunti Z/img/Pasted image 20261018161343.png",
     "Appunti Z/Lavagna esercizi 2.md",
@@ -246,29 +245,10 @@
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Excalidraw/Senza nome 2026-10-18 15.15.41.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
-    "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
-    "Appunti Z/Senza nome.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
-    "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
-    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 05 10.md",
-    "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
-    "[[Appunti Emanuel/matematica/Riepilogo parziale loi.md",
-    "[[Appunti Emanuel/matematica",
-    "[[Appunti Emanuel",
-    "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
-    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
-    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Excalidraw/Libraries/local-library.excalidrawlib",
-    "Excalidraw/Libraries",
-    "Recording 20261006092612.m4a"
+    "Recording 20261006092612.m4a",
+    "Recording 20261006092629.m4a",
+    "Appunti Z/analisi matematica/settembre",
+    "Appunti Z/analisi matematica/ottobre"
   ]
 }

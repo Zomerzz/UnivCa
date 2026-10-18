@@ -79,8 +79,9 @@ allora ->$\lim_{ x \to x_{0}}f(x)=l$
 
 Per la dimostrazione mi servo del seguente diagramma.
 
-noto la relazione che lega i tre triangoli $A_{OPH}<A_{OPA}<A_{arco\ OPA}< A_{OQA}$
-L'area dei tre triangoli è
+noto la relazione che lega l'area dei  tre triangoli e l'arco
+ $A_{OPH}<A_{OPA}<A_{arco\ OPA}< A_{OQA}$
+Le aree dei tre triangoli e dell'arco
 # $A_{triangolo\ OPA}= \frac{1 \cdot \sin x}{2}$
 # $A_{arco\ OPA}=\pi\cdot r^{2}\cdot \frac{a}{360}$
 # $A_{OQA}=\frac {1\cdot\ tgx}{2}$
@@ -88,4 +89,11 @@ L'area dei tre triangoli è
 # $A_{arco\ OPA}= \frac{\pi \cdot x}{2\pi}=\frac{x}{2}$
 
 mi rifaccio al rapporto iniziale
-di conseguenza il rapporto è equivalente ha $\frac{sin x}{2}<\frac {x}{2}$
+di conseguenza il rapporto è equivalente ha 
+# $\frac{sin x}{2}<\frac {x}{2}<\frac {tgx}{2}= senx<x<tgx=\frac{senx}{senx}<\frac{x}{senx}<\frac{senx}{\cos x}\cdot \frac{1}{senx}$
+# $=1< \frac{x}{senx}< \frac{1}{\cos x}$  $\lim_{ x \to 0 }=$
+# $1< \frac{x}{senx}<1=1<\frac{senx}{x}<1$
+per il teorema del confronto senx/x tende a 1.
+
+
+# $\frac {1-\cos x}{x^2}$
