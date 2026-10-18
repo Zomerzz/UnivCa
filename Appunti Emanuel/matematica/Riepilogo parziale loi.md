@@ -71,3 +71,9 @@ allora ->$\lim_{ x \to x_{0}}f(x)=l$
 # <font color="#c0504d">Limiti Notevoli</font>
 
 ![[Pasted image 20261018174952.png]]
+
+## <font color="#953734">Dimostrazioni limiti notevoli</font>
+
+# $\frac {\sin x}{x}$
+
+
