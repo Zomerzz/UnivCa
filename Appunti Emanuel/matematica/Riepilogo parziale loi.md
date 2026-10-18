@@ -95,5 +95,5 @@ di conseguenza il rapporto è equivalente ha
 # $1< \frac{x}{senx}<1=1<\frac{senx}{x}<1$
 per il teorema del confronto senx/x tende a 1.
 
-
+___________________________________________________________________________________
 # $\frac {1-\cos x}{x^2}$
