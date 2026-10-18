@@ -1,0 +1,825 @@
+/*
+ * Image Text Wrap
+ *
+ * Rendering is CSS only. Layout lives in the image link (![[photo.png|wrap-left|gap-24|300]]), and
+ * Obsidian copies the text between the path and the size into the embed's alt attribute, so the
+ * same rules drive Reading view and PDF export. In Live Preview the plugin also tags each line that
+ * holds only wrapped images (.itw-image-line-*), and puts a class around a remote image wrapped
+ * anywhere else (.itw-inline-*): a remote image's alt sits on the inner img, out of reach of the rules.
+ *
+ * Tokens are matched exactly inside the pipe-separated alt: "x", "x|…", "…|x|…" or "…|x".
+ * Classes the plugin adds:
+ *   .itw-has-wrap           on .cm-editor, when the note has any wrapped image (Live Preview fixes)
+ *   .itw-image-line-*       on the .cm-line that holds nothing but one wrapped image (-left, -right, -block),
+ *                           or several images all wrapped left or right (-multi)
+ *   .itw-inline-*           around a remote or data-URI image wrapped on a line with other content
+ *   .itw-gap-*              on that line or around that image, for its spacing
+ *   .itw-keep-in-line       on a list, quote or footnote line holding a wrapped image (it stays in line)
+ *   .itw-wrap-note          on Reading view sections and the PDF root of notes with wrapped images
+ */
+
+/* ---------- Spacing ---------- */
+
+.image-embed:is([alt="gap-0"], [alt^="gap-0|"], [alt*="|gap-0|"], [alt$="|gap-0"]),
+img:is([alt="gap-0"], [alt^="gap-0|"], [alt*="|gap-0|"], [alt$="|gap-0"]),
+.itw-gap-0 {
+	--itw-gap: 0px;
+}
+.image-embed:is([alt="gap-8"], [alt^="gap-8|"], [alt*="|gap-8|"], [alt$="|gap-8"]),
+img:is([alt="gap-8"], [alt^="gap-8|"], [alt*="|gap-8|"], [alt$="|gap-8"]),
+.itw-gap-8 {
+	--itw-gap: 8px;
+}
+.image-embed:is([alt="gap-16"], [alt^="gap-16|"], [alt*="|gap-16|"], [alt$="|gap-16"]),
+img:is([alt="gap-16"], [alt^="gap-16|"], [alt*="|gap-16|"], [alt$="|gap-16"]),
+.itw-gap-16 {
+	--itw-gap: 16px;
+}
+.image-embed:is([alt="gap-24"], [alt^="gap-24|"], [alt*="|gap-24|"], [alt$="|gap-24"]),
+img:is([alt="gap-24"], [alt^="gap-24|"], [alt*="|gap-24|"], [alt$="|gap-24"]),
+.itw-gap-24 {
+	--itw-gap: 24px;
+}
+
+/* ---------- Wrap left and right ---------- */
+
+/*
+ * The float is positioned and raised, because editor lines are position: relative and would otherwise
+ * paint over it and take its clicks. Same-side images stack instead of sitting side by side.
+ */
+.image-embed:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"]),
+.image-embed:is([alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"]),
+p > img:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"]),
+p > img:is([alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"]),
+.itw-image-line-left > .image-embed,
+.itw-image-line-right > .image-embed,
+.itw-inline-left > .image-embed,
+.itw-inline-right > .image-embed {
+	display: block;
+	width: fit-content;
+	max-width: var(--itw-max-width, 50%);
+	position: relative;
+	z-index: 1;
+	margin-top: 0;
+	/* Not em: in Live Preview the image's line has font-size 0, which would make this 0 there only. */
+	margin-bottom: calc(var(--font-text-size, 16px) / 2);
+}
+
+.image-embed:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"]),
+p > img:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"]),
+.itw-image-line-left > .image-embed,
+.itw-inline-left > .image-embed {
+	float: left;
+	clear: left;
+	margin-left: 0;
+	margin-right: var(--itw-gap, 16px);
+}
+
+.image-embed:is([alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"]),
+p > img:is([alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"]),
+.itw-image-line-right > .image-embed,
+.itw-inline-right > .image-embed {
+	float: right;
+	clear: right;
+	margin-right: 0;
+	margin-left: var(--itw-gap, 16px);
+}
+
+/* The picture scales down with its box rather than overflowing it. The stored size is unchanged. */
+.image-embed:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"]) img,
+.itw-image-line-left > .image-embed img,
+.itw-image-line-right > .image-embed img,
+.itw-inline-left > .image-embed img,
+.itw-inline-right > .image-embed img,
+p > img:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"]) {
+	max-width: 100%;
+	height: auto;
+}
+
+/*
+ * As an inline box the picture would leave the line's descent below it (6px at 16px text), making the
+ * float taller than the picture: in Reading view the img sits directly in the embed, and in Live Preview
+ * Obsidian draws the img's wrapper inline-flex. (A line of wrapped images only has no descent, its text
+ * size being 0, but an image sharing its line has.)
+ */
+.image-embed:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"], [alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]) > img {
+	display: block;
+}
+.image-embed:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"], [alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]) > .image-wrapper,
+:is(.itw-image-line-left, .itw-image-line-right, .itw-image-line-block, .itw-inline-left, .itw-inline-right, .itw-inline-block) > .image-embed > .image-wrapper {
+	display: flex;
+}
+
+/* ---------- Top and bottom ---------- */
+
+/* Spacing sits in padding, not margin: CodeMirror measures boxes, so a margin would shift every later line. */
+.image-embed:is([alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]),
+p > img:is([alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]),
+.itw-image-line-block > .image-embed,
+.itw-inline-block > .image-embed {
+	display: block;
+	width: fit-content;
+	max-width: 100%;
+	margin-inline: auto;
+	margin-block: 0;
+	padding-block: calc(var(--itw-gap, 16px) / 2);
+	clear: both;
+}
+
+/* ---------- Images where wrapping is not offered ---------- */
+
+/*
+ * Inside list items, quotes, callouts, footnotes, tables and headings an image keeps Obsidian's in-line
+ * layout even if its link has a wrap token: Obsidian measures list and quote indents with the image in
+ * the line, so a float there would pull the first words under the picture. The toolbar and dragging skip
+ * these too. Footnotes, and lines that continue a list item or footnote without its marker, get no
+ * reliable class from Obsidian, so the plugin marks them (.itw-keep-in-line) where Reading view draws
+ * them inside the item.
+ */
+.is-live-preview .cm-content > .cm-line:is(.HyperMD-list-line, .HyperMD-quote, .HyperMD-header, .itw-keep-in-line) .image-embed:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"], [alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]),
+.cm-content :is(.cm-table-widget, .cm-callout) .image-embed:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"], [alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]) {
+	float: none;
+	clear: none;
+	display: inline-flex;
+	max-width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.markdown-rendered :is(li, blockquote, .callout, table, h1, h2, h3, h4, h5, h6) :is(.image-embed, img):is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"], [alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]) {
+	float: none;
+	clear: none;
+	display: inline;
+	max-width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+/* ---------- The image's own line in Live Preview ---------- */
+
+/*
+ * A line that holds only wrapped images takes no height of its own, so the float's top meets the
+ * first line of text beside it (and a top-and-bottom image is spaced only by its padding).
+ */
+/* Live Preview only: Source mode shows the link text on this line. */
+.is-live-preview .itw-has-wrap .cm-content > .cm-line:is(.itw-image-line-left, .itw-image-line-right, .itw-image-line-block, .itw-image-line-multi) {
+	font-size: 0;
+	line-height: 0;
+	padding-block: 0;
+}
+
+/*
+ * Spaces before the link: Obsidian gives a line that starts with spaces a hanging indent, measured at
+ * CodeMirror's empty placeholder in front of the picture. In the line, a left float would push that
+ * placeholder past the picture, and the indent would push the picture as far right. Floated itself,
+ * the placeholder stays at the start of the line (it has no size), so the line gets no indent.
+ */
+.is-live-preview .itw-has-wrap .cm-content > .cm-line.itw-image-line > .cm-widgetBuffer {
+	float: left;
+}
+
+/* ---------- Text beside a float, Live Preview ---------- */
+
+/* Headings, code, rules and footnotes clear floats by default; that leaves a gap CodeMirror cannot see. */
+.is-live-preview .itw-has-wrap .cm-content > .cm-line {
+	clear: none;
+}
+
+/*
+ * Lines with a hanging indent (lists, quotes) measure it at render time; beside a float that would
+ * include the image width. As their own formatting context they sit beside the image as a whole box.
+ * Not the image's own line: that would hold its float inside it.
+ */
+.is-live-preview .itw-has-wrap .cm-content > .cm-line:is(.HyperMD-list-line, .HyperMD-quote, .HyperMD-hr, .HyperMD-codeblock, [style*="text-indent"]):not(.itw-image-line) {
+	display: flow-root;
+}
+
+/* ---------- Reading view: the line break after an image glued above its text ---------- */
+
+.image-embed:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"], [alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]) + br,
+p > img:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"], [alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]) + br {
+	display: none;
+}
+
+/* ---------- Text beside a float, Reading view and PDF ---------- */
+
+/* Quote bars, callout backgrounds, rules and display math would be covered; nested lists lose their indent. */
+.itw-wrap-note :is(ul, ol, blockquote, .callout, hr, .math-block) {
+	display: flow-root;
+}
+
+/* ---------- Print and PDF ---------- */
+
+/*
+ * The page-break-* names, which Chromium treats as aliases of break-inside and break-after: Obsidian's plugin
+ * review flags the break-* properties as only partly supported (they belong to the multi-column feature).
+ */
+@media print {
+	.image-embed:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"], [alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]),
+	p > img:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"], [alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"], [alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"]),
+	.itw-print-float {
+		page-break-inside: avoid;
+	}
+	.itw-print-keep-with-next {
+		page-break-after: avoid;
+	}
+}
+
+/* ---------- Stand-ins ---------- */
+
+/*
+ * When CodeMirror stops drawing a wrapped image's own line while the picture still reaches into the
+ * drawn lines, src/live-preview/stand-ins.ts puts a display-only copy in front of the first drawn line:
+ * a zero-height block widget holding the copy, floated, sized and spaced like the real picture, and
+ * pulled up by as much as the real one starts above that line. The part above the line is cut off.
+ *
+ * Obsidian gives a block widget whose root is contenteditable="false" an important `contain: paint`,
+ * which would trap the float inside this zero-height box. So the widget's root has no contenteditable
+ * attribute (StandInWidget.editable in stand-ins.ts), and the element holding the copies inside it is
+ * contenteditable="false" instead: nothing in the widget is editable. Neither makes a block formatting
+ * context, so the floats reach the lines after the widget.
+ */
+.itw-stand-in {
+	height: 0;
+	margin: 0;
+	padding: 0;
+	user-select: none;
+}
+.itw-stand-in-copies {
+	user-select: none;
+}
+
+/* Holds a copy down when the real picture starts below the line (pushed down by an earlier one). */
+.itw-stand-in-sandbag {
+	width: 0;
+	height: var(--itw-stand-in-sandbag, 0px);
+}
+.itw-stand-in-sandbag.mod-left {
+	float: left;
+}
+.itw-stand-in-sandbag.mod-right {
+	float: right;
+}
+
+/*
+ * Positioned and raised like the real picture, so editor lines do not paint over it. Its box is the whole
+ * picture's, which the text wraps around; only the part inside .itw-stand-in-clip shows or takes a click.
+ */
+.itw-stand-in-float {
+	position: relative;
+	z-index: 1;
+	box-sizing: border-box;
+	width: var(--itw-stand-in-width, 0px);
+	height: var(--itw-stand-in-height, 0px);
+	margin-top: var(--itw-stand-in-margin-top, 0px);
+	margin-bottom: var(--itw-stand-in-margin-bottom, 0px);
+	pointer-events: none;
+}
+.itw-stand-in-float.mod-left {
+	float: left;
+	clear: left;
+	margin-left: var(--itw-stand-in-inset, 0px);
+	margin-right: var(--itw-stand-in-gap, 0px);
+}
+.itw-stand-in-float.mod-right {
+	float: right;
+	clear: right;
+	margin-right: var(--itw-stand-in-inset, 0px);
+	margin-left: var(--itw-stand-in-gap, 0px);
+}
+/*
+ * The part of the picture from the line down: from --itw-stand-in-clip (the part above the line) below the
+ * float's top to its bottom. The picture is drawn over the float's whole box, as without the cut, from the
+ * bottom of both, so it lies exactly where the float is.
+ */
+.itw-stand-in-clip {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	height: calc(var(--itw-stand-in-height, 0px) - var(--itw-stand-in-clip, 0px));
+	overflow: hidden;
+	pointer-events: auto;
+}
+.itw-stand-in-clip > img {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: var(--itw-stand-in-height, 0px);
+	max-width: none;
+	border-radius: var(--image-radius);
+	pointer-events: none;
+}
+
+/* ---------- Reading view ---------- */
+
+/*
+ * A heading beside a float keeps its text clear of the image, but its box (and any border a theme draws
+ * under it) runs under the image. As its own formatting context it sits beside the image as a whole.
+ * Applies to PDF export too, where the class is on the export's root.
+ */
+.itw-wrap-note :is(h1, h2, h3, h4, h5, h6) {
+	display: flow-root;
+}
+
+/*
+ * A remote image is a bare img whose stored size is its width attribute. The wrap rules above give it
+ * width: fit-content, which shrinks it to its natural size (48 px instead of 120 px measured), unlike
+ * Live Preview. Any CSS width overrides the attribute, so read it back; where attr() with a type is
+ * not supported the declaration is dropped and nothing changes.
+ */
+p > img:is([alt="wrap-left"], [alt^="wrap-left|"], [alt*="|wrap-left|"], [alt$="|wrap-left"])[width],
+p > img:is([alt="wrap-right"], [alt^="wrap-right|"], [alt*="|wrap-right|"], [alt$="|wrap-right"])[width],
+p > img:is([alt="wrap-block"], [alt^="wrap-block|"], [alt*="|wrap-block|"], [alt$="|wrap-block"])[width] {
+	width: attr(width px, auto);
+}
+
+/*
+ * Stand-ins (src/reading/stand-ins.ts): hidden copies of a wrapped image, cut to the part below the top
+ * of each section the image reaches. Reading view keeps only the sections near the screen in the page,
+ * after a "pusher" element that holds the space of those above. Only the first section in the page shows
+ * its stand-ins: exactly when the sections above it, the image's own among them, are gone. The copy is a
+ * background, so Obsidian's image viewer, which shows every img of the note, does not show it.
+ */
+.itw-rv-stand-in {
+	display: none;
+	box-sizing: border-box;
+	width: var(--itw-stand-in-width);
+	height: var(--itw-stand-in-height);
+	margin-top: var(--itw-stand-in-top, 0px);
+	overflow: hidden;
+	pointer-events: none;
+	user-select: none;
+}
+.itw-rv-stand-in-left {
+	float: left;
+	clear: left;
+	margin-right: var(--itw-stand-in-gap, 0px);
+}
+.itw-rv-stand-in-right {
+	float: right;
+	clear: right;
+	margin-left: var(--itw-stand-in-gap, 0px);
+}
+.itw-rv-stand-in-picture {
+	width: 100%;
+	height: var(--itw-stand-in-picture-height, 0px);
+	margin-top: calc(-1 * var(--itw-stand-in-offset, 0px));
+	background-image: var(--itw-stand-in-image, none);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.markdown-preview-pusher + .itw-host > .itw-rv-stand-in,
+.markdown-preview-pusher + .itw-host-skip + .itw-host > .itw-rv-stand-in,
+.markdown-preview-pusher + .itw-host-skip + .itw-host-skip + .itw-host > .itw-rv-stand-in {
+	display: block;
+}
+
+/*
+ * A section that keeps floats to itself (a table) holds no stand-in: beside a float it is narrowed as a
+ * whole. First in the page (one or two such sections in a row), it is narrowed as much as the floats
+ * beside it did, and the next section shows its stand-ins.
+ */
+.markdown-preview-pusher + .itw-host-skip,
+.markdown-preview-pusher + .itw-host-skip + .itw-host-skip {
+	margin-left: var(--itw-skip-left, 0px);
+	margin-right: var(--itw-skip-right, 0px);
+}
+
+/* ---------- Toolbar ---------- */
+
+/*
+ * One picture toolbar per window, placed by the plugin just above (or below) the selected image.
+ * Hidden with visibility rather than display so it can always be measured before it is placed.
+ */
+.itw-toolbar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: var(--layer-popover);
+	display: flex;
+	align-items: center;
+	gap: var(--size-2-1);
+	padding: var(--size-2-2);
+	background-color: var(--background-primary);
+	border: var(--border-width) solid var(--background-modifier-border);
+	border-radius: var(--radius-m);
+	box-shadow: var(--shadow-s);
+	user-select: none;
+}
+
+.itw-toolbar.itw-toolbar-hidden {
+	visibility: hidden;
+	pointer-events: none;
+}
+
+.itw-toolbar-separator {
+	align-self: stretch;
+	width: var(--border-width);
+	margin: var(--size-2-2) var(--size-2-1);
+	background-color: var(--background-modifier-border);
+}
+
+/* Pressed: the current layout, like Word's highlighted layout option. */
+.itw-toolbar .itw-toolbar-button.is-active,
+.itw-toolbar .itw-toolbar-button.is-active:hover {
+	background-color: var(--interactive-accent);
+	color: var(--text-on-accent);
+}
+
+.itw-toolbar .itw-toolbar-button.has-active-menu {
+	background-color: var(--background-modifier-hover);
+	color: var(--icon-color-hover);
+}
+
+/* Spacing while the picture is in line: shown faint, still hoverable so its tooltip can explain why. */
+.itw-toolbar .itw-toolbar-button.is-disabled,
+.itw-toolbar .itw-toolbar-button.is-disabled:hover {
+	background-color: transparent;
+	color: var(--text-faint);
+	cursor: default;
+}
+
+/*
+ * Phones and tablets: the toolbar is a sheet docked at the bottom of the screen instead, one per window.
+ * The plugin sets --itw-sheet-bottom to clear the keyboard and Obsidian's navigation bar and editing
+ * toolbar; it never goes below the safe area. Across the note's pane (--itw-sheet-left and -right, from the
+ * window's edges: a sidebar pinned on a tablet sits beside the note and is drawn above the sheet). Full
+ * width on a phone (less a small margin), a centred card on a tablet. Every button is at least 44 px tall
+ * and carries a visible label: touch has no hover, so no tooltip can explain an icon. Just below Obsidian's
+ * sidebar backdrop (--layer-cover), so an open sidebar covers it, and above the note and its header.
+ */
+.itw-sheet {
+	position: fixed;
+	left: calc(max(var(--itw-sheet-left, 0px), var(--safe-area-inset-left, 0px)) + var(--size-4-2));
+	right: calc(max(var(--itw-sheet-right, 0px), var(--safe-area-inset-right, 0px)) + var(--size-4-2));
+	bottom: max(var(--itw-sheet-bottom, 0px), var(--safe-area-inset-bottom, 0px));
+	z-index: calc(var(--layer-cover) - 1);
+	box-sizing: border-box;
+	max-width: 480px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	gap: var(--size-4-3);
+	padding: var(--size-4-3);
+	background-color: var(--background-primary);
+	border: var(--border-width) solid var(--background-modifier-border);
+	border-radius: var(--radius-xl);
+	box-shadow: var(--shadow-l);
+	color: var(--text-normal);
+	user-select: none;
+	-webkit-user-select: none;
+	-webkit-touch-callout: none;
+	touch-action: manipulation;
+	transition:
+		opacity var(--anim-duration-fast) var(--anim-motion-swing),
+		transform var(--anim-duration-fast) var(--anim-motion-swing),
+		visibility var(--anim-duration-fast);
+}
+
+/* Hidden with visibility, like the toolbar, so it can always be measured before it is placed. */
+.itw-sheet.itw-sheet-hidden,
+body.itw-dragging .itw-sheet {
+	visibility: hidden;
+	opacity: 0;
+	transform: translateY(var(--size-4-2));
+	pointer-events: none;
+}
+
+/*
+ * Just shown (for the time a double tap takes): taps go through to the note, so the second tap of a double
+ * tap reaches the picture under the sheet instead of a button that appeared under the finger.
+ */
+.itw-sheet.itw-sheet-arming {
+	pointer-events: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.itw-sheet {
+		transition: none;
+	}
+}
+
+.itw-sheet-choices {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: var(--size-4-2);
+}
+
+/* As specific as Obsidian's own button rules (button:not(.clickable-icon).mobile-tap), and later. */
+.itw-sheet .itw-sheet-choice {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: var(--size-4-1);
+	height: auto;
+	min-height: var(--touch-size-xl);
+	padding: var(--size-4-2) var(--size-4-1);
+	border-radius: var(--radius-m);
+	background-color: var(--interactive-normal);
+	box-shadow: none;
+	color: var(--text-normal);
+	font-size: var(--font-ui-smaller);
+	line-height: var(--line-height-tight);
+	text-align: center;
+	white-space: normal;
+}
+
+.itw-sheet-choice-icon {
+	display: flex;
+	--icon-size: var(--icon-l);
+	--icon-stroke: var(--icon-l-stroke-width);
+}
+
+.itw-sheet-spacing-section {
+	display: flex;
+	flex-direction: column;
+	gap: var(--size-4-1);
+}
+
+.itw-sheet-spacing-header {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	gap: var(--size-4-2);
+	padding: 0 var(--size-4-1);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+}
+
+.itw-sheet-spacing-title {
+	font-weight: var(--font-semibold);
+}
+
+.itw-sheet-spacing-hint {
+	text-align: end;
+}
+
+.itw-sheet-spacing-hint.itw-sheet-hint-hidden {
+	visibility: hidden;
+}
+
+/* The spacing choices as one segmented row. */
+.itw-sheet-spacing {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: var(--size-2-1);
+	padding: var(--size-2-1);
+	border-radius: var(--radius-m);
+	background-color: var(--background-secondary);
+	border: var(--border-width) solid var(--background-modifier-border);
+}
+
+.itw-sheet .itw-sheet-segment {
+	height: auto;
+	min-height: max(var(--touch-size-m), 44px);
+	padding: 0 var(--size-4-1);
+	border-radius: var(--radius-s);
+	background-color: transparent;
+	box-shadow: none;
+	color: var(--text-normal);
+	font-size: var(--font-ui-small);
+}
+
+/* Pressed: the current layout and spacing, filled with the accent colour and in bold. */
+.itw-sheet .itw-sheet-choice.is-active,
+.itw-sheet .itw-sheet-segment.is-active {
+	background-color: var(--interactive-accent);
+	color: var(--text-on-accent);
+	font-weight: var(--font-semibold);
+}
+
+/* Spacing while the picture is in line: dimmed (Obsidian also dims aria-disabled buttons), and the hint above says why. */
+.itw-sheet .itw-sheet-segment.is-disabled {
+	background-color: transparent;
+	color: var(--text-muted);
+	cursor: default;
+}
+
+/*
+ * The compact sheet (.itw-sheet-compact, chosen by the plugin): one row, the layouts on the left and the
+ * spacing on the right, about 70 px tall instead of 170. A short window (a phone in landscape) always has it,
+ * so the picture it is for fits above it, and a taller one has it while the full sheet would leave too little
+ * of the note in view (a tablet with the keyboard up). Each layout keeps its icon and label, the icon over a
+ * label in one line; "Spacing" stands beside its segments, and while the picture is in line the explanation
+ * takes the place of the segments, which do nothing then.
+ */
+.itw-sheet.itw-sheet-compact {
+	flex-direction: row;
+	align-items: stretch;
+	max-width: none;
+	padding: var(--size-4-2);
+}
+
+.itw-sheet-compact .itw-sheet-choices {
+	flex: 4 1 0;
+	gap: var(--size-4-1);
+}
+
+.itw-sheet.itw-sheet-compact .itw-sheet-choice {
+	gap: var(--size-2-1);
+	min-height: max(var(--touch-size-m), 44px);
+	padding: var(--size-2-2) var(--size-4-1);
+}
+
+/* Never narrower than "Spacing" and its segments need: the layouts' labels wrap first. */
+.itw-sheet-compact .itw-sheet-spacing-section {
+	flex: 3 1 0;
+	flex-direction: row;
+	align-items: center;
+	gap: var(--size-4-2);
+	min-width: min-content;
+}
+
+.itw-sheet-compact .itw-sheet-spacing-header {
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 0;
+	padding: 0;
+}
+
+.itw-sheet-compact .itw-sheet-spacing-hint {
+	text-align: start;
+}
+
+.itw-sheet-compact .itw-sheet-spacing-hint.itw-sheet-hint-hidden,
+.itw-sheet-compact .itw-sheet-spacing.is-disabled {
+	display: none;
+}
+
+/*
+ * Every segment at least as wide as its label (in bold while pressed), with a narrower padding: on a narrow
+ * phone in landscape (667 px) "Medium" does not fit a quarter of the row. Equal while they all fit.
+ */
+.itw-sheet-compact .itw-sheet-spacing {
+	flex: 1 1 0;
+	align-self: stretch;
+	min-width: 0;
+	grid-template-columns: repeat(4, minmax(max-content, 1fr));
+}
+
+.itw-sheet.itw-sheet-compact .itw-sheet-segment {
+	padding: 0 var(--size-2-1);
+}
+
+/* ---------- Drag ---------- */
+
+/*
+ * While an image is dragged (.itw-dragging on the window's body): a grabbing cursor everywhere and no
+ * tooltips (Obsidian reads --no-tooltip before showing one; a tooltip already open is hidden too).
+ * The plugin's own body class is removed on every way a drag ends, so the cursor is never left stuck.
+ */
+body.itw-dragging,
+body.itw-dragging * {
+	cursor: grabbing;
+}
+body.itw-dragging {
+	--no-tooltip: true;
+}
+body.itw-dragging .itw-toolbar {
+	visibility: hidden;
+}
+body.itw-dragging > .tooltip {
+	display: none;
+}
+
+/* The image being moved stays where it is, dimmed, until it is dropped. */
+.image-embed.itw-drag-source {
+	opacity: 0.35;
+}
+
+/*
+ * Phones and tablets: a finger resting on an image selects no text and opens no system callout for the
+ * picture, as a long press picks the image up instead.
+ */
+.image-embed.itw-drag-pressed,
+.image-embed.itw-drag-pressed img {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	user-select: none;
+}
+
+/* Picked up by a finger, until the finger moves: lifted off the page, with a ring in the accent colour. */
+.markdown-source-view .cm-content .image-embed.itw-drag-lifted .image-wrapper {
+	border-radius: var(--image-radius);
+	box-shadow: var(--shadow-l);
+}
+.markdown-source-view .cm-content .image-embed.itw-drag-lifted .image-wrapper::after {
+	content: '';
+	position: absolute;
+	inset: 0;
+	pointer-events: none;
+	border-radius: var(--image-radius);
+	box-shadow: inset 0 0 0 3px var(--interactive-accent);
+}
+
+/* A ring that spreads from the finger and fades as it picks an image up (overlay.ts adds .is-spreading). */
+.itw-pick-up {
+	position: fixed;
+	left: var(--itw-pick-up-x, -9999px);
+	top: var(--itw-pick-up-y, -9999px);
+	z-index: var(--layer-dragged-item);
+	width: 160px;
+	height: 160px;
+	margin: -80px 0 0 -80px;
+	box-sizing: border-box;
+	border: 3px solid var(--interactive-accent);
+	border-radius: 50%;
+	background-color: hsla(var(--interactive-accent-hsl), 0.15);
+	pointer-events: none;
+	opacity: 0.9;
+	transform: scale(0.15);
+	transition:
+		transform 300ms ease-out,
+		opacity 300ms ease-out;
+}
+.itw-pick-up.is-spreading {
+	opacity: 0;
+	transform: scale(1);
+}
+@media (prefers-reduced-motion: reduce) {
+	.itw-pick-up {
+		display: none;
+	}
+}
+
+/*
+ * For one measure as the drag starts, the note is laid out without the image (never painted): how far the
+ * text it wraps moves up once it has gone. As specific as Obsidian's own rule for embeds on a line of their own.
+ */
+.markdown-source-view .cm-content .image-embed.itw-drag-measure {
+	display: none;
+}
+
+/* A translucent copy of the image beside the pointer. Never takes the pointer. */
+.itw-drag-ghost {
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: var(--layer-dragged-item);
+	pointer-events: none;
+	width: var(--itw-ghost-width, 0);
+	height: var(--itw-ghost-height, 0);
+	transform: translate(var(--itw-ghost-x, -9999px), var(--itw-ghost-y, -9999px));
+	opacity: 0.6;
+	border-radius: var(--radius-s);
+	box-shadow: var(--shadow-l);
+	overflow: hidden;
+}
+.itw-drag-ghost img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+
+/* Where the image will land: a bar across the note column at the start of the target block... */
+.itw-drop-bar,
+.itw-drop-box,
+.itw-drop-label {
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: var(--layer-dragged-item);
+	pointer-events: none;
+	box-sizing: border-box;
+}
+.itw-drop-bar {
+	width: var(--itw-drop-width, 0);
+	height: 3px;
+	border-radius: 2px;
+	background-color: var(--interactive-accent);
+	transform: translate(var(--itw-drop-x, 0), calc(var(--itw-drop-y, 0) - 1.5px));
+}
+
+/* ...and, for a wrapped image, a dashed outline on the side it will wrap (or centred, top and bottom). */
+.itw-drop-box {
+	width: var(--itw-drop-width, 0);
+	height: var(--itw-drop-height, 0);
+	border: 2px dashed var(--interactive-accent);
+	border-radius: var(--radius-m);
+	background-color: hsla(var(--interactive-accent-hsl), 0.08);
+	transform: translate(var(--itw-drop-x, 0), var(--itw-drop-y, 0));
+}
+
+.itw-drop-label {
+	padding: 1px var(--size-4-2);
+	border-radius: var(--radius-s);
+	background-color: var(--interactive-accent);
+	color: var(--text-on-accent);
+	font-size: var(--font-ui-smaller);
+	font-weight: var(--font-medium);
+	white-space: nowrap;
+	/* Above the bar, or inside the top-left corner of the outline. */
+	transform: translate(var(--itw-drop-x, 0), calc(var(--itw-drop-y, 0) - 100% - 4px));
+}
+.itw-drop-label.is-in-box {
+	transform: translate(calc(var(--itw-drop-x, 0) + 8px), calc(var(--itw-drop-y, 0) + 8px));
+}
+
+.itw-drop-bar.is-hidden,
+.itw-drop-box.is-hidden,
+.itw-drop-label.is-hidden {
+	display: none;
+}

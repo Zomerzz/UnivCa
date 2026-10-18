@@ -3,5 +3,11 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "readableLineLength": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
