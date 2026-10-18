@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "78343a9ff663db98",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Riepilogo parziale loi"
+            }
+          },
+          {
             "id": "5925705324e59437",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -331,7 +343,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f32e85f5910ded36",
+  "active": "78343a9ff663db98",
   "lastOpenFiles": [
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
