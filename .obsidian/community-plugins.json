@@ -6,10 +6,12 @@
   "obsidian-excalidraw-plugin",
   "obsidian-latex-suite",
   "excalidraw-extras",
+  "editing-toolbar",
+  "font-size",
+  "group-tabs",
+  "image-text-wrap",
+  "obsidian-image-toolkit",
   "runnable-code-blocks",
   "obsidian-plugin-groups",
-  "editing-toolbar",
-  "quick-latex",
-  "font-size",
-  "image-text-wrap"
+  "quick-latex"
 ]
