@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67caddc2fd2eaf4f",
+        "id": "20f26020de526170",
         "type": "tabs",
         "children": [
           {
-            "id": "ea738b9cfe259632",
+            "id": "f6a885bafb90c179",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "riepilo parziale loi 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "riepilo parziale loi 2"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -189,10 +185,12 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "ea738b9cfe259632",
+  "active": "f6a885bafb90c179",
   "lastOpenFiles": [
-    "Riepilogo parziale loi.md",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "riepilo parziale loi 2.md",
+    "Riepilogo parziale loi.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
     "Appunti Z/img/insiemi e sottoinsiemi di C.png",
     "Appunti Z/img/Pasted Image 20261008221059_150.png",
@@ -229,13 +227,8 @@
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Recording 20261006092612.m4a"
   ]
 }
