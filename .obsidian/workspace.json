@@ -133,24 +133,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi.md"
+                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Riepilogo parziale loi"
+              "title": "Riepilogo parziale loi zozzo"
             }
           },
           {
             "id": "78343a9ff663db98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/Senza nome.md",
-                "mode": "source",
-                "source": false
+                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md"
               },
-              "icon": "lucide-file",
-              "title": "Senza nome"
+              "icon": "excalidraw-icon",
+              "title": "Riepilogo parziale loi zozzo"
             }
           },
           {
@@ -347,8 +345,10 @@
   },
   "active": "78343a9ff663db98",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Emanuel/matematica/riepilogo parziale loi.md",
     "Appunti Emanuel/matematica/Senza nome.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
     "Appunti Z/img/Pasted Image 20261017230042_767.png",
     "Appunti Z/Senza nome.md",
@@ -378,8 +378,6 @@
     "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Z/fisica/Lavagna esercizzi.md",
-    "Appunti Z/fisica/fisica 13 10.md",
-    "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/img/Pasted Image 20261013121641_318.png",
     "Appunti Z/img/Pasted Image 20261013120045_491.png",
     "Appunti Z/img/Pasted Image 20261012143828_067.png",
