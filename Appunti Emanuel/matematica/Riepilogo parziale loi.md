@@ -96,4 +96,12 @@ di conseguenza il rapporto è equivalente ha
 per il teorema del confronto senx/x tende a 1.
 
 ___________________________________________________________________________________
-# $\frac {1-\cos x}{x^2}$
+# $\lim_{ x \to 0 }\frac {1-\cos x}{x^{2}}= \frac {1}{2}$
+# $\frac {1-\cos x}{x^{2}} \cdot \frac {1+\cos x}{1+\cos x}$
+# $\frac {1-\cos^2{x}}{x^{2(1+\cos x)}}= \frac {sen^2{x}}{x^2({1+\cos x})}$
+# $\left( \frac {sen(x)}{x} \right)^2\cdot\frac{1}{1+\cos x}$
+porto a limite
+
+# $1^{2}\cdot \frac{1}{1+1}=\frac {1}{2}$
+_______________________________________________________________________________________________________
+# $\lim_{x \to 0}{\frac {tgx}{x}}$
