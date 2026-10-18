@@ -79,7 +79,13 @@ allora ->$\lim_{ x \to x_{0}}f(x)=l$
 
 Per la dimostrazione mi servo del seguente diagramma.
 
-noto la relazione che lega i tre triangoli $A_{OPH}<A_{OPA}<A_{OQA}$
+noto la relazione che lega i tre triangoli $A_{OPH}<A_{OPA}<A_{arco\ OPA}< A_{OQA}$
 L'area dei tre triangoli è
-# $A_{OPH}= \frac{1 \cdot \sin x}{2}$
-$A_{OPA}$
+# $A_{triangolo\ OPA}= \frac{1 \cdot \sin x}{2}$
+# $A_{arco\ OPA}=\pi\cdot r^{2}\cdot \frac{a}{360}$
+# $A_{OQA}=\frac {1\cdot\ tgx}{2}$
+
+# $A_{arco\ OPA}= \frac{\pi \cdot x}{2\pi}=\frac{x}{2}$
+
+mi rifaccio al rapporto iniziale
+di conseguenza il rapporto è equivalente ha $\frac{sin x}{2}<\frac {x}{2}$
