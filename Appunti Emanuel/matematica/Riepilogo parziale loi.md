@@ -71,6 +71,8 @@ allora ->$\lim_{ x \to x_{0}}f(x)=l$
 # <font color="#c0504d">Limiti Notevoli</font>
 
 ![[Pasted image 20261018174952.png]]
+inoltre il limite notevole:
+# $\lim_{ t \to 0 } (1+t)^{\frac{1}{t}}=e$
 
 ## <font color="#953734">Dimostrazioni limiti notevoli</font>
 
@@ -96,4 +98,70 @@ di conseguenza il rapporto è equivalente ha
 per il teorema del confronto senx/x tende a 1.
 
 ___________________________________________________________________________________
-# $\frac {1-\cos x}{x^2}$
+# $\lim_{ x \to 0 }\frac {1-\cos x}{x^{2}}= \frac {1}{2}$
+# $\frac {1-\cos x}{x^{2}} \cdot \frac {1+\cos x}{1+\cos x}$
+# $\frac {1-\cos^2{x}}{x^{2(1+\cos x)}}= \frac {sen^2{x}}{x^2({1+\cos x})}$
+# $\left( \frac {sen(x)}{x} \right)^2\cdot\frac{1}{1+\cos x}$
+porto a limite
+
+# $1^{2}\cdot \frac{1}{1+1}=\frac {1}{2}$
+_______________________________________________________________________________________________________
+# $\lim_{x \to 0}{\frac {tgx}{x}}=$
+# $\lim_{ x \to 0 }{\frac {\sin x}{\cos x}\cdot \frac {1}{x}}=$
+
+# $\lim_{  x \to 0 }{\frac {\sin x}{x}\cdot \frac {1}{\cos x}}=$
+
+# $1 \cdot 1=1$
+________________________________________________________________________________________________
+# $\lim_{ x \to 0 }{\frac {\arcsin x}{x}}=$
+# $\arcsin x=t \implies x=\sin t$
+
+# $\lim_{ x \to 0 }\frac {t}{\sin t}=\frac {\sin t}{t}=1$
+
+il seguente metodo è valido anche per arcotangente, prova a dimostrarlo tu
+________________________________________________________________________
+# $\lim_{ x\ \to 0 }{\frac {\log_{a}(1+x)}{x}=\log_{a}e}$ 
+questo lim notevole, è dimostrabile solo per integrale o tramite sostituzione per un altro limite notevole, per il momento lo diamo "per assodato" e lo ritrattiamo con un altro limite notevole $\lim_{ t \to 0 } (1+t)^{\frac{1}{t}}=e$ che invece non è stato dimostrato ed è ''fondamentale'' e dimostrabile circolarmente solo attraverso il limite notevole del logaritmo.
+____________________________________________________________________
+# $\lim_{ x \to \infty }\left( 1+{\frac {1}{x}} \right)^x=e$
+# $\frac{1}{x}=t;x\to\infty;t\to 0$  
+
+# $\lim_{ x \to \infty }{\left( 1+\frac{1}{x} \right)^x}=\lim_{ x \to 0 }(1+t)^{\frac{1}{t}}=e$
+
+poichè per x che tende a infinito, t tende allo zero, ci ritroviamo col limite notevole già visto in precedenza.
+___________________________________________________________
+# $\lim_{ x \to 0 }{\frac {\log(1+x)}{x}}=\log_{a}e$
+
+# $\frac{1}{x}\cdot \log_{a}1\cdot \log_{a}x$
+
+# $\lim_{ x \to 0 }\log_{a}(1+x)^{\frac{1}{x}}=\log_{a}e$
+_________________________________________________
+# $\lim_{ x \to 0 }\frac{a^{x}-1}{x}=\log_{e}a$
+
+# $\log_{a}{a^{x}}=x;a^{x-1}=t;\implies \log_{a}{a^x}=\log_{a}{(t+1)}$
+
+di conseguenza
+
+# $\lim_{ x \to 0 }{\frac{a^x-1}{x}}=\lim_{ x \to 0 }{\frac{t}{\log_{a}(t+1)}}$
+
+per limite notevole visto in precedenza $\lim_{ x \to 0 }{\frac{\log_{a}(t+1)}{t}=\log_{a}{e}}$
+
+# ${\lim_{ x \to 0 }{\frac {t}{\log_{a}(t+1)}}}=\frac{1}{\log_{a}{e}}$
+
+per cambio di base:
+
+# $\frac{1}{\log_{a}{e}}={\log_{e}{a}}$
+__________________________________________________________________
+# $\lim_{ t \to 0 } \left( 1+t \right)^{\frac {1}{t}}=e$
+
+applico il logaritmo
+
+# $\ln \left( 1+t \right)^{\frac {1}{t}}=\ln L$
+
+# $\lim_{ t \to 0 }\frac{\ln (1+t)}{t}=\log_{e}e=1$
+
+ma se è uguale a 1 l'argomento è e
+
+di conseguenza e è il valore del primo limite
+
+dato che $\ln_{e}e=1$  l'argomento del logaritmo è e.
