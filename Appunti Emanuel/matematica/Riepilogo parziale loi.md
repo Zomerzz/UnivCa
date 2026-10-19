@@ -130,4 +130,16 @@ ____________________________________________________________________
 
 poichè per x che tende a infinito, t tende allo zero, ci ritroviamo col limite notevole già visto in precedenza.
 ___________________________________________________________
-# $\lim_{ x \to 0 }{\frac {\ln(1+x)}{x}}$
+# $\lim_{ x \to 0 }{\frac {\log(1+x)}{x}}=\log_{a}e$
+
+# $\frac{1}{x}\cdot \log_{a}1\cdot \log_{a}x$
+
+# $\lim_{ x \to 0 }\log_{a}(1+x)^{\frac{1}{x}}=\log_{a}e$
+_________________________________________________
+# $\lim_{ x \to 0 }\frac{a^{x}-1}{x}=\log_{e}a$
+
+# $\log_{a}{a^{x}}=x;a^{x-1}=t;\implies \log_{a}{a^x}=\log_{a}{(t+1)}$
+
+di conseguenza
+
+# $\lim_{ x \to 0 }{\frac{a^x-1}{x}}=\lim_{ x \to 0 }{\frac}$
