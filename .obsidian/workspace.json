@@ -35,12 +35,14 @@
             "id": "782301071f57656c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/fondamenti di programmazione 19_10_2026.md"
+                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "fondamenti di programmazione 19_10_2026"
+              "icon": "lucide-file",
+              "title": "Riepilogo parziale loi"
             }
           }
         ],
@@ -214,8 +216,8 @@
   },
   "active": "782301071f57656c",
   "lastOpenFiles": [
-    "Appunti Emanuel/fondamenti programmazione/16_10_2026 array continuo.md",
     "Appunti Emanuel/fondamenti programmazione/fondamenti di programmazione 19_10_2026.md",
+    "Appunti Emanuel/fondamenti programmazione/16_10_2026 array continuo.md",
     "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
     "Appunti Emanuel/fondamenti programmazione/12-10-2026 struttre di controllo iterative.md",
