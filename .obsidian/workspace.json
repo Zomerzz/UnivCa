@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c1bce1dbf17ad86d",
+        "id": "f2d4b4037977f253",
         "type": "tabs",
         "children": [
           {
-            "id": "f32e85f5910ded36",
+            "id": "fe92704cdc1a3e1b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md"
+                "file": "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "13-10-2026 forze apparenti"
-            }
-          },
-          {
-            "id": "78343a9ff663db98",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "limiti notevoli 07-10-2026"
+              "title": "Drawing 2026-10-18 19.11.40.excalidraw"
             }
           }
         ]
@@ -96,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.20001220703125
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -195,53 +183,52 @@
       "audio-recorder:Avvia/ferma registrazione": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "group-tabs:Recent tab groups": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f32e85f5910ded36",
+  "active": "fe92704cdc1a3e1b",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
-    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
-    "Pasted Image 20261018213224_364.png",
-    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
-    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
-    "Pasted Image 20261018193019_807.png",
-    "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md",
+    "Appunti Z/Lavagna esercizzi 1.md",
+    "Appunti Z/Lavagna esercizi 2.md",
+    "Appunti Z/fisica/fisica 13 10.md",
+    "Appunti Z/fisica/fisica 15 10.md",
+    "Appunti Z/fisica/tutoring 16 10.md",
+    "riepilo parziale loi 2.md",
     "Pasted image 20261018185805.png",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
+    "Pasted Image 20261018213224_364.png",
+    "Pasted Image 20261018193019_807.png",
+    "Appunti Z/img/sinx x.png",
     "Appunti Z/img/Pasted image 20261018174952.png",
     "Appunti Z/img/Pasted image 20261018174627.png",
     "Appunti Z/img/Pasted image 20261018174541.png",
     "Appunti Z/img/Pasted image 20261018171614.png",
     "Appunti Z/img/Pasted image 20261018171317.png",
     "Appunti Z/img/Pasted image 20261018165443.png",
-    "Appunti Z/img/Pasted image 20261018165403.png",
-    "Appunti Z/Lavagna esercizi 2.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
-    "riepilo parziale loi 2.md",
-    "Riepilogo parziale loi.md",
-    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
+    "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
+    "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
     "Appunti Emanuel/fondamenti programmazione/la stronzarte di val.md",
-    "Appunti Emanuel/Fisica/16_10_2026.md",
-    "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md",
-    "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
-    "Appunti Z/fisica/fisica 08 10.md",
-    "Appunti Emanuel/matematica/riepilogo parziale loi.md",
-    "Appunti Emanuel/matematica/Senza nome.md",
-    "Appunti Z/Senza nome.md",
-    "Appunti Z/Lavagna esercizzi 1.md",
-    "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
+    "Appunti Emanuel/fondamenti programmazione/16_10_2026 array continuo.md",
+    "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
+    "Appunti Z/fisica/fisica 16 10.md",
+    "Appunti Emanuel/fondamenti programmazione/Drawing 2026-10-16 11.44.19.excalidraw.md",
+    "Appunti Z/fisica/Lavagna esercizzi.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
+    "Appunti Emanuel/Fisica/16_10_2026.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md",
+    "Appunti Z/fondamenti di programmazione/Senza nome.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
+    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
+    "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
+    "Appunti Z/fisica/fisica 08 10.md",
+    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
+    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Recording 20261006092612.m4a",
     "Recording 20261006092629.m4a",
     "Appunti Z/analisi matematica/settembre",
