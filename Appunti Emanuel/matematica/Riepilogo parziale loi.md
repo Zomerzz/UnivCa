@@ -72,7 +72,7 @@ allora ->$\lim_{ x \to x_{0}}f(x)=l$
 
 ![[Pasted image 20261018174952.png]]
 inoltre il limite notevole:
-# $\lim_{ x \to 0 } (1+t)^{\frac{1}{t}}=e$
+# $\lim_{ t \to 0 } (1+t)^{\frac{1}{t}}=e$
 
 ## <font color="#953734">Dimostrazioni limiti notevoli</font>
 
@@ -120,4 +120,14 @@ ________________________________________________________________________________
 
 il seguente metodo è valido anche per arcotangente, prova a dimostrarlo tu
 ________________________________________________________________________
-# $\lim_{ x\ \to 0 }{\frac {\ln(1+x)}{x}=\log_{a}e}$ 
+# $\lim_{ x\ \to 0 }{\frac {\log_{a}(1+x)}{x}=\log_{a}e}$ 
+questo lim notevole, è dimostrabile solo per integrale o tramite sostituzione per un altro limite notevole, per il momento lo diamo "per assodato" e lo ritrattiamo con un altro limite notevole $\lim_{ t \to 0 } (1+t)^{\frac{1}{t}}=e$
+____________________________________________________________________
+# $\lim_{ x \to \infty }\left( 1+{\frac {1}{x}} \right)^x=e$
+# $\frac{1}{x}=t;x\to\infty;t\to 0$  
+
+# $\lim_{ x \to \infty }{\left( 1+\frac{1}{x} \right)^x}=\lim_{ x \to 0 }(1+t)^{\frac{1}{t}}=e$
+
+poichè per x che tende a infinito, t tende allo zero, ci ritroviamo col limite notevole già visto in precedenza.
+___________________________________________________________
+# $\lim_{ x \to 0 }{\frac {\ln(1+x)}{x}}$
