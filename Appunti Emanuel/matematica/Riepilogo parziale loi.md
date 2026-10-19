@@ -71,6 +71,8 @@ allora ->$\lim_{ x \to x_{0}}f(x)=l$
 # <font color="#c0504d">Limiti Notevoli</font>
 
 ![[Pasted image 20261018174952.png]]
+inoltre il limite notevole:
+# $\lim_{ x \to 0 } (1+t)^{\frac{1}{t}}=e$
 
 ## <font color="#953734">Dimostrazioni limiti notevoli</font>
 
@@ -115,4 +117,7 @@ ________________________________________________________________________________
 # $\arcsin x=t \implies x=\sin t$
 
 # $\lim_{ x \to 0 }\frac {t}{\sin t}=\frac {\sin t}{t}=1$
+
+il seguente metodo è valido anche per arcotangente, prova a dimostrarlo tu
 ________________________________________________________________________
+# $\lim_{ x\ \to 0 }{\frac {\ln(1+x)}{x}=\log_{a}e}$ 
