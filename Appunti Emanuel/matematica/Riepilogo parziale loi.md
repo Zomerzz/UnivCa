@@ -154,6 +154,10 @@ per cambio di base:
 __________________________________________________________________
 # $\lim_{ t \to 0 } \left( 1+\frac{1}{t} \right)^t=e$
 
+applico il logaritmo
 
+# $\ln \left( 1+\frac{1}{t}\right)^{t=}\ln L$
+
+# $$
 
 
