@@ -35,12 +35,14 @@
             "id": "782301071f57656c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md"
+                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "13-10-2026 forze apparenti"
+              "icon": "lucide-file",
+              "title": "Riepilogo parziale loi"
             }
           }
         ],
@@ -214,6 +216,7 @@
   },
   "active": "782301071f57656c",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
     "Appunti Emanuel/Fisica/16_10_2026.md",
     "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
@@ -222,7 +225,6 @@
     "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
     "Appunti Emanuel/fondamenti programmazione/12-10-2026 struttre di controllo iterative.md",
-    "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
     "riepilo parziale loi 2.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
     "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
