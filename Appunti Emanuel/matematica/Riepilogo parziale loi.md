@@ -121,7 +121,7 @@ ________________________________________________________________________________
 il seguente metodo è valido anche per arcotangente, prova a dimostrarlo tu
 ________________________________________________________________________
 # $\lim_{ x\ \to 0 }{\frac {\log_{a}(1+x)}{x}=\log_{a}e}$ 
-questo lim notevole, è dimostrabile solo per integrale o tramite sostituzione per un altro limite notevole, per il momento lo diamo "per assodato" e lo ritrattiamo con un altro limite notevole $\lim_{ t \to 0 } (1+t)^{\frac{1}{t}}=e$
+questo lim notevole, è dimostrabile solo per integrale o tramite sostituzione per un altro limite notevole, per il momento lo diamo "per assodato" e lo ritrattiamo con un altro limite notevole $\lim_{ t \to 0 } (1+t)^{\frac{1}{t}}=e$ che invece non è stato dimostrato ed è ''fondamentale'' e dimostrabile circolarmente solo attraverso il limite notevole del logaritmo.
 ____________________________________________________________________
 # $\lim_{ x \to \infty }\left( 1+{\frac {1}{x}} \right)^x=e$
 # $\frac{1}{x}=t;x\to\infty;t\to 0$  
@@ -152,3 +152,8 @@ per cambio di base:
 
 # $\frac{1}{\log_{a}{e}}={\log_{e}{a}}$
 __________________________________________________________________
+# $\lim_{ t \to 0 } \left( 1+\frac{1}{t} \right)^t=e$
+
+
+
+
