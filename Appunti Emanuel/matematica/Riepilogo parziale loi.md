@@ -142,4 +142,13 @@ _________________________________________________
 
 di conseguenza
 
-# $\lim_{ x \to 0 }{\frac{a^x-1}{x}}=\lim_{ x \to 0 }{\frac}$
+# $\lim_{ x \to 0 }{\frac{a^x-1}{x}}=\lim_{ x \to 0 }{\frac{t}{\log_{a}(t+1)}}$
+
+per limite notevole visto in precedenza $\lim_{ x \to 0 }{\frac{\log_{a}(t+1)}{t}=\log_{a}{e}}$
+
+# ${\lim_{ x \to 0 }{\frac {t}{\log_{a}(t+1)}}}=\frac{1}{\log_{a}{e}}$
+
+per cambio di base:
+
+# $\frac{1}{\log_{a}{e}}={\log_{e}{a}}$
+__________________________________________________________________
