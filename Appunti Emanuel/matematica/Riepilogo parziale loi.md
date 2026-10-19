@@ -152,12 +152,16 @@ per cambio di base:
 
 # $\frac{1}{\log_{a}{e}}={\log_{e}{a}}$
 __________________________________________________________________
-# $\lim_{ t \to 0 } \left( 1+\frac{1}{t} \right)^t=e$
+# $\lim_{ t \to 0 } \left( 1+t \right)^{\frac {1}{t}}=e$
 
 applico il logaritmo
 
-# $\ln \left( 1+\frac{1}{t}\right)^{t=}\ln L$
+# $\ln \left( 1+t \right)^{\frac {1}{t}}=\ln L$
 
-# $$
+# $\lim_{ t \to 0 }\frac{\ln (1+t)}{t}=\log_{e}e=1$
 
+ma se è uguale a 1 l'argomento è e
 
+di conseguenza e è il valore del primo limite
+
+dato che $\ln_{e}e=1$  l'argomento del logaritmo è e.
