@@ -11,24 +11,24 @@
             "id": "9ad0426b2e2d03e0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
+                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "16_10_2026"
+              "icon": "lucide-file-text",
+              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
             }
           },
           {
-            "id": "6bf40d37ee7fff17",
+            "id": "9a41c0ec3a3a2fea",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md"
+                "file": "Appunti Z/fisica/fisica 20 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "conservazione dell'energia cinetica"
+              "title": "fisica 20 10"
             }
           }
         ],
