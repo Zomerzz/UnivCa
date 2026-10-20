@@ -11,28 +11,40 @@
             "id": "16be610d95e7804b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
+                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "16_10_2026"
+              "icon": "lucide-file-text",
+              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
             }
           },
           {
-            "id": "6bf40d37ee7fff17",
+            "id": "9a41c0ec3a3a2fea",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md"
+                "file": "Appunti Z/fisica/fisica 08 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "conservazione dell'energia cinetica"
+              "title": "fisica 08 10"
+            }
+          },
+          {
+            "id": "2eafc80105580e7f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/fisica 20 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 20 10"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.20001220703125,
-    "collapsed": true
+    "width": 413.20001220703125
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -201,17 +212,16 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "9a41c0ec3a3a2fea",
+  "active": "2eafc80105580e7f",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 08 10.md",
+    "Appunti Z/fisica/Fisica 06 10.md",
     "Appunti Z/fisica/fisica 20 10.md",
-    "Appunti Emanuel/Fisica/16_10_2026.md",
-    "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
-    "Appunti Emanuel/Fisica/Senza nome.md",
+    "Senza nome.base",
     "Senza nome 2.base",
     "Senza nome 1.base",
     "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Appunti Z/fisica/fisica 20 10.md",
     "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md",
     "Appunti Z/fisica/fisica 15 10.md",
     "Appunti Z/fisica/fisica 16 10.md",
@@ -244,23 +254,11 @@
     "Appunti Emanuel/fondamenti programmazione/la stronzarte di val.md",
     "Appunti Emanuel/Fisica/16_10_2026.md",
     "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md",
-    "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Excalidraw/Senza nome 2026-10-18 15.15.41.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
-    "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
-    "Appunti Z/Senza nome.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
-    "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
-    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "[[Appunti Emanuel/matematica",
-    "[[Appunti Emanuel",
-    "Excalidraw/Libraries/local-library.excalidrawlib",
-    "Excalidraw/Libraries"
+    "Recording 20261006092612.m4a",
+    "Recording 20261006092629.m4a"
   ]
 }
