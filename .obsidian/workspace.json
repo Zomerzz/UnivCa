@@ -11,24 +11,24 @@
             "id": "16be610d95e7804b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+              "icon": "excalidraw-icon",
+              "title": "16_10_2026"
             }
           },
           {
-            "id": "9a41c0ec3a3a2fea",
+            "id": "6bf40d37ee7fff17",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 20 10.md"
+                "file": "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 20 10"
+              "title": "conservazione dell'energia cinetica"
             }
           }
         ],
@@ -203,7 +203,10 @@
   },
   "active": "9a41c0ec3a3a2fea",
   "lastOpenFiles": [
-    "Senza nome.base",
+    "Appunti Z/fisica/fisica 20 10.md",
+    "Appunti Emanuel/Fisica/16_10_2026.md",
+    "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
+    "Appunti Emanuel/Fisica/Senza nome.md",
     "Senza nome 2.base",
     "Senza nome 1.base",
     "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
@@ -246,8 +249,18 @@
     "Excalidraw/Libraries",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Recording 20261006092612.m4a",
-    "Recording 20261006092629.m4a",
-    "Appunti Z/analisi matematica/settembre"
+    "Excalidraw/Senza nome 2026-10-18 15.15.41.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
+    "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
+    "Appunti Z/Senza nome.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
+    "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
+    "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "[[Appunti Emanuel/matematica",
+    "[[Appunti Emanuel",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries"
   ]
 }
