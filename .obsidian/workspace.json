@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md"
+                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-18 19.11.40.excalidraw"
+              "title": "16_10_2026"
+            }
+          },
+          {
+            "id": "6bf40d37ee7fff17",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "conservazione dell'energia cinetica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047,
-    "collapsed": true
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -188,12 +200,18 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "9ad0426b2e2d03e0",
+  "active": "6bf40d37ee7fff17",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/16_10_2026.md",
+    "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
+    "Appunti Emanuel/Fisica/Senza nome.md",
+    "Senza nome 2.base",
+    "Senza nome 1.base",
+    "Senza nome.base",
+    "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md",
     "Appunti Z/fisica/fisica 02 10.md",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Z/fisica/Fisica 06 10.md",
-    "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md",
     "Appunti Emanuel/fondamenti programmazione/fondamenti di programmazione 19_10_2026.md",
     "Pasted Image 20261018213224_364.png",
     "Appunti Z/fisica/fisica 29 09.md",
@@ -225,14 +243,10 @@
     "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 05 10.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "[[Appunti Emanuel/matematica",
     "[[Appunti Emanuel",
     "Excalidraw/Libraries/local-library.excalidrawlib",
-    "Excalidraw/Libraries",
-    "Recording 20261006092612.m4a"
+    "Excalidraw/Libraries"
   ]
 }
