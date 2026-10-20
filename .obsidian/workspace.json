@@ -11,24 +11,24 @@
             "id": "9ad0426b2e2d03e0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+              "icon": "excalidraw-icon",
+              "title": "16_10_2026"
             }
           },
           {
-            "id": "9a41c0ec3a3a2fea",
+            "id": "6bf40d37ee7fff17",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 20 10.md"
+                "file": "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 20 10"
+              "title": "conservazione dell'energia cinetica"
             }
           }
         ],
@@ -202,6 +202,7 @@
   },
   "active": "6bf40d37ee7fff17",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 20 10.md",
     "Appunti Emanuel/Fisica/16_10_2026.md",
     "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
     "Appunti Emanuel/Fisica/Senza nome.md",
@@ -242,7 +243,6 @@
     "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring 13 10.md",
     "Appunti Z/analisi matematica/ottobre/tutoring ale.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "[[Appunti Emanuel/matematica",
     "[[Appunti Emanuel",
