@@ -11,10 +11,12 @@
             "id": "02b5ad10fe365606",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "pdf",
+              "state": {
+                "file": "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "lezione 05 10"
             }
           }
         ]
@@ -187,6 +189,7 @@
   },
   "active": "02b5ad10fe365606",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Emanuel/fondamenti programmazione/21_10_2026 puntatori.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/fisica 08 10.md",
@@ -229,9 +232,7 @@
     "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
-    "Riepilogo parziale loi.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Recording 20261006092612.m4a"
   ]
 }
