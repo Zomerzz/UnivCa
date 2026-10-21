@@ -4,43 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a845d923a16b4cb8",
+        "id": "20f26020de526170",
         "type": "tabs",
         "children": [
           {
-            "id": "16be610d95e7804b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
-            }
-          },
-          {
-            "id": "9a41c0ec3a3a2fea",
+            "id": "9ad0426b2e2d03e0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 08 10.md"
+                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 08 10"
+              "title": "16_10_2026"
             }
           },
           {
-            "id": "2eafc80105580e7f",
+            "id": "6bf40d37ee7fff17",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 20 10.md"
+                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 20 10"
+              "title": "16_10_2026"
             }
           },
           {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.20001220703125,
-    "collapsed": true
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -225,7 +212,7 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "0b8b8c4d6b81c7a3",
+  "active": "7de9f36697e2ce59",
   "lastOpenFiles": [
     "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Z/fisica/fisica 20 10.md",
@@ -235,23 +222,18 @@
     "Appunti Z/img/Pasted Image 20261018213224_364.png",
     "Appunti Z/img/Pasted Image 20261018193019_807.png",
     "Appunti Z/fisica/esercizi per casa 3 settimana.md",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Appunti Z/fisica/fisica 08 10.md",
-    "Appunti Z/fisica/Fisica 06 10.md",
-    "Senza nome.base",
+    "Pasted Image 20261020191216_282.png",
+    "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
+    "Appunti Z/fisica/fisica 20 10.md",
+    "Appunti Emanuel/Fisica/Senza nome.md",
     "Senza nome 2.base",
     "Senza nome 1.base",
-    "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
+    "Senza nome.base",
     "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md",
-    "Appunti Z/fisica/fisica 15 10.md",
-    "Appunti Z/fisica/fisica 16 10.md",
-    "Appunti Z/fisica/fisica 29 09.md",
-    "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Z/fisica/fisica 02 10.md",
+    "Appunti Z/fisica/fisica 08 10.md",
+    "Appunti Z/fisica/Fisica 06 10.md",
     "Appunti Emanuel/fondamenti programmazione/fondamenti di programmazione 19_10_2026.md",
-    "riepilo parziale loi 2.md",
-    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
     "Pasted Image 20261018213224_364.png",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
@@ -262,16 +244,23 @@
     "Appunti Z/img/Pasted image 20261018174627.png",
     "Appunti Z/img/Pasted image 20261018174541.png",
     "Appunti Z/Lavagna esercizi 2.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Pasted Image 20261018193019_807.png",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
     "Riepilogo parziale loi.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Recording 20261006092612.m4a",
-    "Recording 20261006092629.m4a"
+    "Excalidraw/Senza nome 2026-10-18 15.15.41.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
+    "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
+    "Appunti Z/Senza nome.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "[[Appunti Emanuel/matematica",
+    "[[Appunti Emanuel",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries"
   ]
 }
