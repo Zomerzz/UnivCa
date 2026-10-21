@@ -54,9 +54,21 @@
               "icon": "excalidraw-icon",
               "title": "21_10_2026 puntatori"
             }
+          },
+          {
+            "id": "1bd910ed9558115f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/Drawing 2026-10-21 21.36.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-21 21.36.02.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,10 +236,11 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "a4d363ae00aef7b5",
+  "active": "1bd910ed9558115f",
   "lastOpenFiles": [
-    "Appunti Emanuel/fondamenti programmazione/fondamenti di programmazione 19_10_2026.md",
     "Appunti Emanuel/fondamenti programmazione/21_10_2026 puntatori.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-10-21 21.36.02.excalidraw.md",
+    "Appunti Emanuel/fondamenti programmazione/fondamenti di programmazione 19_10_2026.md",
     "Appunti Emanuel/matematica/21_10_2026.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
@@ -269,7 +282,6 @@
     "Excalidraw/Senza nome 2026-10-18 15.15.41.excalidraw.md",
     "Excalidraw/Drawing 2026-10-12 08.28.59.excalidraw.md",
     "Excalidraw/Drawing 2026-10-11 14.14.30.excalidraw.md",
-    "Excalidraw/cropped_Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "[[Appunti Emanuel/matematica"
   ]
