@@ -32,7 +32,7 @@
           "version": 73,
           "versionNonce": 437712326,
           "isDeleted": false,
-          "boundElements": null,
+          "boundElements": [],
           "updated": 1792573085689,
           "created": 1792573079934,
           "link": null,
@@ -55,7 +55,8 @@
           "endBinding": null,
           "startArrowhead": null,
           "endArrowhead": null,
-          "polygon": false
+          "polygon": false,
+          "hasTextLink": false
         }
       ],
       "created": 1792573086040
