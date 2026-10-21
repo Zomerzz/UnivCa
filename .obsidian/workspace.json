@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "16_10_2026"
             }
+          },
+          {
+            "id": "7de9f36697e2ce59",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/21_10_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "21_10_2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,8 +212,10 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "6bf40d37ee7fff17",
+  "active": "7de9f36697e2ce59",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/16_10_2026.md",
+    "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Z/img/Pasted image 20261018185805.png",
     "Appunti Z/img/Pasted Image 20261020191216_282.png",
     "Appunti Z/img/Pasted Image 20261018213224_364.png",
@@ -210,7 +224,6 @@
     "Pasted Image 20261020191216_282.png",
     "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
     "Appunti Z/fisica/fisica 20 10.md",
-    "Appunti Emanuel/Fisica/16_10_2026.md",
     "Appunti Emanuel/Fisica/Senza nome.md",
     "Senza nome 2.base",
     "Senza nome 1.base",
@@ -229,7 +242,6 @@
     "Appunti Z/img/Pasted image 20261018174541.png",
     "Appunti Z/Lavagna esercizi 2.md",
     "Pasted Image 20261018193019_807.png",
-    "Pasted image 20261018185805.png",
     "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
     "Riepilogo parziale loi.md",
     "riepilo parziale loi 2.md",
