@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.20001220703125
+    "width": 413.20001220703125,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -224,7 +225,7 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "2eafc80105580e7f",
+  "active": "0b8b8c4d6b81c7a3",
   "lastOpenFiles": [
     "Appunti Emanuel/Fisica/16_10_2026.md",
     "Appunti Emanuel/matematica/21_10_2026.md",
@@ -234,7 +235,6 @@
     "Appunti Z/img/Pasted Image 20261018193019_807.png",
     "Appunti Z/fisica/esercizi per casa 3 settimana.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Appunti Z/fisica/fisica 20 10.md",
     "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Z/fisica/Fisica 06 10.md",
     "Senza nome.base",
@@ -259,7 +259,6 @@
     "Appunti Z/img/Pasted image 20261018174952.png",
     "Appunti Z/img/Pasted image 20261018174627.png",
     "Appunti Z/img/Pasted image 20261018174541.png",
-    "Appunti Z/img/Pasted image 20261018171614.png",
     "Appunti Z/Lavagna esercizi 2.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
