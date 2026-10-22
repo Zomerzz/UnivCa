@@ -170,19 +170,9 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
-          },
-          {
-            "id": "a348a6cb82777b84",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,9 +193,12 @@
   },
   "active": "eff24d8a78a3d6a7",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 29 09.md",
+    "Appunti Z/fisica/fisica 16 10.md",
+    "Appunti Z/fisica/fisica 20 10.md",
+    "Appunti Z/fisica/fisica 22 10.md",
     "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/fisica/fisica 22 10.md",
     "Pasted Image 20261021213437_028.png",
     "Appunti Emanuel/Fisica/Drawing 2026-10-22 08.44.47.excalidraw.md",
     "Appunti Emanuel/Fisica/Drawing 2026-10-21 21.36.02.excalidraw.md",
@@ -213,7 +206,6 @@
     "Appunti Emanuel/fondamenti programmazione/21_10_2026 puntatori.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/fisica/fisica 08 10.md",
-    "Appunti Z/fisica/fisica 20 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
@@ -231,8 +223,6 @@
     "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
     "Appunti Z/fisica/Drawing 2026-10-18 19.11.40.excalidraw.md",
     "Appunti Z/fisica/fisica 15 10.md",
-    "Appunti Z/fisica/fisica 16 10.md",
-    "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Emanuel/Fisica/13-10-2026 forze apparenti.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Emanuel/fondamenti programmazione/fondamenti di programmazione 19_10_2026.md",
