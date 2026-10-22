@@ -25,10 +25,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 22 10.md"
+                "file": "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 22 10"
+              "title": "lezione del razzo centro di massa"
             }
           }
         ],
@@ -169,19 +169,9 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
-          },
-          {
-            "id": "a348a6cb82777b84",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,9 +192,15 @@
   },
   "active": "63a348f6dec79f54",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
     "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/fisica/fisica 22 10.md",
+    "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-10-21 21.36.02.excalidraw.md",
+    "Appunti Z/fisica/esercizi per casa 3 settimana.md",
+    "Appunti Z/Lavagna esercizi 2.md",
+    "Appunti Z/fisica/fisica 13 10.md",
+    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
     "Pasted Image 20261021213437_028.png",
     "Appunti Emanuel/fondamenti programmazione/21_10_2026 puntatori.md",
     "Appunti Emanuel/fondamenti programmazione/fondamenti di programmazione 19_10_2026.md",
@@ -218,9 +214,9 @@
     "Appunti Z/img/Pasted Image 20261020191216_282.png",
     "Appunti Z/img/Pasted Image 20261018213224_364.png",
     "Appunti Z/img/Pasted Image 20261018193019_807.png",
-    "Appunti Z/fisica/esercizi per casa 3 settimana.md",
-    "Appunti Z/fisica/Fisica 06 10.md",
-    "Senza nome.base",
+    "Pasted Image 20261020191216_282.png",
+    "Appunti Z/fisica/fisica 20 10.md",
+    "Appunti Emanuel/Fisica/Senza nome.md",
     "Senza nome 2.base",
     "Senza nome 1.base",
     "Senza nome.base",
@@ -238,7 +234,6 @@
     "Appunti Z/Lavagna esercizi 2.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
     "Riepilogo parziale loi.md",
-    "riepilo parziale loi 2.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
