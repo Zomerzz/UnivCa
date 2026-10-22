@@ -42,9 +42,21 @@
               "icon": "excalidraw-icon",
               "title": "22_10_2026"
             }
+          },
+          {
+            "id": "4eb7a469f986c4d6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/22_10_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "22_10_2026"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,10 +214,11 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "4eb7a469f986c4d6",
   "lastOpenFiles": [
-    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
     "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
+    "Appunti Emanuel/matematica/22_10_2026.md",
+    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
     "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
     "Appunti Z/fisica/fisica 22 10.md",
     "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
@@ -245,7 +258,6 @@
     "Appunti Z/img/Pasted image 20261018174627.png",
     "Appunti Z/img/Pasted image 20261018174541.png",
     "Appunti Z/Lavagna esercizi 2.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
