@@ -32,7 +32,7 @@
           "version": 101,
           "versionNonce": 186171704,
           "isDeleted": false,
-          "boundElements": null,
+          "boundElements": [],
           "updated": 1792660510349,
           "created": 1792660504069,
           "link": null,
@@ -51,7 +51,8 @@
           "endBinding": null,
           "startArrowhead": null,
           "endArrowhead": null,
-          "polygon": false
+          "polygon": false,
+          "hasTextLink": false
         }
       ],
       "created": 1792660510941
@@ -85,7 +86,7 @@
           "version": 109,
           "versionNonce": 2128300088,
           "isDeleted": false,
-          "boundElements": null,
+          "boundElements": [],
           "updated": 1792658671768,
           "created": 1792658655167,
           "link": null,
@@ -104,7 +105,8 @@
           "endBinding": null,
           "startArrowhead": null,
           "endArrowhead": null,
-          "polygon": false
+          "polygon": false,
+          "hasTextLink": false
         }
       ],
       "created": 1792658672563
