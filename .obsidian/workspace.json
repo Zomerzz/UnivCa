@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "243e0b4be5f4f1d7",
+            "id": "f0164d09d72b2dc7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/22_10_2026.md"
+                "file": "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-22 15.17.04.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "22_10_2026"
-            }
-          },
-          {
-            "id": "4eb7a469f986c4d6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/22_10_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "22_10_2026"
+              "title": "Drawing 2026-10-22 15.17.04.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047
+    "width": 321.4291229248047,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -214,19 +203,17 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "4eb7a469f986c4d6",
+  "active": "f0164d09d72b2dc7",
   "lastOpenFiles": [
-    "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
-    "Appunti Emanuel/matematica/22_10_2026.md",
     "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
-    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
+    "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-22 15.17.04.excalidraw.md",
+    "Appunti Emanuel/matematica/22_10_2026.md",
+    "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
+    "Appunti Z/fisica/fisica 29 09.md",
+    "Appunti Z/fisica/fisica 16 10.md",
+    "Appunti Z/fisica/fisica 20 10.md",
     "Appunti Z/fisica/fisica 22 10.md",
-    "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
-    "Appunti Emanuel/Fisica/Drawing 2026-10-21 21.36.02.excalidraw.md",
-    "Appunti Z/fisica/esercizi per casa 3 settimana.md",
-    "Appunti Z/Lavagna esercizi 2.md",
-    "Appunti Z/fisica/fisica 13 10.md",
-    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Pasted Image 20261021213437_028.png",
     "Appunti Emanuel/fondamenti programmazione/21_10_2026 puntatori.md",
     "Appunti Emanuel/fondamenti programmazione/fondamenti di programmazione 19_10_2026.md",
@@ -258,9 +245,10 @@
     "Appunti Z/img/Pasted image 20261018174627.png",
     "Appunti Z/img/Pasted image 20261018174541.png",
     "Appunti Z/Lavagna esercizi 2.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
+    "Riepilogo parziale loi.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "[[Appunti Emanuel/matematica"
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
   ]
 }
