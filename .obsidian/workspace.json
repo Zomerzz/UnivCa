@@ -13,10 +13,34 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/Drawing 2026-10-23 08.49.59.excalidraw.md"
+                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-23 08.49.59.excalidraw"
+              "title": "analisi matematica 22 10"
+            }
+          },
+          {
+            "id": "c8ace58a1b2633e9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 21 10"
+            }
+          },
+          {
+            "id": "b878c2fd7e5d50d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/esercizi per casa 3 settimana.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "esercizi per casa 3 settimana"
             }
           }
         ]
@@ -156,9 +180,19 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
+          },
+          {
+            "id": "a348a6cb82777b84",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,51 +211,50 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "83e5e49e0033f7d6",
+  "active": "9ad0426b2e2d03e0",
   "lastOpenFiles": [
     "Appunti Emanuel/fondamenti programmazione/23_10_2026 le funzioni.md",
     "Appunti Emanuel/fondamenti programmazione/22_10_2026 Array e puntatori.md",
     "Appunti Z/fisica/Drawing 2026-10-23 08.49.59.excalidraw.md",
-    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
-    "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-22 15.17.04.excalidraw.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
     "Appunti Emanuel/fondamenti programmazione/23_10_2026 il moto.md",
     "Appunti Emanuel/Fisica/ESRCIZI A CASO.md",
     "Appunti Emanuel/Fisica/Drawing 2026-10-23 08.47.43.excalidraw.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 30 09.md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 29 09.md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 28 09.md",
-    "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
-    "Appunti Emanuel/matematica/22_10_2026.md",
-    "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
-    "Appunti Z/fisica/fisica 29 09.md",
-    "Appunti Z/fisica/fisica 16 10.md",
-    "Appunti Z/fisica/fisica 20 10.md",
+    "Appunti Z/Lavagna esercizi 2.md",
     "Appunti Z/fisica/fisica 22 10.md",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
+    "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
+    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
+    "Appunti Z/fisica/esercizi per casa 3 settimana.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
+    "Appunti Z/fisica/fisica 13 10.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-10-21 21.36.02.excalidraw.md",
+    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
     "Pasted Image 20261021213437_028.png",
-    "Appunti Emanuel/fondamenti programmazione/21_10_2026 puntatori.md",
-    "Appunti Emanuel/fondamenti programmazione/fondamenti di programmazione 19_10_2026.md",
-    "Appunti Emanuel/matematica/21_10_2026.md",
+    "riepilo parziale loi 2.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Appunti Emanuel/Fisica/16_10_2026.md",
-    "Appunti Z/img/Pasted image 20261018185805.png",
-    "Appunti Z/img/Pasted Image 20261020191216_282.png",
-    "Appunti Z/img/Pasted Image 20261018213224_364.png",
-    "Appunti Z/img/Pasted Image 20261018193019_807.png",
-    "Pasted Image 20261020191216_282.png",
-    "Appunti Z/fisica/fisica 20 10.md",
-    "Appunti Emanuel/Fisica/Senza nome.md",
+    "Appunti Emanuel/matematica/21_10_2026.md",
+    "Appunti Emanuel/fondamenti programmazione/21_10_2026 puntatori.md",
     "Senza nome 2.base",
     "Senza nome 1.base",
     "Senza nome.base",
-    "Pasted Image 20261018213224_364.png",
+    "Appunti Z/img/Pasted Image 20261020191216_282.png",
+    "Appunti Z/img/Pasted Image 20261018213224_364.png",
+    "Appunti Z/img/Pasted Image 20261018193019_807.png",
+    "Appunti Z/img/Pasted image 20261018185805.png",
+    "Appunti Z/fisica/fisica 09 10.md",
+    "Appunti Z/fisica/fisica 20 10.md",
+    "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
+    "Appunti Z/fisica/fisica 02 10.md",
     "Appunti Z/img/Pasted image 20261018174952.png",
     "Appunti Z/img/Pasted image 20261018174627.png",
     "Appunti Z/img/Pasted image 20261018174541.png",
+    "Appunti Z/img/Pasted image 20261018171317.png",
+    "Appunti Z/img/Pasted image 20261018165443.png",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
