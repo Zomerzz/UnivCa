@@ -8,39 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83e5e49e0033f7d6",
+            "id": "baa40662743cf1ff",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md"
+                "file": "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "analisi matematica 22 10"
-            }
-          },
-          {
-            "id": "c8ace58a1b2633e9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 21 10"
-            }
-          },
-          {
-            "id": "b878c2fd7e5d50d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/fisica/esercizi per casa 3 settimana.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "esercizi per casa 3 settimana"
+              "title": "Drawing 2026-10-23 14.50.43.excalidraw"
             }
           }
         ]
@@ -211,8 +187,10 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "83e5e49e0033f7d6",
+  "active": "baa40662743cf1ff",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
+    "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md",
     "Appunti Emanuel/fondamenti programmazione/23_10_2026 le funzioni.md",
     "Appunti Emanuel/fondamenti programmazione/22_10_2026 Array e puntatori.md",
     "Appunti Z/fisica/Drawing 2026-10-23 08.49.59.excalidraw.md",
@@ -220,7 +198,6 @@
     "Appunti Emanuel/Fisica/ESRCIZI A CASO.md",
     "Appunti Emanuel/Fisica/Drawing 2026-10-23 08.47.43.excalidraw.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md",
     "Appunti Z/Lavagna esercizi 2.md",
     "Appunti Z/fisica/fisica 22 10.md",
@@ -249,7 +226,6 @@
     "Appunti Z/fisica/fisica 09 10.md",
     "Appunti Z/fisica/fisica 20 10.md",
     "Appunti Emanuel/Fisica/conservazione dell'energia cinetica.md",
-    "Appunti Z/fisica/fisica 02 10.md",
     "Appunti Z/img/Pasted image 20261018174952.png",
     "Appunti Z/img/Pasted image 20261018174627.png",
     "Appunti Z/img/Pasted image 20261018174541.png",
