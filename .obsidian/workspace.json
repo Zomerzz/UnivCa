@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Analisi 21 10 - derivata di quoziente, composta, inversa e Fermat"
             }
+          },
+          {
+            "id": "fa12cd4d7000465a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Note di rilascio 1.14.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "ae60f260977cfd15",
+  "active": "fa12cd4d7000465a",
   "lastOpenFiles": [
     "Appunti Z/Riassunti/Analisi 14 10 - derivate.md",
     "Appunti Z/Riassunti/Analisi 07 10 - limiti notevoli ed esercizi.md",
