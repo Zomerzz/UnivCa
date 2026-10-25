@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Note di rilascio 1.14.5"
             }
+          },
+          {
+            "id": "da7740aed44828da",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/Esercizi per casa 4 settimana.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Esercizi per casa 4 settimana"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,8 +214,9 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "fa12cd4d7000465a",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
+    "Appunti Z/fisica/Esercizi per casa 4 settimana.md",
     "Appunti Z/Riassunti/Analisi 14 10 - derivate.md",
     "Appunti Z/Riassunti/Analisi 07 10 - limiti notevoli ed esercizi.md",
     "Appunti Z/Riassunti/Analisi 06 10 - forme indeterminate e limiti notevoli.md",
@@ -231,7 +244,6 @@
     "Appunti Z/Riassunti/Analisi 28 09 - insiemi e insiemi numerici.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
-    "Appunti Z/fisica/esercizi per casa 3 settimana.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
