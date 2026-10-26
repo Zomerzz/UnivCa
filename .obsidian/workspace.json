@@ -4,22 +4,121 @@
     "type": "split",
     "children": [
       {
-        "id": "6950279bd556bcc3",
+        "id": "20f26020de526170",
         "type": "tabs",
         "children": [
           {
-            "id": "0b6ceeeb777a8fa7",
+            "id": "9ad0426b2e2d03e0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+                "file": "Appunti Emanuel/Fisica/ESRCIZI A CASO.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+              "icon": "excalidraw-icon",
+              "title": "ESRCIZI A CASO"
+            }
+          },
+          {
+            "id": "63a348f6dec79f54",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "lezione del razzo centro di massa"
+            }
+          },
+          {
+            "id": "243e0b4be5f4f1d7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "12-10-2026 punti di discontinuità"
+            }
+          },
+          {
+            "id": "4eb7a469f986c4d6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/ESRCIZI A CASO.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ESRCIZI A CASO"
+            }
+          },
+          {
+            "id": "d071fd3a95ca81c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "14.10.2026 DERIVATE FUNZIONI COMPOSTE"
+            }
+          },
+          {
+            "id": "f95a7ad72331ca91",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/26_10_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "26_10_2026"
+            }
+          },
+          {
+            "id": "f7dba7a6930479c3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "12-10-2026 punti di discontinuità"
+            }
+          },
+          {
+            "id": "9c7b290b47c939fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "limiti notevoli 07-10-2026"
+            }
+          },
+          {
+            "id": "a96b44a7621186c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Riepilogo parziale loi"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -177,11 +276,11 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "0b6ceeeb777a8fa7",
+  "active": "9c7b290b47c939fa",
   "lastOpenFiles": [
     "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
@@ -192,19 +291,11 @@
     "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/funzioni 26_10_2026.md",
-    "Appunti Emanuel/matematica/26_10_2026.md",
-    "Appunti Z/fisica/esercizi per casa 3 settimana.md",
-    "Appunti Emanuel/Fisica/ESRCIZI A CASO.md",
-    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
-    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/fondamenti programmazione/22_10_2026 Array e puntatori.md",
-    "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
-    "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
     "Appunti Emanuel/fondamenti programmazione/23_10_2026 le funzioni.md",
     "Appunti Z/fisica/Fisica 23 10.md",
+    "Appunti Z/fisica/Esercizi per casa 4 settimana.md",
     "Appunti Z/Riassunti/Fondamenti 30 09 - modello di Von Neumann e RAM.md",
     "Appunti Z/Riassunti/Fisica 29 09 - misure e vettori.md",
     "Appunti Z/Riassunti/Fisica 23 10 - impulso, urti e razzo.md",
@@ -213,8 +304,6 @@
     "Appunti Z/Riassunti/Fisica 16 10 - lavoro, energia cinetica e potenza.md",
     "Appunti Z/Riassunti/Fisica 15 10 - attrito e resistenza del mezzo.md",
     "Appunti Z/Riassunti/Fisica 13 10 - terza legge, piano inclinato e tensione.md",
-    "Appunti Z/Riassunti/Fisica 08 10 - moto circolare e moto relativo.md",
-    "Appunti Z/Riassunti/Fisica 09 10 - leggi di Newton ed esercizi di cinematica.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
