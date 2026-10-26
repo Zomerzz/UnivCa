@@ -85,10 +85,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/funzioni 26_10_2026.md"
+                "file": "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md"
               },
               "icon": "excalidraw-icon",
-              "title": "funzioni 26_10_2026"
+              "title": "12-10-2026 punti di discontinuità"
+            }
+          },
+          {
+            "id": "9c7b290b47c939fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "elenco argomenti 1o parziale"
             }
           },
           {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -264,15 +276,20 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "f7dba7a6930479c3",
+  "active": "9c7b290b47c939fa",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
+    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
+    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
+    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
+    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Emanuel/matematica/26_10_2026.md",
+    "Appunti Emanuel/matematica/21_10_2026.md",
+    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/fondamenti programmazione/funzioni 26_10_2026.md",
     "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
-    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/fondamenti programmazione/22_10_2026 Array e puntatori.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
-    "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
     "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
     "Appunti Emanuel/fondamenti programmazione/23_10_2026 le funzioni.md",
@@ -287,11 +304,6 @@
     "Appunti Z/Riassunti/Fisica 15 10 - attrito e resistenza del mezzo.md",
     "Appunti Z/Riassunti/Fisica 13 10 - terza legge, piano inclinato e tensione.md",
     "Appunti Z/Riassunti/Fisica 08 10 - moto circolare e moto relativo.md",
-    "Appunti Z/Riassunti/Fisica 09 10 - leggi di Newton ed esercizi di cinematica.md",
-    "Appunti Z/Riassunti/Fisica 06 10 - moto in 2D e proiettili.md",
-    "Appunti Z/Riassunti/Analisi 30 09 - topologia e funzioni.md",
-    "Appunti Z/Riassunti/Fisica 02 10 - moto uniformemente accelerato e caduta dei gravi.md",
-    "Appunti Z/Riassunti/Fisica 01 10 - cinematica 1D.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
