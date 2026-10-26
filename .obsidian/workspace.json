@@ -188,78 +188,7 @@
   "right": {
     "id": "1338e7bce472a31c",
     "type": "split",
-    "children": [
-      {
-        "id": "36e1b3e7bd833c93",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a68f68b7b397515",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "analisi matematica/analisi 30 09.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Riferimenti"
-            }
-          },
-          {
-            "id": "4c470b95bf132a9e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "analisi matematica/analisi 30 09.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Struttura"
-            }
-          },
-          {
-            "id": "c74e35042fa5e00f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etichette"
-            }
-          },
-          {
-            "id": "970f1414292fceed",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Tutte le proprietà"
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
