@@ -207,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -279,9 +279,19 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
+          },
+          {
+            "id": "a348a6cb82777b84",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -333,18 +343,18 @@
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Appunti Z/img/Pasted image 20261018185805.png",
-    "Appunti Z/img/Pasted Image 20261020191216_282.png",
-    "Appunti Z/img/Pasted Image 20261018213224_364.png",
-    "Appunti Z/img/Pasted Image 20261018193019_807.png",
-    "Pasted Image 20261020191216_282.png",
     "Senza nome 2.base",
     "Senza nome 1.base",
     "Senza nome.base",
-    "Pasted Image 20261018213224_364.png",
+    "Appunti Z/img/Pasted Image 20261020191216_282.png",
+    "Appunti Z/img/Pasted Image 20261018213224_364.png",
+    "Appunti Z/img/Pasted Image 20261018193019_807.png",
+    "Appunti Z/img/Pasted image 20261018185805.png",
     "Appunti Z/img/Pasted image 20261018174952.png",
     "Appunti Z/img/Pasted image 20261018174627.png",
     "Appunti Z/img/Pasted image 20261018174541.png",
+    "Appunti Z/img/Pasted image 20261018171317.png",
+    "Appunti Z/img/Pasted image 20261018165443.png",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
