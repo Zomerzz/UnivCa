@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "de23b5e6cfb7cb5e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/28_10_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "28_10_2026"
+            }
+          },
+          {
             "id": "a96b44a7621186c7",
             "type": "leaf",
             "state": {
@@ -130,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -284,15 +296,17 @@
       "audio-recorder:Avvia/ferma registrazione": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "group-tabs:Recent tab groups": false
     }
   },
-  "active": "bfc30da96856a817",
+  "active": "de23b5e6cfb7cb5e",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
+    "Appunti Emanuel/matematica/28_10_2026.md",
     "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
@@ -314,7 +328,6 @@
     "Appunti Z/Riassunti/Fisica 22 10 - centro di massa e quantità di moto.md",
     "Appunti Z/Riassunti/Fisica 20 10 - forze conservative ed energia meccanica.md",
     "Appunti Z/Riassunti/Fisica 16 10 - lavoro, energia cinetica e potenza.md",
-    "Appunti Z/Riassunti/Fisica 15 10 - attrito e resistenza del mezzo.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
