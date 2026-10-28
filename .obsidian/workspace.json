@@ -157,19 +157,9 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
-          },
-          {
-            "id": "a348a6cb82777b84",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,6 +180,10 @@
   },
   "active": "6cfece6cf179ea41",
   "lastOpenFiles": [
+    "Appunti Z/fisica/Drawing 2026-10-27 08.50.23.excalidraw.md",
+    "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md",
+    "Appunti Z/analisi matematica/analisi matematica 26 10.md",
+    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Emanuel/matematica/28_10_2026.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 28 10.md",
     "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md",
@@ -205,34 +199,23 @@
     "Appunti Z/Riassunti/Fondamenti 30 09 - modello di Von Neumann e RAM.md",
     "Appunti Z/Riassunti/Fisica 29 09 - misure e vettori.md",
     "Appunti Z/Riassunti/Fisica 23 10 - impulso, urti e razzo.md",
-    "Appunti Z/Riassunti/Fisica 22 10 - centro di massa e quantità di moto.md",
-    "Appunti Z/Riassunti/Fisica 20 10 - forze conservative ed energia meccanica.md",
-    "Appunti Z/Riassunti/Fisica 16 10 - lavoro, energia cinetica e potenza.md",
-    "Appunti Z/Riassunti/Fisica 15 10 - attrito e resistenza del mezzo.md",
-    "Appunti Z/Riassunti/Fisica 09 10 - leggi di Newton ed esercizi di cinematica.md",
-    "Appunti Z/Riassunti/Fisica 13 10 - terza legge, piano inclinato e tensione.md",
-    "Appunti Z/Riassunti/Fisica 08 10 - moto circolare e moto relativo.md",
-    "Appunti Z/Riassunti/Fisica 06 10 - moto in 2D e proiettili.md",
-    "Appunti Z/Riassunti/Fisica 02 10 - moto uniformemente accelerato e caduta dei gravi.md",
-    "Appunti Z/Riassunti/Fisica 01 10 - cinematica 1D.md",
-    "Appunti Z/Riassunti/Analisi 30 09 - topologia e funzioni.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Senza nome 2.base",
-    "Senza nome 1.base",
-    "Senza nome.base",
+    "Appunti Z/img/Pasted image 20261018185805.png",
     "Appunti Z/img/Pasted Image 20261020191216_282.png",
     "Appunti Z/img/Pasted Image 20261018213224_364.png",
     "Appunti Z/img/Pasted Image 20261018193019_807.png",
-    "Appunti Z/img/Pasted image 20261018185805.png",
+    "Pasted Image 20261020191216_282.png",
+    "Senza nome 2.base",
+    "Senza nome 1.base",
+    "Senza nome.base",
+    "Pasted Image 20261018213224_364.png",
     "Appunti Z/img/Pasted image 20261018174952.png",
     "Appunti Z/img/Pasted image 20261018174627.png",
     "Appunti Z/img/Pasted image 20261018174541.png",
-    "Appunti Z/img/Pasted image 20261018171317.png",
-    "Appunti Z/img/Pasted image 20261018165443.png",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
