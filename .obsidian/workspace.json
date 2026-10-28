@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ad80156629bb1dc3",
+        "id": "6e9d73198ea0e355",
         "type": "tabs",
         "children": [
           {
-            "id": "baa40662743cf1ff",
+            "id": "26c1ac88f2cdc8f8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/FIsica 01 10.md"
+                "file": "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "FIsica 01 10"
-            }
-          },
-          {
-            "id": "d9b28d81fc46f181",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 14 10"
-            }
-          },
-          {
-            "id": "591640c1f155218f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/analisi matematica 26 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 26 10"
+              "title": "Drawing 2026-10-23 14.50.43.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.4291229248047,
-    "collapsed": true
+    "width": 321.4291229248047
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -213,34 +187,35 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "591640c1f155218f",
+  "active": "26c1ac88f2cdc8f8",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
-    "Appunti Z/fisica/FIsica 01 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 12 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 08 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 07 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 06 10.md",
-    "Appunti Z/analisi matematica/analisi matematica 26 10.md",
-    "Appunti Z/fisica/esercizi per casa 3 settimana.md",
-    "Appunti Z/fisica/Drawing 2026-10-23 08.49.59.excalidraw.md",
     "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md",
-    "Appunti Emanuel/fondamenti programmazione/23_10_2026 le funzioni.md",
-    "Appunti Emanuel/fondamenti programmazione/22_10_2026 Array e puntatori.md",
-    "Appunti Emanuel/fondamenti programmazione/23_10_2026 il moto.md",
-    "Appunti Emanuel/Fisica/ESRCIZI A CASO.md",
-    "Appunti Emanuel/Fisica/Drawing 2026-10-23 08.47.43.excalidraw.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10.md",
-    "Appunti Z/Lavagna esercizi 2.md",
-    "Appunti Z/fisica/fisica 22 10.md",
-    "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
-    "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
-    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
-    "Appunti Z/fisica/fisica 13 10.md",
-    "Appunti Emanuel/Fisica/Drawing 2026-10-21 21.36.02.excalidraw.md",
-    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
+    "Appunti Z/fisica/Drawing 2026-10-27 08.50.23.excalidraw.md",
+    "Appunti Z/fisica/FIsica 01 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10.md",
+    "Appunti Z/analisi matematica/analisi matematica 26 10.md",
+    "Appunti Z/fisica/Fisica 23 10.md",
+    "Appunti Z/fisica/Esercizi per casa 4 settimana.md",
+    "Appunti Z/Riassunti/Fondamenti 30 09 - modello di Von Neumann e RAM.md",
+    "Appunti Z/Riassunti/Fisica 29 09 - misure e vettori.md",
+    "Appunti Z/Riassunti/Fisica 23 10 - impulso, urti e razzo.md",
+    "Appunti Z/Riassunti/Fisica 22 10 - centro di massa e quantità di moto.md",
+    "Appunti Z/Riassunti/Fisica 20 10 - forze conservative ed energia meccanica.md",
+    "Appunti Z/Riassunti/Fisica 16 10 - lavoro, energia cinetica e potenza.md",
+    "Appunti Z/Riassunti/Fisica 15 10 - attrito e resistenza del mezzo.md",
+    "Appunti Z/Riassunti/Fisica 09 10 - leggi di Newton ed esercizi di cinematica.md",
+    "Appunti Z/Riassunti/Fisica 13 10 - terza legge, piano inclinato e tensione.md",
+    "Appunti Z/Riassunti/Fisica 08 10 - moto circolare e moto relativo.md",
+    "Appunti Z/Riassunti/Fisica 06 10 - moto in 2D e proiettili.md",
+    "Appunti Z/Riassunti/Fisica 02 10 - moto uniformemente accelerato e caduta dei gravi.md",
+    "Appunti Z/Riassunti/Fisica 01 10 - cinematica 1D.md",
+    "Appunti Z/Riassunti/Analisi 30 09 - topologia e funzioni.md",
+    "Appunti Z/Riassunti/Analisi 29 09 - disequazioni con il modulo.md",
+    "Appunti Z/Riassunti/Analisi 28 09 - insiemi e insiemi numerici.md",
+    "Appunti Z/Riassunti/Analisi 22 10 - Rolle, Lagrange e derivate f^g.md",
+    "Appunti Z/Riassunti/Analisi 21 10 - derivata di quoziente, composta, inversa e Fermat.md",
+    "Appunti Z/Riassunti/Analisi 14 10 - derivate.md",
+    "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
