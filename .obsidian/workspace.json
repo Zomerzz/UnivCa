@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "77f2fd2fb61e4a17",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "29_10_2026 funzioni"
+            }
+          },
+          {
             "id": "a96b44a7621186c7",
             "type": "leaf",
             "state": {
@@ -166,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -324,12 +336,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "65d76e28515df3ca",
+  "active": "77f2fd2fb61e4a17",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
+    "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
     "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
     "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
     "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
-    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
     "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
@@ -351,7 +364,6 @@
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
     "Appunti Emanuel/fondamenti programmazione/funzioni 26_10_2026.md",
-    "Appunti Emanuel/fondamenti programmazione/22_10_2026 Array e puntatori.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
