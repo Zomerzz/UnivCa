@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20f26020de526170",
+        "id": "556d3e7e2f210083",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad0426b2e2d03e0",
+            "id": "53fc9e5f43a9550e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/ESRCIZI A CASO.md"
+                "file": "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10.md"
               },
               "icon": "excalidraw-icon",
               "title": "ESRCIZI A CASO"
@@ -255,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -358,7 +359,9 @@
     "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
     "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
     "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
-    "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10.md",
+    "Appunti Emanuel/Fisica/ESRCIZI A CASO.md",
+    "Appunti Emanuel/fondamenti programmazione/28_10_2026.md",
     "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
     "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
