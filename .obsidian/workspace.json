@@ -167,12 +167,14 @@
             "id": "2db163d33e732f48",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md"
+                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "elenco argomenti 1o parziale"
+              "icon": "lucide-file",
+              "title": "Riepilogo parziale loi"
             }
           },
           {
@@ -350,13 +352,13 @@
   },
   "active": "2db163d33e732f48",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Emanuel/matematica/29_10_2026.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10.md",
     "Appunti Emanuel/matematica/28_10_2026.md",
     "Appunti Emanuel/matematica/26_10_2026.md",
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
     "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
     "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
