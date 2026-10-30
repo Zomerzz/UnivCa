@@ -116,6 +116,78 @@
             }
           },
           {
+            "id": "de23b5e6cfb7cb5e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/28_10_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "28_10_2026"
+            }
+          },
+          {
+            "id": "8eebb5f62976b3ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/21_10_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "21_10_2026"
+            }
+          },
+          {
+            "id": "65d76e28515df3ca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-29 08.26.02.excalidraw"
+            }
+          },
+          {
+            "id": "77f2fd2fb61e4a17",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "29_10_2026 funzioni"
+            }
+          },
+          {
+            "id": "2db163d33e732f48",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Teoremi sullo studio di funzione 22_10_2026"
+            }
+          },
+          {
+            "id": "a18da07ba7405462",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "spazzatura ed esercizi vari"
+            }
+          },
+          {
             "id": "a96b44a7621186c7",
             "type": "leaf",
             "state": {
@@ -130,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -288,34 +360,34 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "bfc30da96856a817",
+  "active": "a18da07ba7405462",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
-    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
-    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
-    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
-    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
-    "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
-    "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
-    "Appunti Emanuel/matematica/Limiti di funzioni 05-10-2026.md",
-    "Appunti Emanuel/matematica/26_10_2026.md",
-    "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
-    "Appunti Emanuel/fondamenti programmazione/funzioni 26_10_2026.md",
-    "Appunti Emanuel/fondamenti programmazione/22_10_2026 Array e puntatori.md",
-    "Appunti Emanuel/fondamenti programmazione/23_10_2026 le funzioni.md",
-    "Appunti Z/fisica/Fisica 23 10.md",
-    "Appunti Z/fisica/Esercizi per casa 4 settimana.md",
-    "Appunti Z/Riassunti/Fondamenti 30 09 - modello di Von Neumann e RAM.md",
-    "Appunti Z/Riassunti/Fisica 29 09 - misure e vettori.md",
-    "Appunti Z/Riassunti/Fisica 23 10 - impulso, urti e razzo.md",
-    "Appunti Z/Riassunti/Fisica 22 10 - centro di massa e quantità di moto.md",
-    "Appunti Z/Riassunti/Fisica 20 10 - forze conservative ed energia meccanica.md",
-    "Appunti Z/Riassunti/Fisica 16 10 - lavoro, energia cinetica e potenza.md",
-    "Appunti Z/Riassunti/Fisica 15 10 - attrito e resistenza del mezzo.md",
+    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
+    "Appunti Emanuel/matematica/26_10_2026.md",
+    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
+    "Appunti Emanuel/matematica/21_10_2026.md",
+    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
+    "Appunti Emanuel/matematica/28_10_2026.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 26 10.md",
+    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Emanuel/matematica/29_10_2026.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10.md",
+    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
+    "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
+    "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
+    "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
+    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
+    "Appunti Emanuel/fondamenti programmazione/28_10_2026.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 28 10.md",
+    "Appunti Z/fisica/Drawing 2026-10-27 08.50.23.excalidraw.md",
+    "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md",
+    "Appunti Z/analisi matematica/analisi matematica 26 10.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
