@@ -176,6 +176,18 @@
             }
           },
           {
+            "id": "a18da07ba7405462",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "spazzatura ed esercizi vari"
+            }
+          },
+          {
             "id": "a96b44a7621186c7",
             "type": "leaf",
             "state": {
@@ -190,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -348,12 +360,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "2db163d33e732f48",
+  "active": "a18da07ba7405462",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
+    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
     "Appunti Emanuel/matematica/26_10_2026.md",
     "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
-    "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
     "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Emanuel/matematica/28_10_2026.md",
@@ -375,7 +388,6 @@
     "Appunti Z/fisica/Drawing 2026-10-27 08.50.23.excalidraw.md",
     "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md",
     "Appunti Z/analisi matematica/analisi matematica 26 10.md",
-    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
