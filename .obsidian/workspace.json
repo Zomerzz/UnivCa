@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -191,8 +192,10 @@
   },
   "active": "c7d141de7e6e35a7",
   "lastOpenFiles": [
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/fisica/fisica 16 10.md",
+    "Appunti Z/fisica/fisica 15 10.md",
     "Appunti Z/fisica/fisica 03 11.md",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 02 11.md",
     "Appunti Z/fondamenti di programmazione/Senza nome 1.md",
@@ -218,7 +221,6 @@
     "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
     "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
     "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
-    "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
@@ -235,7 +237,6 @@
     "Pasted Image 20261018213224_364.png",
     "Appunti Z/img/Pasted image 20261018174952.png",
     "Appunti Z/img/Pasted image 20261018174627.png",
-    "Appunti Z/img/Pasted image 20261018174541.png",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf"
+    "Appunti Z/img/Pasted image 20261018174541.png"
   ]
 }
