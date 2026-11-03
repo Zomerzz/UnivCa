@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c85b138fc124e07e",
+        "id": "be7678d3f846098a",
         "type": "tabs",
         "children": [
           {
-            "id": "c8a37defe485eb0e",
+            "id": "c7d141de7e6e35a7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/Drawing 2026-11-02 11.47.21.excalidraw.md"
+                "file": "Appunti Z/fisica/fisica 03 11.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-02 11.47.21.excalidraw"
+              "title": "fisica 03 11"
             }
           },
           {
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -198,12 +199,9 @@
     "Appunti Emanuel/fondamenti programmazione/Drawing 2026-11-02 11.47.21.excalidraw.md",
     "Appunti Z/fondamenti di programmazione/Senza nome 1.md",
     "Recording 20261102084819.m4a",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 02 11.md",
     "Appunti Z/analisi matematica/novembre",
     "Appunti Z/analisi matematica/Senza nome.md",
     "Appunti Emanuel/Fisica/ESRCIZI A CASO.md",
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
-    "Appunti Emanuel/matematica/26_10_2026.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
@@ -211,13 +209,17 @@
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Emanuel/matematica/29_10_2026.md",
     "Appunti Emanuel/matematica/28_10_2026.md",
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 26 10.md",
+    "Appunti Emanuel/matematica/21_10_2026.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-31 10.17.16.excalidraw.md",
     "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md",
+    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
+    "Appunti Emanuel/matematica/29_10_2026.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10.md",
+    "Appunti Emanuel/matematica/26_10_2026.md",
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
     "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
     "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
     "Appunti Z/Riassunti",
