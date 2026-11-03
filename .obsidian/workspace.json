@@ -8,27 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7d141de7e6e35a7",
+            "id": "79fea48f6e48f86f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 03 11.md"
+                "file": "Appunti Z/fisica/tutoraggio 03 11.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 03 11"
-            }
-          },
-          {
-            "id": "162c226ff2efdcd4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library)"
+              "title": "tutoraggio 03 11"
             }
           }
         ]
@@ -190,11 +178,12 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "c7d141de7e6e35a7",
+  "active": "79fea48f6e48f86f",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 03 11.md",
+    "Appunti Z/fisica/tutoraggio 03 11.md",
     "Appunti Z/fisica/fisica 16 10.md",
     "Appunti Z/fisica/fisica 15 10.md",
-    "Appunti Z/fisica/fisica 03 11.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 02 11.md",
@@ -220,7 +209,6 @@
     "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
     "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
     "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
-    "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
