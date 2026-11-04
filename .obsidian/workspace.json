@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be7678d3f846098a",
+        "id": "c85b138fc124e07e",
         "type": "tabs",
         "children": [
           {
-            "id": "79fea48f6e48f86f",
+            "id": "c8a37defe485eb0e",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -25,10 +25,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md"
+                "file": "Appunti Emanuel/fondamenti programmazione/Drawing 2026-11-02 11.47.21.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "analisi matematica 04 11"
+              "title": "Drawing 2026-11-02 11.47.21.excalidraw"
+            }
+          },
+          {
+            "id": "6030adcb9ade8f11",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Le Rotazioni 03_11_2026"
             }
           }
         ],
@@ -97,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469,
-    "collapsed": true
+    "width": 322.8000183105469
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -191,37 +202,36 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "f2e8464caf3f28d7",
+  "active": "6030adcb9ade8f11",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
     "Appunti Z/fisica/tutoraggio 03 11.md",
     "Appunti Z/fisica/fisica 03 11.md",
-    "Appunti Z/fisica/fisica 16 10.md",
-    "Appunti Z/fisica/fisica 15 10.md",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
+    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
     "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 02 11.md",
-    "Appunti Z/fondamenti di programmazione/Senza nome 1.md",
     "Appunti Emanuel/fondamenti programmazione/Drawing 2026-11-02 11.47.21.excalidraw.md",
+    "Appunti Z/fondamenti di programmazione/Senza nome 1.md",
     "Recording 20261102084819.m4a",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 02 11.md",
     "Appunti Z/analisi matematica/novembre",
     "Appunti Z/analisi matematica/Senza nome.md",
     "Appunti Emanuel/Fisica/ESRCIZI A CASO.md",
-    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
-    "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
-    "Appunti Emanuel/matematica/28_10_2026.md",
-    "Appunti Emanuel/matematica/21_10_2026.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
-    "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-31 10.17.16.excalidraw.md",
-    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
-    "Appunti Emanuel/matematica/29_10_2026.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10.md",
     "Appunti Emanuel/matematica/26_10_2026.md",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
+    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
+    "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
+    "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Emanuel/matematica/29_10_2026.md",
+    "Appunti Emanuel/matematica/28_10_2026.md",
+    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 26 10.md",
+    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10.md",
+    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
@@ -238,6 +248,7 @@
     "Pasted Image 20261018213224_364.png",
     "Appunti Z/img/Pasted image 20261018174952.png",
     "Appunti Z/img/Pasted image 20261018174627.png",
-    "Appunti Z/img/Pasted image 20261018174541.png"
+    "Appunti Z/img/Pasted image 20261018174541.png",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf"
   ]
 }
