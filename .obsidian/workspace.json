@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "Le Rotazioni 03_11_2026"
             }
+          },
+          {
+            "id": "64f88249024ec63c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "sviluppo di taylor e mcglory"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,13 +202,14 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "6030adcb9ade8f11",
+  "active": "64f88249024ec63c",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
+    "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
     "Appunti Z/fisica/tutoraggio 03 11.md",
     "Appunti Z/fisica/fisica 03 11.md",
     "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
     "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
-    "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
     "Appunti Emanuel/fondamenti programmazione/Drawing 2026-11-02 11.47.21.excalidraw.md",
     "Appunti Z/fondamenti di programmazione/Senza nome 1.md",
     "Recording 20261102084819.m4a",
@@ -219,7 +232,6 @@
     "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10.md",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
