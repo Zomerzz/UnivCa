@@ -11,15 +11,28 @@
             "id": "79fea48f6e48f86f",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "lezione 05 10"
+            }
+          },
+          {
+            "id": "f2e8464caf3f28d7",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/tutoraggio 03 11.md"
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md"
               },
               "icon": "excalidraw-icon",
-              "title": "tutoraggio 03 11"
+              "title": "analisi matematica 04 11"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,12 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "79fea48f6e48f86f",
+  "active": "f2e8464caf3f28d7",
   "lastOpenFiles": [
-    "Appunti Z/fisica/fisica 03 11.md",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
     "Appunti Z/fisica/tutoraggio 03 11.md",
+    "Appunti Z/fisica/fisica 03 11.md",
     "Appunti Z/fisica/fisica 16 10.md",
     "Appunti Z/fisica/fisica 15 10.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
@@ -207,8 +222,6 @@
     "Appunti Emanuel/matematica/26_10_2026.md",
     "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
     "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
-    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
-    "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
