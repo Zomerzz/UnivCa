@@ -11,18 +11,6 @@
             "id": "79fea48f6e48f86f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "lezione 05 10"
-            }
-          },
-          {
-            "id": "f2e8464caf3f28d7",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md"
@@ -193,6 +181,8 @@
   },
   "active": "f2e8464caf3f28d7",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
+    "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
     "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
@@ -217,12 +207,8 @@
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-31 10.17.16.excalidraw.md",
     "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
-    "Appunti Emanuel/matematica/29_10_2026.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10.md",
-    "Appunti Emanuel/matematica/26_10_2026.md",
-    "Appunti Emanuel/matematica/criteri di invertibilità e restrizione del dominio.md",
-    "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
