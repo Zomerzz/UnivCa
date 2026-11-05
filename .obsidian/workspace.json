@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469,
-    "collapsed": true
+    "width": 322.8000183105469
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -178,7 +177,7 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "646391d49df62186",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
     "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
