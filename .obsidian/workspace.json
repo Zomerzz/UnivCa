@@ -4,23 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be7678d3f846098a",
+        "id": "1e31598cc5af8cec",
         "type": "tabs",
         "children": [
           {
-            "id": "79fea48f6e48f86f",
+            "id": "646391d49df62186",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 04 11"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469,
-    "collapsed": true
+    "width": 322.8000183105469
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -179,7 +175,7 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "f2e8464caf3f28d7",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
     "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
     "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
