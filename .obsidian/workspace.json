@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md"
+                "file": "Appunti Z/fisica/fisica 05 11.md"
               },
               "icon": "excalidraw-icon",
               "title": "elenco argomenti 1o parziale"
@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
