@@ -25,14 +25,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md"
+                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-05 08.30.09.excalidraw"
+              "title": "16_10_2026"
+            }
+          },
+          {
+            "id": "9fad87a9ee67db0b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Natura vettoriale delle rotazioni 05_11_2026"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,10 +202,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "bfc85bbee6a1faf1",
+  "active": "9fad87a9ee67db0b",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
+    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
+    "Appunti Emanuel/Fisica/16_10_2026.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
+    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
     "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
     "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
@@ -219,9 +234,6 @@
     "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-31 10.17.16.excalidraw.md",
-    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
