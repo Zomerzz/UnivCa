@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be7678d3f846098a",
+        "id": "1e31598cc5af8cec",
         "type": "tabs",
         "children": [
           {
-            "id": "79fea48f6e48f86f",
+            "id": "646391d49df62186",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -43,8 +43,7 @@
               "title": "Natura vettoriale delle rotazioni 05_11_2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
