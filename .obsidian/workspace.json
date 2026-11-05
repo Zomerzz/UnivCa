@@ -13,22 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md"
+                "file": "Appunti Z/fisica/fisica 05 11.md"
               },
               "icon": "excalidraw-icon",
-              "title": "elenco argomenti 1o parziale"
-            }
-          },
-          {
-            "id": "bfc85bbee6a1faf1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-05 08.30.09.excalidraw"
+              "title": "fisica 05 11"
             }
           }
         ]
@@ -96,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -189,10 +178,10 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "bfc85bbee6a1faf1",
+  "active": "646391d49df62186",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
+    "Appunti Z/fisica/fisica 05 11.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
     "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
     "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
