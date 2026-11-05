@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "fisica 05 11"
             }
+          },
+          {
+            "id": "ad337699e0a02dad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 05 11.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 05 11"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -177,12 +191,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "ad337699e0a02dad",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 05 11.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 05 11.md",
     "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
-    "Appunti Z/fisica/fisica 05 11.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
     "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
     "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
@@ -208,7 +223,6 @@
     "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-31 10.17.16.excalidraw.md",
-    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
