@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "analisi matematica 05 11"
             }
+          },
+          {
+            "id": "54c3f9621713c9e7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/Drawing 2026-11-06 08.48.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-11-06 08.48.45.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,10 +203,11 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "ad337699e0a02dad",
+  "active": "54c3f9621713c9e7",
   "lastOpenFiles": [
-    "Appunti Z/fisica/fisica 05 11.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 05 11.md",
+    "Appunti Z/fisica/Drawing 2026-11-06 08.48.45.excalidraw.md",
+    "Appunti Z/fisica/fisica 05 11.md",
     "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
@@ -222,7 +235,6 @@
     "Appunti Emanuel/matematica/28_10_2026.md",
     "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
-    "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-31 10.17.16.excalidraw.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
