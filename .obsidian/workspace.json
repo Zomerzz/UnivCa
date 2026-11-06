@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e31598cc5af8cec",
+        "id": "afcc268bfe0d43b5",
         "type": "tabs",
         "children": [
           {
-            "id": "646391d49df62186",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/fisica/fisica 05 11.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fisica 05 11"
-            }
-          },
-          {
-            "id": "ad337699e0a02dad",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 05 11.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 05 11"
-            }
-          },
-          {
-            "id": "54c3f9621713c9e7",
+            "id": "8c105e694d673468",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -42,21 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-11-06 08.48.45.excalidraw"
             }
-          },
-          {
-            "id": "bc96c2d58809d4d0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/fisica/Fisica 23 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Fisica 23 10"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,20 +177,26 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "54c3f9621713c9e7",
+  "active": "8c105e694d673468",
   "lastOpenFiles": [
-    "Appunti Z/fisica/Fisica 23 10.md",
-    "Appunti Z/fisica/Drawing 2026-11-06 08.48.45.excalidraw.md",
     "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
+    "Appunti Z/fisica/fisica 05 11.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 05 11.md",
+    "Appunti Z/fisica/Drawing 2026-11-06 08.48.45.excalidraw.md",
+    "Appunti Z/fisica/fisica 22 10.md",
+    "Appunti Z/fisica/fisica 20 10.md",
+    "Appunti Z/fisica/fisica 16 10.md",
+    "Appunti Z/fisica/fisica 15 10.md",
+    "Appunti Z/fisica/fisica 13 10.md",
+    "Appunti Z/fisica/fisica 09 10.md",
+    "Appunti Z/fisica/Fisica 23 10.md",
+    "Appunti Z/fisica/fisica 08 10.md",
     "Appunti Z/fisica/Drawing 2026-10-27 08.50.23.excalidraw.md",
     "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md",
     "Appunti Z/fisica/fisica 02 10.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 05 11.md",
     "Appunti Z/fisica/fisica 29 09.md",
     "Appunti Z/fisica/tutoraggio 03 11.md",
     "Appunti Z/fisica/tutoring 02 10.md",
-    "Appunti Z/fisica/fisica 20 10.md",
-    "Appunti Z/fisica/fisica 05 11.md",
     "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
@@ -237,13 +206,7 @@
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
     "Appunti Z/fisica/fisica 03 11.md",
-    "Appunti Z/fisica/fisica 16 10.md",
-    "Appunti Z/fisica/fisica 15 10.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 02 11.md",
-    "Appunti Z/fondamenti di programmazione/Senza nome 1.md",
-    "Appunti Emanuel/fondamenti programmazione/Drawing 2026-11-02 11.47.21.excalidraw.md",
     "Recording 20261102084819.m4a",
     "Appunti Z/analisi matematica/novembre",
     "Appunti Z/Riassunti",
