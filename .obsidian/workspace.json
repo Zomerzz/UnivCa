@@ -4,59 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "be7678d3f846098a",
+        "id": "afcc268bfe0d43b5",
         "type": "tabs",
         "children": [
           {
-            "id": "79fea48f6e48f86f",
+            "id": "8c105e694d673468",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md"
+                "file": "Appunti Z/fisica/Drawing 2026-11-06 08.48.45.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "elenco argomenti 1o parziale"
+              "title": "Drawing 2026-11-06 08.48.45.excalidraw"
             }
           },
           {
-            "id": "bfc85bbee6a1faf1",
+            "id": "6866273b6f0f4e9f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
+                "file": "Appunti Z/fisica/fisica 16 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "16_10_2026"
+              "title": "fisica 16 10"
             }
           },
           {
-            "id": "9fad87a9ee67db0b",
+            "id": "8900bd2f92b687ba",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
+                "file": "Appunti Z/fisica/fisica 08 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Natura vettoriale delle rotazioni 05_11_2026"
+              "title": "fisica 08 10"
             }
           },
           {
-            "id": "553bfc1ce6bdb763",
+            "id": "61e354bb43c6dcfb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md"
+                "file": "Appunti Z/fisica/fisica 09 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-05 10.41.40.excalidraw"
+              "title": "fisica 09 10"
+            }
+          },
+          {
+            "id": "69572cd56b4d28d9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/fisica 13 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 13 10"
+            }
+          },
+          {
+            "id": "4521c682b6388d61",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/fisica 15 10.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 15 10"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,38 +237,38 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "553bfc1ce6bdb763",
+  "active": "8c105e694d673468",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 15 10.md",
+    "Appunti Z/fisica/fisica 13 10.md",
+    "Appunti Z/fisica/fisica 09 10.md",
+    "Appunti Z/fisica/fisica 08 10.md",
+    "Appunti Z/fisica/fisica 16 10.md",
     "Appunti Z/fisica/Drawing 2026-11-06 08.48.45.excalidraw.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 05 11.md",
-    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
-    "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
+    "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
     "Appunti Z/fisica/fisica 05 11.md",
-    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
-    "Appunti Emanuel/Fisica/16_10_2026.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 05 11.md",
+    "Appunti Z/fisica/fisica 22 10.md",
+    "Appunti Z/fisica/fisica 20 10.md",
+    "Appunti Z/fisica/Fisica 23 10.md",
+    "Appunti Z/fisica/Drawing 2026-10-27 08.50.23.excalidraw.md",
+    "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md",
+    "Appunti Z/fisica/fisica 02 10.md",
+    "Appunti Z/fisica/fisica 29 09.md",
+    "Appunti Z/fisica/tutoraggio 03 11.md",
+    "Appunti Z/fisica/tutoring 02 10.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
+    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
     "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
     "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
-    "Appunti Z/fisica/tutoraggio 03 11.md",
     "Appunti Z/fisica/fisica 03 11.md",
-    "Appunti Z/fisica/fisica 16 10.md",
-    "Appunti Z/fisica/fisica 15 10.md",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 02 11.md",
-    "Appunti Z/fondamenti di programmazione/Senza nome 1.md",
-    "Appunti Emanuel/fondamenti programmazione/Drawing 2026-11-02 11.47.21.excalidraw.md",
     "Recording 20261102084819.m4a",
     "Appunti Z/analisi matematica/novembre",
-    "Appunti Z/analisi matematica/Senza nome.md",
-    "Appunti Emanuel/Fisica/ESRCIZI A CASO.md",
-    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
-    "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
     "Appunti Z/Riassunti",
     "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
