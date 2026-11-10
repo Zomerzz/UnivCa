@@ -47,12 +47,14 @@
             "id": "553bfc1ce6bdb763",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md"
+                "file": "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "14.10.2026 DERIVATE FUNZIONI COMPOSTE"
+              "icon": "lucide-file",
+              "title": "Riepilogo parziale loi"
             }
           }
         ],
@@ -216,6 +218,8 @@
   },
   "active": "553bfc1ce6bdb763",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
+    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
     "Appunti Emanuel/matematica/28_10_2026.md",
     "Appunti Emanuel/matematica/29_10_2026.md",
@@ -226,10 +230,8 @@
     "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
     "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
