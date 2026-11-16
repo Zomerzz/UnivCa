@@ -11,13 +11,28 @@
             "id": "0255c3f983e6d182",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "image",
+              "state": {
+                "file": "img/Pasted image 20261114182759.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261114182759"
+            }
+          },
+          {
+            "id": "d42b5c430faef335",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Note di rilascio 1.15.1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +104,75 @@
   "right": {
     "id": "1338e7bce472a31c",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "d410c6d5e0906152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42e7eb88c4df0175",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "b43b885d1d4bccf3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "dffc198239f7371a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "5e4891c22524c819",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
@@ -106,11 +189,21 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "1d778e1b4df708ae",
+  "active": "d42b5c430faef335",
   "lastOpenFiles": [
-    "Pasted image 20261114190945.png",
-    "Pasted image 20261114183350.png",
-    "Pasted image 20261114182759.png",
+    "riepilo parziale loi 2.md",
+    "img/Pasted image 20261114182759.png",
+    "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
+    "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
+    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Emanuel/matematica/21_10_2026.md",
+    "Appunti Emanuel/matematica/16_11_2026.md",
+    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
+    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
+    "img/Pasted image 20261114190945.png",
+    "img/Pasted image 20261114183350.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
@@ -125,31 +218,21 @@
     "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
     "Appunti Z/analisi matematica/novembre",
     "Appunti Z/analisi matematica/Senza nome.md",
-    "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
     "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
-    "Appunti Emanuel/matematica/16_11_2026.md",
     "Appunti Emanuel/fondamenti programmazione/Drawing 2026-11-02 11.47.21.excalidraw.md",
     "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
     "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
-    "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
-    "Appunti Z/esercitazione/ex 7.md",
-    "Appunti Z/Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
-    "Appunti Z/Excalidraw/Drawing 2026-10-03 14.31.37.excalidraw.md",
-    "Appunti Z/img/Pasted Image 20261018213224_364.png",
-    "Appunti Z/img/Pasted image 20261018174627.png",
-    "Appunti Z/img/Pasted Image 20261012074449_059.png",
-    "Appunti Z/img/Pasted Image 20261011155238_505.png",
-    "Appunti Z/img/Pasted Image 20261008221059_150.png",
-    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
+    "img/Pasted Image 20261018213224_364.png",
+    "img/Pasted image 20261018174627.png",
+    "img/Pasted Image 20261012074449_059.png",
+    "img/Pasted Image 20261011155238_505.png",
+    "img/Pasted Image 20261008221059_150.png",
+    "img/insiemi e sottoinsiemi di C.png",
     "Appunti Z/esercitazione",
-    "Appunti Z/analisi matematica/MOC ANALISI.md",
-    "Appunti Z/esercitazione/ex 6.md",
-    "Appunti Z/esercitazione/ex 5.md",
     "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
     "Pasted image 20261101112740.png",
-    "Pasted Image 20261021213437_028.png",
     "Appunti Z/Riassunti",
     "Senza nome 2.base",
     "Senza nome 1.base",
