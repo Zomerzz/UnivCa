@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "be7678d3f846098a",
+        "id": "18f56c7c280cf7cf",
         "type": "tabs",
         "children": [
           {
-            "id": "79fea48f6e48f86f",
+            "id": "ca925e2dd9ba587d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20261114190945.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261114190945"
+            }
+          },
+          {
+            "id": "d752cd7e7f8f0ebc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md"
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md"
               },
               "icon": "excalidraw-icon",
-              "title": "elenco argomenti 1o parziale"
-            }
-          },
-          {
-            "id": "bfc85bbee6a1faf1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_10_2026"
-            }
-          },
-          {
-            "id": "9fad87a9ee67db0b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Natura vettoriale delle rotazioni 05_11_2026"
-            }
-          },
-          {
-            "id": "553bfc1ce6bdb763",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/moto circolare uniforme.md"
-              },
-              "icon": "lucide-file-text",
-              "title": "moto circolare uniforme"
+              "title": "analisi matematica 16 11"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -214,15 +191,20 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "553bfc1ce6bdb763",
+  "active": "d752cd7e7f8f0ebc",
   "lastOpenFiles": [
     "Pasted image 20261114190945.png",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
     "Pasted image 20261114183350.png",
     "Pasted image 20261114182759.png",
+    "Pasted Image 20261021213437_028.png",
+    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
+    "Appunti Emanuel/Fisica/16_10_2026.md",
+    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
+    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
     "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md",
     "Appunti Emanuel/matematica/16_11_2026.md",
     "Appunti Emanuel/matematica/21_10_2026.md",
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
     "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
@@ -240,16 +222,11 @@
     "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
     "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
-    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
-    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
-    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
-    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Recording 20261102084819.m4a",
     "Appunti Z/analisi matematica/novembre",
     "Appunti Z/Riassunti",
-    "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
@@ -260,7 +237,6 @@
     "Pasted Image 20261020191216_282.png",
     "Senza nome 2.base",
     "Senza nome 1.base",
-    "Pasted Image 20261018213224_364.png",
-    "Appunti Z/img/Pasted image 20261018174952.png"
+    "Pasted Image 20261018213224_364.png"
   ]
 }
