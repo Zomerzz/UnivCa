@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "70251cf6184a9b75",
+        "id": "c1a1c50bc2cf237b",
         "type": "tabs",
         "children": [
           {
-            "id": "9380de7efb63cf59",
+            "id": "0255c3f983e6d182",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-31 10.17.16.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-31 10.17.16.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -31,6 +29,7 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
+        "dimension": 64.16666666666667,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -67,11 +66,12 @@
         ]
       },
       {
-        "id": "deeb9aa6cd61bfb9",
+        "id": "964d065130ce9897",
         "type": "tabs",
+        "dimension": 35.833333333333336,
         "children": [
           {
-            "id": "63b486af163b355e",
+            "id": "1d778e1b4df708ae",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -84,84 +84,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469,
-    "collapsed": true
+    "width": 322.8000183105469
   },
   "right": {
     "id": "1338e7bce472a31c",
     "type": "split",
-    "children": [
-      {
-        "id": "36e1b3e7bd833c93",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a68f68b7b397515",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "analisi matematica/analisi 30 09.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Riferimenti"
-            }
-          },
-          {
-            "id": "4c470b95bf132a9e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "analisi matematica/analisi 30 09.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Struttura"
-            }
-          },
-          {
-            "id": "c74e35042fa5e00f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etichette"
-            }
-          },
-          {
-            "id": "970f1414292fceed",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Tutte le proprietà"
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
@@ -178,9 +106,36 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "9380de7efb63cf59",
+  "active": "0255c3f983e6d182",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/ottobre/Drawing 2026-10-31 10.17.16.excalidraw.md",
+    "Appunti Z/esercitazione/ex 7.md",
+    "Appunti Z/Excalidraw/fondamenti di programmazione 30 09 2026-09-30 13.14.36.excalidraw.md",
+    "Appunti Z/Excalidraw/Drawing 2026-10-03 14.31.37.excalidraw.md",
+    "Appunti Z/img/Pasted Image 20261018213224_364.png",
+    "Appunti Z/img/Pasted image 20261018174627.png",
+    "Appunti Z/img/Pasted Image 20261012074449_059.png",
+    "Appunti Z/img/Pasted Image 20261011155238_505.png",
+    "Appunti Z/img/Pasted Image 20261008221059_150.png",
+    "Appunti Z/img/insiemi e sottoinsiemi di C.png",
+    "Appunti Z/esercitazione",
+    "Appunti Z/analisi matematica/MOC ANALISI.md",
+    "Appunti Z/esercitazione/ex 6.md",
+    "Appunti Z/esercitazione/ex 5.md",
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
+    "Appunti Z/fisica/fisica 15 10.md",
+    "Appunti Z/fisica/fisica 16 10.md",
+    "Appunti Z/esercitazione/ex 1.md",
+    "Appunti Z/esercitazione/ex 4.md",
+    "Appunti Z/esercitazione/ex 3.md",
+    "Appunti Z/esercitazione/ex 2.md",
+    "Appunti Z/esercizzi/Drawing 2026-10-03 14.10.51.excalidraw.md",
+    "Appunti Z/fisica/Drawing 2026-10-27 08.50.23.excalidraw.md",
+    "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md",
+    "Appunti Z/esercitazione/Lavagna esercizzi 1.md",
+    "Appunti Z/esercitazione/Lavagna esercizi 2.md",
+    "riepilo parziale loi 2.md",
+    "Pasted image 20261101112740.png",
+    "Pasted Image 20261021213437_028.png",
     "Appunti Emanuel/Fisica/ESRCIZI A CASO.md",
     "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
     "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
@@ -189,42 +144,15 @@
     "Appunti Emanuel/fondamenti programmazione/22_10_2026.md",
     "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
     "Appunti Z/fisica/Drawing 2026-10-29 08.46.18.excalidraw.md",
-    "Appunti Z/fisica/Drawing 2026-10-27 08.50.23.excalidraw.md",
-    "Appunti Z/fisica/Drawing 2026-10-23 14.50.43.excalidraw.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 28 10.md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 26 10.md",
-    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
-    "Appunti Emanuel/matematica/29_10_2026.md",
-    "Appunti Emanuel/matematica/28_10_2026.md",
-    "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
-    "Appunti Emanuel/fondamenti programmazione/28_10_2026.md",
-    "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
-    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
-    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
-    "Appunti Emanuel/matematica/limiti notevoli 06-10-2026.md",
-    "Appunti Emanuel/matematica/limiti notevoli 07-10-2026.md",
-    "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
     "Appunti Z/Riassunti",
-    "Pasted Image 20261021213437_028.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
     "Appunti Z/img/Pasted image 20261018185805.png",
     "Appunti Z/img/Pasted Image 20261020191216_282.png",
-    "Appunti Z/img/Pasted Image 20261018213224_364.png",
-    "Appunti Z/img/Pasted Image 20261018193019_807.png",
-    "Pasted Image 20261020191216_282.png",
     "Senza nome 2.base",
     "Senza nome 1.base",
     "Senza nome.base",
-    "Pasted Image 20261018213224_364.png",
-    "Appunti Z/img/Pasted image 20261018174952.png",
-    "Appunti Z/img/Pasted image 20261018174627.png",
-    "Appunti Z/img/Pasted image 20261018174541.png",
-    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
-    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
-    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf"
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf"
   ]
 }
