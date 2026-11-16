@@ -11,13 +11,30 @@
             "id": "10a1822312910691",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "analisi matematica.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "analisi matematica"
+            }
+          },
+          {
+            "id": "88ef50fca4a8dff2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Note di rilascio 1.15.1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,14 +190,15 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "group-tabs:Recent tab groups": false,
-      "excaliboard:Create new drawing": false
+      "auto-mover:AutoMover: Move files": false,
+      "group-tabs:Recent tab groups": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "88ef50fca4a8dff2",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 15.40.31.excalidraw.md",
     "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1538.excalidraw",
+    "analisi matematica.md",
+    "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 15.40.31.excalidraw.md",
     "Appunti Z/Senza nome.md",
     "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1537.excalidraw",
     "riepilo parziale loi 2.md",
@@ -212,7 +230,6 @@
     "Appunti Z/analisi matematica/Senza nome.md",
     "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
-    "Appunti Emanuel/fondamenti programmazione/Drawing 2026-11-02 11.47.21.excalidraw.md",
     "img/Pasted Image 20261018213224_364.png",
     "img/Pasted image 20261018174627.png",
     "img/Pasted Image 20261012074449_059.png",
