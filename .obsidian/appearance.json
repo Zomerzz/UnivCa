@@ -4,5 +4,6 @@
     "rounded",
     "text zise"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
