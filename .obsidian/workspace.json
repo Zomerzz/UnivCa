@@ -78,9 +78,21 @@
               "icon": "excalidraw-icon",
               "title": "16_11_2026"
             }
+          },
+          {
+            "id": "6ad8794e3fd83ad5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/16_11_26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "16_11_26"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -238,11 +250,12 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "cf56d36587c85fea",
+  "active": "6ad8794e3fd83ad5",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/16_11_2026.md",
+    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
     "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md",
-    "Appunti Emanuel/matematica/16_11_2026.md",
     "Pasted image 20261114190945.png",
     "Pasted image 20261114183350.png",
     "Pasted image 20261114182759.png",
@@ -268,7 +281,6 @@
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
     "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
-    "Appunti Emanuel/Fisica/Fisica 06-10-2026.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Recording 20261102084819.m4a",
