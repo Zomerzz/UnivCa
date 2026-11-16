@@ -210,8 +210,7 @@
       "audio-recorder:Avvia/ferma registrazione": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "group-tabs:Recent tab groups": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "553bfc1ce6bdb763",
