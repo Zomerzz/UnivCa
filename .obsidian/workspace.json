@@ -18,21 +18,8 @@
               "icon": "lucide-image",
               "title": "Pasted image 20261114182759"
             }
-          },
-          {
-            "id": "d42b5c430faef335",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "Note di rilascio 1.15.1"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "img/Pasted image 20261114182759.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "img/Pasted image 20261114182759.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,7 +178,7 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "d42b5c430faef335",
+  "active": "0255c3f983e6d182",
   "lastOpenFiles": [
     "riepilo parziale loi 2.md",
     "img/Pasted image 20261114182759.png",
