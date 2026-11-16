@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a1c50bc2cf237b",
+        "id": "45abeba3494e4928",
         "type": "tabs",
         "children": [
           {
-            "id": "0255c3f983e6d182",
+            "id": "10a1822312910691",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "img/Pasted image 20261114182759.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261114182759"
-            }
-          },
-          {
-            "id": "40b17024581cd379",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "Note di rilascio 1.15.1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,11 +173,16 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "group-tabs:Recent tab groups": false
+      "group-tabs:Recent tab groups": false,
+      "excaliboard:Create new drawing": false
     }
   },
-  "active": "40b17024581cd379",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 15.40.31.excalidraw.md",
+    "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1538.excalidraw",
+    "Appunti Z/Senza nome.md",
+    "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1537.excalidraw",
     "riepilo parziale loi 2.md",
     "img/Pasted image 20261114182759.png",
     "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
@@ -223,9 +213,6 @@
     "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
     "Appunti Emanuel/fondamenti programmazione/Drawing 2026-11-02 11.47.21.excalidraw.md",
-    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
-    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
-    "Appunti Emanuel/Fisica/Le Rotazioni 03_11_2026.md",
     "img/Pasted Image 20261018213224_364.png",
     "img/Pasted image 20261018174627.png",
     "img/Pasted Image 20261012074449_059.png",
@@ -236,8 +223,6 @@
     "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
     "Pasted image 20261101112740.png",
     "Appunti Z/Riassunti",
-    "Senza nome 2.base",
-    "Senza nome 1.base",
-    "Senza nome.base"
+    "Senza nome 2.base"
   ]
 }
