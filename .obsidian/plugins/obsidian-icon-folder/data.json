@@ -1,11 +1,17 @@
 {
   "settings": {
     "migrated": 6,
-    "iconPacksPath": ".obsidian/icons/remix icons",
+    "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiMathIntegralX",
+      "LiMathFunction",
+      "LiMath",
+      "LiFolderPen",
+      "LiFolderGit"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,18 +20,24 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": true,
-    "iconInTitleEnabled": true,
-    "iconInTitlePosition": "inline",
-    "iconInFrontmatterEnabled": true,
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
+  },
+  "Appunti Z": "LiFolderGit",
+  "Appunti Emanuel": "LiFolderPen",
+  "Appunti Z/analisi matematica": {
+    "iconName": "LiMathIntegralX",
+    "iconColor": "#ff0000"
   }
 }

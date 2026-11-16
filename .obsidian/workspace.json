@@ -18,8 +18,21 @@
               "icon": "lucide-image",
               "title": "Pasted image 20261114182759"
             }
+          },
+          {
+            "id": "40b17024581cd379",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Note di rilascio 1.15.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "0255c3f983e6d182",
+  "active": "40b17024581cd379",
   "lastOpenFiles": [
     "riepilo parziale loi 2.md",
     "img/Pasted image 20261114182759.png",
