@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45abeba3494e4928",
+        "id": "2d0388726352fa23",
         "type": "tabs",
         "children": [
           {
-            "id": "10a1822312910691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "analisi matematica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "analisi matematica"
-            }
-          },
-          {
-            "id": "88ef50fca4a8dff2",
+            "id": "f748c9f59c640e23",
             "type": "leaf",
             "state": {
               "type": "release-notes",
@@ -33,8 +19,7 @@
               "title": "Note di rilascio 1.15.1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +179,11 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "88ef50fca4a8dff2",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1538.excalidraw",
     "analisi matematica.md",
+    "analisi matematica.md",
+    "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1538.excalidraw",
     "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 15.40.31.excalidraw.md",
     "Appunti Z/Senza nome.md",
     "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1537.excalidraw",
