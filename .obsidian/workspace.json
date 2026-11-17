@@ -90,9 +90,21 @@
               "icon": "excalidraw-icon",
               "title": "16_11_26"
             }
+          },
+          {
+            "id": "5419fcb7c8b48b56",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "17_11_26 Equilibrio"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -250,8 +262,10 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "6ad8794e3fd83ad5",
+  "active": "5419fcb7c8b48b56",
   "lastOpenFiles": [
+    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
+    "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md",
     "img/sinx x.png",
     "img/insiemi e sottoinsiemi di C.png",
     "img/Pasted image 20261114190945.png",
@@ -262,7 +276,6 @@
     "img/Pasted image 20261018174627.png",
     "img/Pasted image 20261018174541.png",
     "img/Pasted image 20261018171317.png",
-    "img/Pasted image 20261018165443.png",
     "img",
     "Appunti Z/Senza nome.md",
     "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
@@ -272,7 +285,6 @@
     "Appunti Z/esercitazione",
     "Appunti Z/analisi matematica/MOC ANALISI.md",
     "Appunti Emanuel/matematica/16_11_2026.md",
-    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
     "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md",
     "Appunti Emanuel/Fisica/moto circolare uniforme.md",
