@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0388726352fa23",
+        "id": "36db295a70092018",
         "type": "tabs",
         "children": [
           {
-            "id": "f748c9f59c640e23",
+            "id": "67a71f26b07c1785",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "Note di rilascio 1.15.1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -175,17 +173,24 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "auto-mover:AutoMover: Move files": false,
       "group-tabs:Recent tab groups": false
     }
   },
   "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
+    "Appunti Z/analisi matematica/ottobre/Drawing 2026-11-16 15.55.12.excalidraw.md",
+    "Appunti Z/analisi matematica/MOC ANALISI.md",
+    "Appunti Z/esercitazioni/ex 4.md",
+    "Appunti Z/esercitazioni/ex 3.md",
+    "Appunti Z/esercitazioni/ex 2.md",
+    "Appunti Z/esercitazioni/ex 1.md",
+    "Appunti Z/Senza nome.md",
+    "Appunti Z/analisi matematica/Senza nome.md",
     "analisi matematica.md",
     "analisi matematica.md",
     "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1538.excalidraw",
     "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 15.40.31.excalidraw.md",
-    "Appunti Z/Senza nome.md",
     "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1537.excalidraw",
     "riepilo parziale loi 2.md",
     "img/Pasted image 20261114182759.png",
@@ -207,22 +212,14 @@
     "Appunti Z/fisica/tutoraggio 03 11.md",
     "Appunti Z/fisica/fisica 05 11.md",
     "Appunti Z/fisica/fisica 03 11.md",
-    "Appunti Z/fisica/Drawing 2026-11-06 08.48.45.excalidraw.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 05 11.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 02 11.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 04 11.md",
     "Appunti Z/analisi matematica/novembre",
-    "Appunti Z/analisi matematica/Senza nome.md",
-    "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md",
-    "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
     "img/Pasted Image 20261018213224_364.png",
     "img/Pasted image 20261018174627.png",
     "img/Pasted Image 20261012074449_059.png",
     "img/Pasted Image 20261011155238_505.png",
     "img/Pasted Image 20261008221059_150.png",
     "img/insiemi e sottoinsiemi di C.png",
-    "Appunti Z/esercitazione",
+    "Appunti Z/esercitazioni",
     "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
     "Pasted image 20261101112740.png",
     "Appunti Z/Riassunti",
