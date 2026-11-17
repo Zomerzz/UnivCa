@@ -4,22 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "36db295a70092018",
+        "id": "be7678d3f846098a",
         "type": "tabs",
         "children": [
           {
-            "id": "67a71f26b07c1785",
+            "id": "79fea48f6e48f86f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md"
+                "file": "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md"
               },
               "icon": "excalidraw-icon",
-              "title": "analisi matematica 16 11"
+              "title": "elenco argomenti 1o parziale"
+            }
+          },
+          {
+            "id": "bfc85bbee6a1faf1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "16_10_2026"
+            }
+          },
+          {
+            "id": "9fad87a9ee67db0b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Natura vettoriale delle rotazioni 05_11_2026"
+            }
+          },
+          {
+            "id": "553bfc1ce6bdb763",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/moto circolare uniforme.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "moto circolare uniforme"
+            }
+          },
+          {
+            "id": "458ef6202895c5f4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Polinomio di Taylor-sunto x 2 parziale"
+            }
+          },
+          {
+            "id": "cf56d36587c85fea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/16_11_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "16_11_2026"
+            }
+          },
+          {
+            "id": "6ad8794e3fd83ad5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/16_11_26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "16_11_26"
+            }
+          },
+          {
+            "id": "5419fcb7c8b48b56",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "17_11_26 Equilibrio"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -31,7 +116,6 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
-        "dimension": 64.16666666666667,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -68,12 +152,11 @@
         ]
       },
       {
-        "id": "964d065130ce9897",
+        "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
-        "dimension": 35.833333333333336,
         "children": [
           {
-            "id": "1d778e1b4df708ae",
+            "id": "63b486af163b355e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -93,16 +176,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d410c6d5e0906152",
+        "id": "36e1b3e7bd833c93",
         "type": "tabs",
         "children": [
           {
-            "id": "42e7eb88c4df0175",
+            "id": "5a68f68b7b397515",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20261114182759.png",
+                "file": "analisi matematica/analisi 30 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +199,22 @@
             }
           },
           {
-            "id": "b43b885d1d4bccf3",
+            "id": "4c470b95bf132a9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "analisi matematica/analisi 30 09.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          },
+          {
+            "id": "c74e35042fa5e00f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +229,7 @@
             }
           },
           {
-            "id": "dffc198239f7371a",
+            "id": "970f1414292fceed",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -143,23 +241,9 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
-          },
-          {
-            "id": "5e4891c22524c819",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "img/Pasted image 20261114182759.png",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Struttura"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,53 +262,53 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "67a71f26b07c1785",
+  "active": "5419fcb7c8b48b56",
   "lastOpenFiles": [
-    "Appunti Z/fisica/fisica 17 11.md",
-    "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md",
-    "Appunti Emanuel/Fisica/Drawing 2026-10-29 08.26.02.excalidraw.md",
-    "Appunti Z/analisi matematica/ottobre/Drawing 2026-11-16 15.55.12.excalidraw.md",
-    "Appunti Z/analisi matematica/MOC ANALISI.md",
+    "Appunti Z/esercitazioni/ex 7.md",
+    "Appunti Z/esercitazioni/ex 6.md",
+    "Appunti Z/esercitazioni/ex 5.md",
     "Appunti Z/esercitazioni/ex 4.md",
     "Appunti Z/esercitazioni/ex 3.md",
     "Appunti Z/esercitazioni/ex 2.md",
     "Appunti Z/esercitazioni/ex 1.md",
-    "Appunti Z/Senza nome.md",
-    "Appunti Z/analisi matematica/Senza nome.md",
-    "analisi matematica.md",
-    "analisi matematica.md",
-    "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1538.excalidraw",
-    "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 15.40.31.excalidraw.md",
-    "Appunti Z/analisi matematica/--pdf/Drawing 2026-11-16 1537.excalidraw",
-    "riepilo parziale loi 2.md",
-    "img/Pasted image 20261114182759.png",
-    "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
-    "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
-    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi zozzo.md",
-    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
-    "Appunti Emanuel/matematica/21_10_2026.md",
-    "Appunti Emanuel/matematica/16_11_2026.md",
-    "Appunti Emanuel/matematica/14.10.2026 DERIVATE FUNZIONI COMPOSTE.md",
-    "Appunti Emanuel/matematica/12-10-2026 punti di discontinuità.md",
+    "Appunti Z/esercitazioni/Lavagna esercizzi 1.md",
+    "Appunti Z/esercitazioni/Lavagna esercizi 2.md",
+    "Appunti Z/esercitazioni",
+    "Appunti Z/fisica/fisica 17 11.md",
+    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
+    "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md",
+    "img/sinx x.png",
+    "img/insiemi e sottoinsiemi di C.png",
     "img/Pasted image 20261114190945.png",
     "img/Pasted image 20261114183350.png",
-    "Excalidraw/Libraries/local-library.excalidrawlib",
-    "Excalidraw/Libraries",
-    "Excalidraw",
-    "Appunti Z/fondamenti di programmazione/Senza nome 1.md",
-    "Appunti Z/fisica/tutoraggio 03 11.md",
-    "Appunti Z/analisi matematica/novembre",
-    "img/Pasted Image 20261018213224_364.png",
+    "img/Pasted image 20261114182759.png",
+    "img/Pasted image 20261018185805.png",
+    "img/Pasted image 20261018174952.png",
     "img/Pasted image 20261018174627.png",
-    "img/Pasted Image 20261012074449_059.png",
-    "img/Pasted Image 20261011155238_505.png",
-    "img/Pasted Image 20261008221059_150.png",
-    "img/insiemi e sottoinsiemi di C.png",
-    "Appunti Z/esercitazioni",
+    "img/Pasted image 20261018174541.png",
+    "img/Pasted image 20261018171317.png",
+    "img",
+    "Appunti Z/Senza nome.md",
     "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
-    "Pasted image 20261101112740.png",
-    "Appunti Z/Riassunti",
-    "Senza nome 2.base"
+    "Appunti Z/fisica/pdf",
+    "Appunti Z/esercitazione/Lavagna esercizzi 1.md",
+    "Appunti Z/esercitazione/Lavagna esercizi 2.md",
+    "Appunti Z/esercitazione",
+    "Appunti Z/analisi matematica/MOC ANALISI.md",
+    "Appunti Emanuel/matematica/16_11_2026.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
+    "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md",
+    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
+    "Appunti Emanuel/matematica/21_10_2026.md",
+    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
+    "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
+    "Appunti Emanuel/matematica/infinitesimi e infiniti 08-10-2026.md",
+    "Appunti Emanuel/matematica/Riepilogo parziale loi.md",
+    "Appunti Emanuel/matematica/Teoremi sullo studio di funzione 22_10_2026.md",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Recording 20261102084819.m4a",
+    "Appunti Z/analisi matematica/novembre",
+    "Appunti Z/Riassunti"
   ]
 }
