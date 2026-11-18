@@ -1,0 +1,350 @@
+{
+  "main": {
+    "id": "b9c29c689b528b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "be7678d3f846098a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79fea48f6e48f86f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "elenco argomenti 1o parziale"
+            }
+          },
+          {
+            "id": "bfc85bbee6a1faf1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "16_10_2026"
+            }
+          },
+          {
+            "id": "9fad87a9ee67db0b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Natura vettoriale delle rotazioni 05_11_2026"
+            }
+          },
+          {
+            "id": "553bfc1ce6bdb763",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/moto circolare uniforme.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "moto circolare uniforme"
+            }
+          },
+          {
+            "id": "458ef6202895c5f4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Polinomio di Taylor-sunto x 2 parziale"
+            }
+          },
+          {
+            "id": "cf56d36587c85fea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "16_11_2026 integrali e media integrale"
+            }
+          },
+          {
+            "id": "6ad8794e3fd83ad5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/16_11_26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "16_11_26"
+            }
+          },
+          {
+            "id": "5419fcb7c8b48b56",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Natura vettoriale delle rotazioni 05_11_2026"
+            }
+          },
+          {
+            "id": "a3f2cfb0f3451294",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "16_11_2026 integrali e media integrale"
+            }
+          },
+          {
+            "id": "bce6f337652385e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "18_11_2026 proseguo integrali, primitiva"
+            }
+          },
+          {
+            "id": "effed1a5a73bfe62",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/18_11_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "18_11_2026"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f90a925bddf11987",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a0740bb57972b90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38f4c57ea908ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
+          },
+          {
+            "id": "fd6ba17a0989dc5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          }
+        ]
+      },
+      {
+        "id": "deeb9aa6cd61bfb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63b486af163b355e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.8000183105469
+  },
+  "right": {
+    "id": "1338e7bce472a31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "36e1b3e7bd833c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a68f68b7b397515",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "analisi matematica/analisi 30 09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "4c470b95bf132a9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "analisi matematica/analisi 30 09.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          },
+          {
+            "id": "c74e35042fa5e00f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "970f1414292fceed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obisidian-note-linker:Note Linker": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "group-tabs:Recent tab groups": false
+    }
+  },
+  "active": "38f4c57ea908ae9c",
+  "lastOpenFiles": [
+    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
+    "Appunti Emanuel/fondamenti programmazione/18_11_2026.md",
+    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrazione per parti.md",
+    "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
+    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
+    "Appunti Mike/Fondamenti Di Programmazione/Drawing 2026-10-12 18.16.48.excalidraw.md",
+    "Appunti Mike/Fondamenti Di Programmazione",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Rotolamento.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Urti Anelastici & Elastici.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Quantita di moto.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Forza & Moto (Cap 5.).md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Moto Circolare Uniforme.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Equilibrio.md",
+    "Appunti Mike/Fisica 1/TEORIA/Moto Circolare Uniforme.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
+    "Appunti Mike/Fisica 1/TEORIA/cdm & qdm.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(3° Settimana).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Esercitazione.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(cinetica, potenziale etc).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio Prima Prova Parziale.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(5° Settimana).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(4° Settimana).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (QDM CDM etc...).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (Piani Inclinati).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (2° Settimana).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. (a Caso).md",
+    "Appunti Mike/Fisica 1/TEORIA",
+    "Appunti Mike/Fisica 1/ESERCIZI",
+    "Appunti Mike/Fisica 1",
+    "Appunti Mike/Analisi 1/TEORIA/LEZIONI",
+    "Appunti Mike/Analisi 1/TEORIA",
+    "Appunti Mike/Analisi 1/ESERCIZI",
+    "Appunti Mike/Analisi 1",
+    "Appunti Mike",
+    "img/Pasted image 20261117224420.png",
+    "img/sinx x.png",
+    "img/insiemi e sottoinsiemi di C.png",
+    "img/Pasted image 20261114190945.png",
+    "img/Pasted image 20261114183350.png",
+    "img/Pasted image 20261114182759.png",
+    "img/Pasted image 20261018185805.png",
+    "img/Pasted image 20261018174952.png",
+    "img/Pasted image 20261018174627.png",
+    "img/Pasted image 20261018174541.png"
+  ]
+}
