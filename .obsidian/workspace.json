@@ -8,123 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79fea48f6e48f86f",
+            "id": "d752cd7e7f8f0ebc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md"
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md"
               },
               "icon": "excalidraw-icon",
-              "title": "elenco argomenti 1o parziale"
-            }
-          },
-          {
-            "id": "bfc85bbee6a1faf1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_10_2026"
-            }
-          },
-          {
-            "id": "9fad87a9ee67db0b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Natura vettoriale delle rotazioni 05_11_2026"
-            }
-          },
-          {
-            "id": "553bfc1ce6bdb763",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/moto circolare uniforme.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "moto circolare uniforme"
-            }
-          },
-          {
-            "id": "458ef6202895c5f4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Polinomio di Taylor-sunto x 2 parziale"
-            }
-          },
-          {
-            "id": "cf56d36587c85fea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_11_2026 integrali e media integrale"
-            }
-          },
-          {
-            "id": "6ad8794e3fd83ad5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/16_11_26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_11_26"
-            }
-          },
-          {
-            "id": "5419fcb7c8b48b56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Natura vettoriale delle rotazioni 05_11_2026"
-            }
-          },
-          {
-            "id": "a3f2cfb0f3451294",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_11_2026 integrali e media integrale"
-            }
-          },
-          {
-            "id": "bce6f337652385e2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18_11_2026 proseguo integrali, primitiva"
+              "title": "analisi matematica 18 11"
             }
           }
         ]
@@ -192,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -306,8 +199,8 @@
     "Appunti Z/esercitazioni/ex 3.md",
     "Appunti Z/esercitazioni/ex 2.md",
     "Appunti Z/esercitazioni",
-    "Appunti Z/fisica/fisica 17 11.md",
-    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
+    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
+    "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md",
     "img/sinx x.png",
     "img/Pasted image 20261114190945.png",
     "img/Pasted image 20261114183350.png",
@@ -327,10 +220,6 @@
     "Appunti Z/esercitazione/ex 4.md",
     "Appunti Z/esercitazione/ex 3.md",
     "Appunti Z/esercitazione",
-    "Appunti Z/analisi matematica/MOC ANALISI.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
-    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
-    "Appunti Emanuel/matematica/21_10_2026.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Recording 20261102084819.m4a",
