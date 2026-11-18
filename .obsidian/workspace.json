@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "analisi matematica 18 11"
             }
+          },
+          {
+            "id": "d310fc4816b47302",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/esercitazioni/ex8.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ex8"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +190,11 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "f09730b6505b54a5",
+  "active": "d310fc4816b47302",
   "lastOpenFiles": [
-    "img/Pasted image 20261117224420.png",
     "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
+    "Appunti Z/esercitazioni/ex8.md",
+    "img/Pasted image 20261117224420.png",
     "Appunti Mike/Fondamenti Di Programmazione/Drawing 2026-10-12 18.16.48.excalidraw.md",
     "Appunti Mike/Fondamenti Di Programmazione",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Urti Anelastici & Elastici.md",
@@ -223,7 +237,6 @@
     "img/Pasted image 20261018185805.png",
     "img/Pasted image 20261018174952.png",
     "img/Pasted image 20261018174627.png",
-    "img/Pasted image 20261018174541.png",
-    "img/Pasted image 20261018171317.png"
+    "img/Pasted image 20261018174541.png"
   ]
 }
