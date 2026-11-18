@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "analisi matematica 16 11"
             }
+          },
+          {
+            "id": "382e2014fe6292d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 18 11"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -177,8 +191,10 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "d752cd7e7f8f0ebc",
+  "active": "382e2014fe6292d1",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
     "Appunti Z/fisica/fisica 17 11.md",
     "img/Pasted image 20261117224420.png",
     "Appunti Z/esercitazioni/ex 7.md",
@@ -193,7 +209,6 @@
     "Appunti Z/esercitazioni",
     "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
     "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
     "img/sinx x.png",
     "img/Pasted image 20261114190945.png",
     "img/Pasted image 20261114183350.png",
