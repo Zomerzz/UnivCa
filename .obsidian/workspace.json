@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a8b30e9413f3058",
+            "id": "d752cd7e7f8f0ebc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 02 10.md"
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 02 10"
+              "title": "analisi matematica 18 11"
             }
           }
         ]
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "a2d98502a32abdc2",
@@ -210,42 +211,27 @@
   },
   "active": "36678af9002ac7a4",
   "lastOpenFiles": [
-    "Senza nome.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Urti Anelastici & Elastici.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Rotolamento.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Quantita di moto.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Moto Circolare Uniforme.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Equilibrio.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Forza & Moto (Cap 5.).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Esercitazione.md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(cinetica, potenziale etc).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(5° Settimana).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(3° Settimana).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(4° Settimana).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio Prima Prova Parziale.md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (QDM CDM etc...).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (Piani Inclinati).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (2° Settimana).md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. (a Caso).md",
-    "Appunti Mike/Fisica 1/TEORIA/Moto Circolare Uniforme.md",
-    "Appunti Mike/Fisica 1/TEORIA/cdm & qdm.md",
-    "Appunti Mike/Fisica 1/ESERCIZI",
-    "Appunti Mike/Fisica 1/TEORIA",
-    "Appunti Mike/Fisica 1",
-    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Studio Funzione 2.md",
-    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Studio di funzione.md",
-    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Polinomio di Taylor.md",
-    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Algebra Dev, Teorema F Inversa, Fermat).md",
-    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Lagrance(criterio monotonia).md",
-    "Appunti Mike/Analisi 1/TEORIA/LEZIONI",
-    "Appunti Mike/Analisi 1/TEORIA",
-    "Appunti Mike/Analisi 1/ESERCIZI",
-    "Appunti Mike/Analisi 1",
-    "Appunti Mike/Fondamenti Di Programmazione",
-    "Appunti Mike",
+    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
+    "Appunti Z/esercitazioni/Lavagna esercizzi 1.md",
+    "Appunti Z/esercitazioni/Lavagna esercizi 2.md",
+    "Appunti Z/esercitazioni/ex 1.md",
+    "Appunti Z/Lavagna esercizi 2.md",
+    "Appunti Z/Lavagna esercizzi 1.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
+    "Appunti Emanuel/matematica/18_11_2026.md",
+    "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
+    "Appunti Z/fisica/fisica 17 11.md",
+    "img/Pasted image 20261117224420.png",
+    "Appunti Z/esercitazioni/ex 7.md",
+    "Appunti Z/esercitazioni/ex 6.md",
+    "Appunti Z/esercitazioni/ex 5.md",
+    "Appunti Z/esercitazioni/ex 4.md",
+    "Appunti Z/esercitazioni/ex 3.md",
+    "Appunti Z/esercitazioni/ex 2.md",
+    "Appunti Z/esercitazioni",
+    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
+    "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md",
     "img/sinx x.png",
     "img/Pasted image 20261117224420.png",
     "img/Pasted image 20261114190945.png",
@@ -255,6 +241,22 @@
     "img/Pasted Image 20261018213224_364.png",
     "img/Pasted Image 20261018193019_807.png",
     "img/Pasted image 20261018185805.png",
-    "img/Pasted image 20261018174952.png"
+    "img/Pasted image 20261018174952.png",
+    "img",
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
+    "Appunti Z/esercitazione/Lavagna esercizzi 1.md",
+    "Appunti Z/esercitazione/Lavagna esercizi 2.md",
+    "Appunti Z/esercitazione/ex 7.md",
+    "Appunti Z/esercitazione/ex 6.md",
+    "Appunti Z/esercitazione/ex 5.md",
+    "Appunti Z/esercitazione/ex 4.md",
+    "Appunti Z/esercitazione/ex 3.md",
+    "Appunti Z/esercitazione",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Recording 20261102084819.m4a",
+    "Appunti Z/analisi matematica/novembre",
+    "Appunti Z/Riassunti",
+    "Excalidraw/Libraries/local-library.excalidrawlib"
   ]
 }
