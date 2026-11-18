@@ -126,21 +126,9 @@
               "icon": "excalidraw-icon",
               "title": "18_11_2026 proseguo integrali, primitiva"
             }
-          },
-          {
-            "id": "382e2014fe6292d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 18 11"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -205,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469,
-    "collapsed": true
+    "width": 322.8000183105469
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -299,11 +286,14 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "382e2014fe6292d1",
+  "active": "bce6f337652385e2",
   "lastOpenFiles": [
-    "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
-    "Appunti Z/fisica/fisica 17 11.md",
+    "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
+    "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
+    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
+    "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md",
+    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
     "img/Pasted image 20261117224420.png",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
     "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md",
@@ -317,8 +307,8 @@
     "Appunti Z/esercitazioni/Lavagna esercizzi 1.md",
     "Appunti Z/esercitazioni/Lavagna esercizi 2.md",
     "Appunti Z/esercitazioni",
-    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
-    "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md",
+    "Appunti Z/fisica/fisica 17 11.md",
+    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
     "img/sinx x.png",
     "img/insiemi e sottoinsiemi di C.png",
     "img/Pasted image 20261114190945.png",
@@ -339,7 +329,6 @@
     "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
     "Appunti Emanuel/Fisica/moto circolare uniforme.md",
     "Appunti Emanuel/matematica/21_10_2026.md",
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Recording 20261102084819.m4a",
