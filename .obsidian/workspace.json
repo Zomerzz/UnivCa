@@ -13,26 +13,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 16 11"
-            }
-          },
-          {
-            "id": "382e2014fe6292d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md"
               },
               "icon": "excalidraw-icon",
               "title": "analisi matematica 18 11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +178,17 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "382e2014fe6292d1",
+  "active": "d752cd7e7f8f0ebc",
   "lastOpenFiles": [
     "Appunti Z/analisi matematica/novembre/analisi matematica 16 11.md",
+    "Appunti Z/esercitazioni/Lavagna esercizzi 1.md",
+    "Appunti Z/esercitazioni/Lavagna esercizi 2.md",
+    "Appunti Z/esercitazioni/ex 1.md",
+    "Appunti Z/Lavagna esercizi 2.md",
+    "Appunti Z/Lavagna esercizzi 1.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
+    "Appunti Emanuel/matematica/18_11_2026.md",
+    "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
     "Appunti Z/fisica/fisica 17 11.md",
     "img/Pasted image 20261117224420.png",
     "Appunti Z/esercitazioni/ex 7.md",
@@ -203,9 +197,6 @@
     "Appunti Z/esercitazioni/ex 4.md",
     "Appunti Z/esercitazioni/ex 3.md",
     "Appunti Z/esercitazioni/ex 2.md",
-    "Appunti Z/esercitazioni/ex 1.md",
-    "Appunti Z/esercitazioni/Lavagna esercizzi 1.md",
-    "Appunti Z/esercitazioni/Lavagna esercizi 2.md",
     "Appunti Z/esercitazioni",
     "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
     "Appunti Emanuel/Fisica/17_11_26 Equilibrio.md",
@@ -228,11 +219,7 @@
     "Appunti Z/esercitazione/ex 4.md",
     "Appunti Z/esercitazione/ex 3.md",
     "Appunti Z/esercitazione/ex 2.md",
-    "Appunti Z/esercitazione/ex 1.md",
     "Appunti Z/esercitazione",
-    "Appunti Z/analisi matematica/MOC ANALISI.md",
-    "Appunti Z/Senza nome.md",
-    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
     "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
     "Appunti Z/fisica/pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Recording 20261102084819.m4a",
