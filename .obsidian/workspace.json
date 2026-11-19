@@ -18,21 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "fisica 19 11"
             }
-          },
-          {
-            "id": "5feb9526d080ebd3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/legge di gravitazione universale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "legge di gravitazione universale"
-            }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,12 +188,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "5feb9526d080ebd3",
+  "active": "09410c6d8ae197a0",
   "lastOpenFiles": [
-    "Appunti Emanuel/fondamenti programmazione/18_11_2026.md",
     "Appunti Emanuel/Fisica/legge di gravitazione universale.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
+    "Appunti Z/fisica/fisica 19 11.md",
     "Appunti Z/esercitazioni/ex8.md",
-    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
+    "Appunti Emanuel/fondamenti programmazione/18_11_2026.md",
     "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrazione per parti.md",
     "Appunti Mike/Analisi 1/Senza nome.md",
     "Appunti Mike/Fondamenti Di Programmazione/Drawing 2026-10-12 18.16.48.excalidraw.md",
