@@ -1,0 +1,10 @@
+{
+  "id": "handwriting-latex",
+  "name": "Handwriting and Image to LaTeX",
+  "version": "1.3.0",
+  "minAppVersion": "0.15.0",
+  "description": "Draw math formulas by hand or import from album, then convert them to LaTeX using AI APIs. Infinite canvas, multi-region selection (rect/lasso/polygon), concurrent recognition, advanced cropping, image enhancement, and custom API providers.",
+  "author": "ChongCyrus",
+  "authorUrl": "https://github.com/ChongCyrus",
+  "isDesktopOnly": false
+}
