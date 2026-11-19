@@ -1,0 +1,1168 @@
+/* ==================== Fullscreen Modal ==================== */
+/* These classes are added from JS directly to `.modal-container`,
+   `.modal` and `contentEl`, because contentEl is `.modal-content` and
+   therefore cannot be a CSS ancestor of `.modal-container`/`.modal`. */
+.handwriting-modal-fullscreen-container {
+  width: 100vw !important;
+  width: 100dvw !important;
+  height: 100vh !important;
+  height: 100dvh !important;
+  max-width: 100vw !important;
+  max-height: 100vh !important;
+  max-height: 100dvh !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  position: fixed !important;
+  transform: none !important;
+}
+
+.handwriting-modal-fullscreen-el {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: 100% !important;
+  max-height: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  transform: none !important;
+  overflow: hidden !important;
+}
+
+.handwriting-modal-fullscreen {
+  flex: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  height: 100% !important;
+  max-height: 100% !important;
+}
+
+/* ==================== Header ==================== */
+.handwriting-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--background-modifier-border);
+  background: var(--background-primary-alt);
+  flex-shrink: 0;
+  min-height: 48px;
+  gap: 12px;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+}
+
+.handwriting-header h2 {
+  margin: 0;
+  font-size: 1.1em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.header-media-actions {
+  display: flex;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.header-icon-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.15s;
+  flex-shrink: 0;
+  padding: 0;
+}
+
+.header-icon-btn:active {
+  transform: scale(0.92);
+  background: var(--background-modifier-hover);
+}
+
+.header-actions {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.header-actions::-webkit-scrollbar {
+  display: none;
+}
+
+.header-action-btn {
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: opacity 0.15s;
+}
+
+.header-action-btn:hover {
+  opacity: 0.85;
+}
+
+/* ==================== Body / Canvas ==================== */
+.handwriting-body {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  gap: 0;
+  padding: 0;
+  min-height: 0;
+  position: relative;
+}
+
+.canvas-area {
+  flex: 1;
+  display: flex;
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
+  position: relative;
+  background: var(--background-primary);
+}
+
+/* Infinite canvas viewport. The backing canvases are only as large as this
+   visible shell; world content is redrawn/culled every frame. */
+.canvas-shell {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
+  background: #ffffff;
+  border: 2px solid var(--background-modifier-border);
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  touch-action: none;
+  cursor: crosshair;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.canvas-shell .canvas-layer {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  touch-action: none;
+  pointer-events: none;
+}
+
+.canvas-layer-scene { z-index: 1; }
+.canvas-layer-highlight { z-index: 2; }
+.canvas-layer-active { z-index: 3; }
+.canvas-layer-overlay { z-index: 4; pointer-events: none; }
+
+/* Canvas fullscreen: fixed over the whole app (header/footer covered). */
+.canvas-shell.canvas-shell-fullscreen {
+  position: fixed !important;
+  inset: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  z-index: 99999 !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+.handwriting-fullscreen-exit {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  padding: 12px 20px;
+  font-size: 16px;
+  background: var(--interactive-accent, #7c3aed);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 100000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  font-weight: 600;
+  opacity: 0.9;
+  transition: opacity 0.2s;
+}
+
+.handwriting-fullscreen-exit:hover {
+  opacity: 1;
+}
+
+/* ==================== Sidebar toolbar ==================== */
+/* The container never blocks canvas pointer events. Only its visible
+   children are interactive, which fixes the "hidden toolbar dead zone". */
+.toolbar-container {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  pointer-events: none;
+}
+
+.toolbar-container.collapsed {
+  pointer-events: none;
+}
+
+.toolbar-container.collapsed .floating-toolbar {
+  transform: translateX(calc(-100% - 20px));
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.toolbar-container.collapsed .toolbar-toggle-btn {
+  left: 0;
+  border-radius: 0 10px 10px 0;
+  border-left: 1px solid var(--background-modifier-border);
+}
+
+.floating-toolbar {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 10px;
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  max-height: 80vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  pointer-events: auto;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease, visibility 0.3s;
+}
+
+.floating-toolbar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.floating-toolbar::-webkit-scrollbar-thumb {
+  background: var(--background-modifier-border);
+  border-radius: 2px;
+}
+
+.toolbar-toggle-btn {
+  position: absolute;
+  left: calc(100% + 8px);
+  top: 50%;
+  transform: translateY(-50%);
+  width: 28px;
+  height: 56px;
+  border-radius: 0 10px 10px 0;
+  border: 1px solid var(--background-modifier-border);
+  border-left: none;
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  padding: 0;
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.toolbar-toggle-btn:hover {
+  background: var(--background-modifier-hover);
+}
+
+.toolbar-toggle-btn:active {
+  transform: translateY(-50%) scale(0.92);
+}
+
+.toolbar-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 4px 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.toolbar-group:last-child {
+  border-bottom: none;
+}
+
+.toolbar-btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.15s;
+  flex-shrink: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.toolbar-btn:active {
+  transform: scale(0.92);
+  background: var(--background-modifier-hover);
+}
+
+.toolbar-btn.active {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+/* ==================== Result panel ==================== */
+.result-panel {
+  width: 340px;
+  min-width: 280px;
+  max-width: 450px;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  background: var(--background-primary);
+  border-left: 1px solid var(--background-modifier-border);
+  transition: all 0.3s ease;
+}
+
+.result-handle {
+  display: none;
+  padding: 12px;
+  background: var(--background-primary-alt);
+  border-bottom: 1px solid var(--background-modifier-border);
+  cursor: pointer;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.handle-bar {
+  width: 36px;
+  height: 4px;
+  background: var(--text-muted);
+  border-radius: 2px;
+  opacity: 0.5;
+}
+
+.handle-label {
+  font-size: 12px;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.result-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 16px;
+  overflow-y: auto;
+  min-height: 0;
+}
+
+.result-content h3 {
+  margin: 4px 0 0;
+  font-size: 0.95em;
+  color: var(--text-muted);
+}
+
+.status-text {
+  font-size: 13px;
+  color: var(--text-muted);
+  padding: 10px 12px;
+  background: var(--background-primary-alt);
+  border-radius: 6px;
+  word-break: break-word;
+  border: 1px solid var(--background-modifier-border);
+}
+
+.latex-preview {
+  padding: 14px;
+  background: var(--background-primary-alt);
+  border-radius: 6px;
+  font-family: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  word-break: break-all;
+  white-space: pre-wrap;
+  min-height: 70px;
+  border: 1px solid var(--background-modifier-border);
+  color: var(--text-normal);
+  overflow-y: auto;
+  max-height: 45vh;
+}
+
+/* Multiple concurrent result slots */
+.results-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-bottom: 8px;
+}
+
+.result-slot {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 10px;
+  background: var(--background-primary-alt);
+  overflow: hidden;
+}
+
+.result-slot.is-done {
+  border-color: var(--interactive-accent);
+}
+
+.result-slot.is-error {
+  border-color: var(--text-error);
+}
+
+.result-slot-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.result-slot-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-normal);
+  white-space: nowrap;
+}
+
+.result-slot-status {
+  font-size: 11px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.result-slot.is-done .result-slot-status {
+  color: var(--interactive-accent);
+}
+
+.result-slot.is-error .result-slot-status {
+  color: var(--text-error);
+}
+
+.result-slot-body {
+  padding: 8px 10px;
+}
+
+.result-slot-latex {
+  display: block;
+  font-family: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace;
+  font-size: 13px;
+  line-height: 1.5;
+  word-break: break-all;
+  white-space: pre-wrap;
+  color: var(--text-normal);
+  max-height: 120px;
+  overflow-y: auto;
+}
+
+.result-slot-actions {
+  display: flex;
+  justify-content: flex-end;
+  padding: 6px 10px 10px;
+}
+
+.result-slot-btn {
+  padding: 5px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 6px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  cursor: pointer;
+}
+
+.result-slot-btn[disabled] {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* ==================== Footer ==================== */
+.handwriting-footer {
+  padding: 8px 16px;
+  font-size: 12px;
+  color: var(--text-muted);
+  border-top: 1px solid var(--background-modifier-border);
+  text-align: center;
+  flex-shrink: 0;
+  background: var(--background-primary-alt);
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+/* ==================== Math mode ==================== */
+.math-mode-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 0;
+  flex-wrap: wrap;
+}
+
+.math-mode-label {
+  font-size: 13px;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.math-mode-btn {
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.15s;
+  font-weight: 500;
+}
+
+.math-mode-btn.active {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+.math-mode-btn:hover {
+  opacity: 0.85;
+}
+
+/* ==================== History navigation ==================== */
+.history-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 6px 0;
+}
+
+.history-nav-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-size: 18px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.15s;
+  flex-shrink: 0;
+  padding: 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.history-nav-btn:hover:not(.disabled) {
+  background: var(--background-modifier-hover);
+  transform: scale(1.05);
+}
+
+.history-nav-btn:active:not(.disabled) {
+  transform: scale(0.92);
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+.history-nav-btn.disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+  background: var(--background-primary-alt);
+}
+
+.history-counter {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-muted);
+  min-width: 40px;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+  user-select: none;
+}
+
+/* ==================== Camera overlay ==================== */
+.camera-overlay {
+  display: none;
+  flex-direction: column;
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  background: black;
+  width: 100%;
+  height: 100%;
+}
+
+.camera-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 16px;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  flex-shrink: 0;
+  min-height: 48px;
+  z-index: 10;
+}
+
+.camera-header h3 {
+  margin: 0;
+  font-size: 1.1em;
+}
+
+.camera-actions {
+  display: flex;
+  gap: 12px;
+}
+
+.camera-icon-btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.25);
+  color: white;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.camera-icon-btn:active {
+  background: rgba(255, 255, 255, 0.45);
+}
+
+.camera-body {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  background: black;
+}
+
+.camera-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.camera-footer {
+  padding: 24px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.6);
+  flex-shrink: 0;
+  z-index: 10;
+}
+
+.camera-capture-btn {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  border: 4px solid white;
+  background: white;
+  cursor: pointer;
+  padding: 0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  transition: transform 0.1s;
+}
+
+.camera-capture-btn:active {
+  transform: scale(0.88);
+  background: #e0e0e0;
+}
+
+/* ==================== Cropper overlay ==================== */
+.cropper-overlay {
+  display: none;
+  flex-direction: column;
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: var(--background-primary);
+  width: 100%;
+  height: 100%;
+}
+
+.cropper-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--background-modifier-border);
+  background: var(--background-primary-alt);
+  flex-shrink: 0;
+  min-height: 48px;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.cropper-header h3 {
+  margin: 0;
+  font-size: 1.1em;
+}
+
+.cropper-actions {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.cropper-enhance-select {
+  padding: 6px 8px;
+  font-size: 13px;
+  border-radius: 6px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  max-width: 150px;
+}
+
+.cropper-action-btn {
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: opacity 0.15s, transform 0.1s;
+}
+
+.cropper-action-btn.mod-cta {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.cropper-action-btn.mod-warning {
+  background: var(--background-primary);
+  color: var(--text-normal);
+}
+
+.cropper-action-btn:active {
+  opacity: 0.8;
+  transform: scale(0.96);
+}
+
+.cropper-body {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  background: #1a1a1a;
+  touch-action: none;
+}
+
+.cropper-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #1a1a1a;
+  touch-action: none;
+  cursor: crosshair;
+}
+
+.cropper-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  max-width: none;
+  max-height: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  touch-action: none;
+  will-change: transform;
+  transform-origin: 0 0;
+}
+
+.cropper-mask {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.55);
+  pointer-events: none;
+  z-index: 5;
+  display: none;
+}
+
+.cropper-selection {
+  position: absolute;
+  border: 2px dashed var(--interactive-accent);
+  background: transparent;
+  display: none;
+  z-index: 10;
+  touch-action: none;
+  box-sizing: border-box;
+}
+
+.cropper-handle {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background: var(--interactive-accent);
+  border: 2px solid white;
+  border-radius: 50%;
+  z-index: 11;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.cropper-handle-nw { top: -10px; left: -10px; cursor: nw-resize; }
+.cropper-handle-n  { top: -10px; left: 50%; transform: translateX(-50%); cursor: n-resize; }
+.cropper-handle-ne { top: -10px; right: -10px; cursor: ne-resize; }
+.cropper-handle-w  { top: 50%; left: -10px; transform: translateY(-50%); cursor: w-resize; }
+.cropper-handle-e  { top: 50%; right: -10px; transform: translateY(-50%); cursor: e-resize; }
+.cropper-handle-sw { bottom: -10px; left: -10px; cursor: sw-resize; }
+.cropper-handle-s  { bottom: -10px; left: 50%; transform: translateX(-50%); cursor: s-resize; }
+.cropper-handle-se { bottom: -10px; right: -10px; cursor: se-resize; }
+
+.cropper-footer {
+  padding: 10px 16px;
+  font-size: 12px;
+  color: var(--text-muted);
+  border-top: 1px solid var(--background-modifier-border);
+  text-align: center;
+  flex-shrink: 0;
+  background: var(--background-primary-alt);
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.cropper-info {
+  font-weight: 600;
+  color: var(--text-normal);
+}
+
+.cropper-hint {
+  color: var(--text-muted);
+}
+
+/* ==================== Mobile ==================== */
+@media (max-width: 768px) {
+  .handwriting-header {
+    padding: 8px 12px;
+    min-height: 44px;
+  }
+
+  .handwriting-header h2 {
+    font-size: 1em;
+  }
+
+  .header-icon-btn {
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
+  }
+
+  .header-action-btn {
+    padding: 6px 12px;
+    font-size: 13px;
+  }
+
+  .handwriting-body {
+    flex-direction: column;
+  }
+
+  .canvas-area {
+    flex: 1;
+  }
+
+  .canvas-shell {
+    margin: 8px;
+    border-radius: 6px;
+  }
+
+  .canvas-shell.canvas-shell-fullscreen {
+    margin: 0;
+  }
+
+  .result-panel {
+    width: 100%;
+    max-width: 100%;
+    min-width: unset;
+    border-left: none;
+    border-top: 1px solid var(--background-modifier-border);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 120;
+    max-height: 36px;
+    background: var(--background-primary);
+    transition: max-height 0.3s ease;
+    will-change: max-height;
+  }
+
+  .result-panel.expanded {
+    max-height: 45vh;
+  }
+
+  .result-handle {
+    display: flex;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: none;
+    cursor: grab;
+    position: relative;
+  }
+
+  .result-handle:active {
+    cursor: grabbing;
+  }
+
+  .result-content {
+    padding: 12px;
+    display: none;
+    overflow-y: auto;
+  }
+
+  .result-panel.expanded .result-content {
+    display: flex;
+  }
+
+  .latex-preview {
+    max-height: 20vh;
+    font-size: 14px;
+  }
+
+  .toolbar-container {
+    left: 8px;
+    top: 8px;
+    bottom: 48px;
+    transform: none;
+  }
+
+  .floating-toolbar {
+    padding: 6px;
+    border-radius: 14px;
+    gap: 4px;
+    max-height: 100%;
+  }
+
+  /* Fullscreen: no header/result-bar, so the toolbar may use the whole viewport height again. */
+  .canvas-shell.canvas-shell-fullscreen .toolbar-container {
+    top: 8px;
+    bottom: auto;
+  }
+
+  .canvas-shell.canvas-shell-fullscreen .floating-toolbar {
+    max-height: calc(100vh - 80px);
+  }
+
+  .toolbar-btn {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+
+  .toolbar-toggle-btn {
+    width: 24px;
+    height: 48px;
+    font-size: 12px;
+    left: calc(100% + 6px);
+  }
+
+  .toolbar-container.collapsed .toolbar-toggle-btn {
+    left: 0;
+  }
+
+  .handwriting-footer {
+    display: none;
+  }
+
+  .handwriting-fullscreen-exit {
+    padding: 10px 16px;
+    font-size: 14px;
+    top: 10px;
+    right: 10px;
+  }
+
+  .math-mode-row {
+    gap: 6px;
+    padding: 6px 0;
+  }
+
+  .math-mode-btn {
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+
+  .history-row {
+    gap: 8px;
+    padding: 4px 0;
+  }
+
+  .history-nav-btn {
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
+  }
+
+  .history-counter {
+    font-size: 12px;
+    min-width: 36px;
+  }
+
+  .cropper-header {
+    padding: 8px 12px;
+    min-height: 44px;
+    flex-wrap: nowrap;
+    gap: 8px;
+  }
+
+  .cropper-header h3 {
+    font-size: 1em;
+    flex-shrink: 0;
+  }
+
+  /* Title stays put; the button row scrolls horizontally so every
+     control remains reachable on narrow phones. */
+  .cropper-actions {
+    flex: 1;
+    min-width: 0;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 2px;
+  }
+
+  .cropper-actions::-webkit-scrollbar {
+    display: none;
+  }
+
+  .cropper-action-btn {
+    padding: 6px 10px;
+    font-size: 12px;
+    flex-shrink: 0;
+  }
+
+  .cropper-enhance-select {
+    font-size: 12px;
+    max-width: 120px;
+    padding: 5px 6px;
+    flex-shrink: 0;
+  }
+
+  .cropper-footer {
+    padding: 8px 12px;
+    gap: 8px;
+  }
+
+  .camera-header {
+    padding: 8px 12px;
+    min-height: 44px;
+  }
+
+  .camera-header h3 {
+    font-size: 1em;
+  }
+
+  .camera-icon-btn {
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+  }
+
+  .camera-capture-btn {
+    width: 60px;
+    height: 60px;
+  }
+
+  .camera-footer {
+    padding: 16px;
+  }
+}
+
+/* Touch devices get slightly larger controls */
+@media (pointer: coarse) {
+  .toolbar-btn {
+    width: 48px;
+    height: 48px;
+    font-size: 20px;
+  }
+
+  .cropper-handle {
+    width: 28px;
+    height: 28px;
+  }
+  .cropper-handle-nw { top: -14px; left: -14px; }
+  .cropper-handle-n  { top: -14px; }
+  .cropper-handle-ne { top: -14px; right: -14px; }
+  .cropper-handle-w  { left: -14px; }
+  .cropper-handle-e  { right: -14px; }
+  .cropper-handle-sw { bottom: -14px; left: -14px; }
+  .cropper-handle-s  { bottom: -14px; }
+  .cropper-handle-se { bottom: -14px; right: -14px; }
+}
