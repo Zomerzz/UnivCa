@@ -138,9 +138,21 @@
               "icon": "excalidraw-icon",
               "title": "18_11_2026"
             }
+          },
+          {
+            "id": "5feb9526d080ebd3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/legge di gravitazione universale.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "legge di gravitazione universale"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -298,11 +310,12 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "effed1a5a73bfe62",
+  "active": "5feb9526d080ebd3",
   "lastOpenFiles": [
+    "Appunti Emanuel/fondamenti programmazione/18_11_2026.md",
+    "Appunti Emanuel/Fisica/legge di gravitazione universale.md",
     "Appunti Z/esercitazioni/ex8.md",
     "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
-    "Appunti Emanuel/fondamenti programmazione/18_11_2026.md",
     "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrazione per parti.md",
     "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
@@ -327,7 +340,6 @@
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(4° Settimana).md",
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (QDM CDM etc...).md",
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (Piani Inclinati).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (2° Settimana).md",
     "Appunti Mike/Fisica 1/TEORIA",
     "Appunti Mike/Fisica 1/ESERCIZI",
     "Appunti Mike/Fisica 1",
