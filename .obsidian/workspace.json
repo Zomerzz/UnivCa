@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c5f98ba300c164a0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/Drawing 2026-11-19 15.03.36.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-11-19 15.03.36.excalidraw"
+            }
+          },
+          {
             "id": "bfc85bbee6a1faf1",
             "type": "leaf",
             "state": {
@@ -139,7 +151,8 @@
               "title": "18_11_2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,12 +310,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "79fea48f6e48f86f",
+  "active": "c5f98ba300c164a0",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/legge di gravitazione universale.md",
+    "Appunti Emanuel/matematica/Drawing 2026-11-19 15.03.36.excalidraw.md",
     "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
     "Appunti Z/fisica/fisica 19 11.md",
     "Appunti Emanuel/fondamenti programmazione/18_11_2026.md",
-    "Appunti Emanuel/Fisica/legge di gravitazione universale.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
     "Appunti Z/fisica/fisica 19 11.md",
     "Appunti Z/esercitazioni/ex8.md",
@@ -326,7 +340,6 @@
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(3° Settimana).md",
     "Appunti Mike/Fisica 1/ESERCIZI/Esercitazione.md",
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(cinetica, potenziale etc).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio Prima Prova Parziale.md",
     "Appunti Mike/Fisica 1/TEORIA",
     "Appunti Mike/Fisica 1/ESERCIZI",
     "Appunti Mike/Fisica 1",
