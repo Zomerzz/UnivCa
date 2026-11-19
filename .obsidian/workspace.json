@@ -19,7 +19,8 @@
               "title": "analisi matematica 19 11"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,13 +200,16 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "6c04e59bbb687bf1",
+  "active": "c5f98ba300c164a0",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
+    "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
+    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 19 11.md",
     "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-19 15.03.36.excalidraw.md",
     "Appunti Z/fisica/fisica 19 11.md",
-    "Appunti Emanuel/Fisica/legge di gravitazione universale.md",
+    "Appunti Emanuel/fondamenti programmazione/18_11_2026.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
     "Appunti Z/esercitazioni/ex8.md",
     "Appunti Emanuel/fondamenti programmazione/18_11_2026.md",
