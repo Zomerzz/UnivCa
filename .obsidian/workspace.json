@@ -63,6 +63,16 @@
               "icon": "lucide-search",
               "title": "Ricerca"
             }
+          },
+          {
+            "id": "97b7f7bd556932fd",
+            "type": "leaf",
+            "state": {
+              "type": "group-tabs-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "Recent tab groups"
+            }
           }
         ]
       },
@@ -84,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -156,9 +167,19 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
+          },
+          {
+            "id": "acbaa2d64a7c58d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,11 +195,13 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "group-tabs:Recent tab groups": false
+      "group-tabs:Recent tab groups": false,
+      "handwriting-latex:Handwriting to LaTeX": false
     }
   },
   "active": "834535756a23d0ea",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/meccanica dei fluidi 20_11_2026.md",
     "Appunti Z/fisica/fisica 20 11.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 19 11.md",
     "Appunti Z/fisica/ottobre/tutoring 16 10.md",
@@ -204,9 +227,7 @@
     "Appunti Z/fisica/fisica 19 11.md",
     "Appunti Emanuel/Fisica/legge di gravitazione universale.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
-    "Appunti Z/fisica/fisica 19 11.md",
     "Appunti Z/esercitazioni/ex8.md",
-    "Appunti Emanuel/fondamenti programmazione/18_11_2026.md",
     "Appunti Mike/Fondamenti Di Programmazione",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
     "Appunti Mike/Fisica 1/TEORIA",
@@ -218,13 +239,13 @@
     "Appunti Mike/Analisi 1",
     "img/Pasted image 20261117224420.png",
     "img/sinx x.png",
-    "img/insiemi e sottoinsiemi di C.png",
     "img/Pasted image 20261114190945.png",
     "img/Pasted image 20261114183350.png",
     "img/Pasted image 20261114182759.png",
+    "img/Pasted Image 20261020191216_282.png",
+    "img/Pasted Image 20261018213224_364.png",
+    "img/Pasted Image 20261018193019_807.png",
     "img/Pasted image 20261018185805.png",
-    "img/Pasted image 20261018174952.png",
-    "img/Pasted image 20261018174627.png",
-    "img/Pasted image 20261018174541.png"
+    "img/Pasted image 20261018174952.png"
   ]
 }
