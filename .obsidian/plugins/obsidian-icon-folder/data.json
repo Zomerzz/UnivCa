@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPen",
       "LiImage",
       "LiSchool",
       "FasGhost",
-      "LiSnowflake",
-      "LiNetwork"
+      "LiSnowflake"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -58,5 +58,6 @@
   "Appunti Z/analisi matematica/novembre": "LiSnowflake",
   "Appunti Z/analisi matematica/ottobre": "FasGhost",
   "Appunti Z/analisi matematica/settembre": "LiSchool",
-  "img": "LiImage"
+  "img": "LiImage",
+  "Appunti Z/esercitazioni": "LiPen"
 }
