@@ -4,23 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c8e0b2999217750c",
+        "id": "3b4db84fd502b50b",
         "type": "tabs",
         "children": [
           {
-            "id": "28c3f331e32439b1",
+            "id": "f09730b6505b54a5",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 20 11 fluidodinamica.m4a"
+                "file": "Appunti Z/fisica/fisica 20 11.md"
               },
-              "icon": "lucide-file-audio",
-              "title": "fisica 20 11 fluidodinamica"
+              "icon": "excalidraw-icon",
+              "title": "fisica 20 11"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
@@ -178,46 +178,45 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "f09730b6505b54a5",
   "lastOpenFiles": [
-    "Appunti Z/fisica/fisica 20 11 fluidodinamica.m4a",
-    "Appunti Z/fisica/fisica 20 11.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
+    "Appunti Z/fisica/fisica 20 11.md",
+    "Appunti Emanuel/fondamenti programmazione/20_11_2026 elementi collegati da puntatori.md",
     "Appunti Emanuel/Fisica/meccanica dei fluidi 20_11_2026.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 19 11.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md",
+    "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
+    "Appunti Emanuel/fondamenti programmazione/funzioni 26_10_2026.md",
+    "Appunti Emanuel/fondamenti programmazione/22_10_2026 Array e puntatori.md",
+    "Appunti Emanuel/fondamenti programmazione/21_10_2026 puntatori.md",
+    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
+    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
+    "Appunti Z/fondamenti di programmazione/Senza nome 1.md",
+    "Appunti Z/fondamenti di programmazione/Senza nome.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Appunti Z/fisica/Esercizi per casa 4 settimana.md",
+    "Appunti Z/fisica/ottobre/fisica 15 10.md",
     "Appunti Z/fisica/ottobre/tutoring 16 10.md",
     "Appunti Z/fisica/ottobre/tutoring 02 10.md",
     "Appunti Z/fisica/ottobre/fisica 29 10.md",
     "Appunti Z/fisica/ottobre/fisica 27 10.md",
+    "Appunti Z/fisica/ottobre/Fisica 23 10.md",
     "Appunti Z/fisica/ottobre/fisica 23 10 (2).md",
     "Appunti Z/fisica/ottobre/fisica 22 10.md",
     "Appunti Z/fisica/ottobre/fisica 20 10.md",
     "Appunti Z/fisica/ottobre/fisica 16 10.md",
-    "Appunti Z/fisica/ottobre/fisica 15 10.md",
-    "Appunti Z/fisica/ottobre/fisica 13 10.md",
-    "Appunti Z/fisica/ottobre/fisica 09 10.md",
-    "Appunti Z/fisica/ottobre/fisica 08 10.md",
-    "Appunti Z/fisica/ottobre/fisica 06 10 (2).md",
-    "Appunti Z/fisica/ottobre/Fisica 06 10.md",
-    "Appunti Z/fisica/ottobre/Fisica 23 10.md",
-    "Appunti Z/fisica/ottobre/fisica 02 10.md",
-    "Appunti Z/fisica/ottobre/FIsica 01 10.md",
     "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica/fisica 20 11.md",
-    "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
-    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
-    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 19 11.md",
-    "Appunti Emanuel/Fisica/legge di gravitazione universale.md",
-    "Appunti Emanuel/matematica/elenco argomenti 1o parziale.md",
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
+    "img/Pasted image 20261117224420.png",
     "Appunti Mike/Fondamenti Di Programmazione",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
-    "Appunti Mike/Fisica 1/TEORIA",
     "Appunti Mike/Fisica 1/ESERCIZI",
+    "Appunti Mike/Fisica 1/TEORIA",
     "Appunti Mike/Fisica 1",
-    "img/Pasted image 20261117224420.png",
     "img/sinx x.png",
     "img/insiemi e sottoinsiemi di C.png",
     "img/Pasted image 20261114190945.png",
