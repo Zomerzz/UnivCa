@@ -4,179 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be7678d3f846098a",
+        "id": "b70051bb5a3bf449",
         "type": "tabs",
         "children": [
           {
-            "id": "79fea48f6e48f86f",
+            "id": "8348cd83abf0482a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/legge di gravitazione universale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "legge di gravitazione universale"
-            }
-          },
-          {
-            "id": "c5f98ba300c164a0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/ultima parte integrazione per parti.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ultima parte integrazione per parti"
-            }
-          },
-          {
-            "id": "b9cfa4d757ff0872",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/meccanica dei fluidi 20_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "meccanica dei fluidi 20_11_2026"
-            }
-          },
-          {
-            "id": "54c5e86b31ee27ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18_11_2026 proseguo integrali, primitiva"
-            }
-          },
-          {
-            "id": "bfc85bbee6a1faf1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_10_2026"
-            }
-          },
-          {
-            "id": "9fad87a9ee67db0b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Natura vettoriale delle rotazioni 05_11_2026"
-            }
-          },
-          {
-            "id": "553bfc1ce6bdb763",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/moto circolare uniforme.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "moto circolare uniforme"
-            }
-          },
-          {
-            "id": "458ef6202895c5f4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Polinomio di Taylor-sunto x 2 parziale"
-            }
-          },
-          {
-            "id": "cf56d36587c85fea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_11_2026 integrali e media integrale"
-            }
-          },
-          {
-            "id": "6ad8794e3fd83ad5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/16_11_26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_11_26"
-            }
-          },
-          {
-            "id": "5419fcb7c8b48b56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Natura vettoriale delle rotazioni 05_11_2026"
-            }
-          },
-          {
-            "id": "a3f2cfb0f3451294",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_11_2026 integrali e media integrale"
-            }
-          },
-          {
-            "id": "bce6f337652385e2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18_11_2026 proseguo integrali, primitiva"
-            }
-          },
-          {
-            "id": "effed1a5a73bfe62",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/18_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18_11_2026"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -324,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
@@ -334,45 +176,45 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "54c5e86b31ee27ba",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
-    "Appunti Emanuel/fondamenti programmazione/20_11_2026 elementi collegati da puntatori.md",
-    "Appunti Emanuel/Fisica/meccanica dei fluidi 20_11_2026.md",
+    "Appunti Z/esercitazioni/Lavagna esercizzi 1.md",
+    "Appunti Z/esercitazioni/Lavagna esercizi 2.md",
+    "Appunti Z/esercitazioni/ex 1.md",
+    "Appunti Z/esercitazioni/ex 2.md",
+    "Appunti Z/esercitazioni/ex 3.md",
+    "Appunti Z/esercitazioni/ex 4.md",
+    "Appunti Z/esercitazioni/ex 5.md",
+    "Appunti Z/esercitazioni/ex 6.md",
+    "Appunti Z/esercitazioni/ex 7.md",
+    "Appunti Z/esercitazioni/ex8.md",
+    "Appunti Z/fisica/fisica 20 11.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Appunti Z/fisica/ottobre/tutoring 16 10.md",
-    "Appunti Z/fisica/ottobre/tutoring 02 10.md",
-    "Appunti Z/fisica/ottobre/fisica 29 10.md",
-    "Appunti Z/fisica/ottobre/fisica 27 10.md",
-    "Appunti Z/fisica/ottobre/fisica 23 10 (2).md",
-    "Appunti Z/fisica/ottobre/fisica 22 10.md",
-    "Appunti Z/fisica/ottobre/fisica 20 10.md",
-    "Appunti Z/fisica/ottobre/fisica 16 10.md",
-    "Appunti Z/fisica/ottobre/fisica 15 10.md",
-    "Appunti Z/fisica/ottobre/fisica 13 10.md",
-    "Appunti Z/fisica/ottobre/fisica 09 10.md",
-    "Appunti Z/fisica/ottobre/fisica 08 10.md",
-    "Appunti Z/fisica/ottobre/fisica 06 10 (2).md",
-    "Appunti Z/fisica/ottobre/Fisica 06 10.md",
-    "Appunti Z/fisica/ottobre/Fisica 23 10.md",
-    "Appunti Z/fisica/ottobre/fisica 02 10.md",
-    "Appunti Z/fisica/ottobre/FIsica 01 10.md",
+    "Appunti Emanuel/fondamenti programmazione/20_11_2026 elementi collegati da puntatori.md",
+    "Appunti Emanuel/Fisica/meccanica dei fluidi 20_11_2026.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md",
+    "Appunti Emanuel/fondamenti programmazione/if else08-10-2026.md",
+    "Appunti Emanuel/fondamenti programmazione/funzioni 26_10_2026.md",
+    "Appunti Emanuel/fondamenti programmazione/22_10_2026 Array e puntatori.md",
+    "Appunti Emanuel/fondamenti programmazione/21_10_2026 puntatori.md",
+    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
+    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09.md",
+    "Appunti Z/fondamenti di programmazione/Senza nome 1.md",
+    "Appunti Z/fondamenti di programmazione/Senza nome.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09.md",
+    "Appunti Z/fisica/Esercizi per casa 4 settimana.md",
     "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica/fisica 20 11.md",
-    "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
-    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
-    "Appunti Emanuel/matematica/spazzatura ed esercizi vari.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 19 11.md",
-    "Appunti Emanuel/Fisica/legge di gravitazione universale.md",
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
+    "img/Pasted image 20261117224420.png",
     "Appunti Mike/Fondamenti Di Programmazione",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
-    "Appunti Mike/Fisica 1/TEORIA",
     "Appunti Mike/Fisica 1/ESERCIZI",
+    "Appunti Mike/Fisica 1/TEORIA",
     "Appunti Mike/Fisica 1",
-    "Appunti Mike/Analisi 1/TEORIA/LEZIONI",
-    "img/Pasted image 20261117224420.png",
     "img/sinx x.png",
     "img/insiemi e sottoinsiemi di C.png",
     "img/Pasted image 20261114190945.png",
