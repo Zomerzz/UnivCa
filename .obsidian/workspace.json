@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c9feb5ab2bbb915b",
+        "id": "c8e0b2999217750c",
         "type": "tabs",
         "children": [
           {
-            "id": "834535756a23d0ea",
+            "id": "28c3f331e32439b1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "audio",
               "state": {
-                "file": "Appunti Z/fisica/fisica 20 11.md"
+                "file": "Appunti Z/fisica/fisica 20 11 fluidodinamica.m4a"
               },
-              "icon": "excalidraw-icon",
-              "title": "fisica 20 11"
+              "icon": "lucide-file-audio",
+              "title": "fisica 20 11 fluidodinamica"
             }
           }
         ]
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469,
-    "collapsed": true
+    "width": 322.8000183105469
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -199,13 +198,14 @@
       "handwriting-latex:Handwriting to LaTeX": false
     }
   },
-  "active": "834535756a23d0ea",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 20 11 fluidodinamica.m4a",
+    "Appunti Z/fisica/fisica 20 11.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
     "Appunti Emanuel/Fisica/meccanica dei fluidi 20_11_2026.md",
-    "Appunti Z/fisica/fisica 20 11.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 19 11.md",
     "Appunti Z/fisica/ottobre/tutoring 16 10.md",
     "Appunti Z/fisica/ottobre/tutoring 02 10.md",
@@ -235,8 +235,6 @@
     "Appunti Mike/Fisica 1/TEORIA",
     "Appunti Mike/Fisica 1/ESERCIZI",
     "Appunti Mike/Fisica 1",
-    "Appunti Mike/Analisi 1/TEORIA/LEZIONI",
-    "Appunti Mike/Analisi 1/TEORIA",
     "img/Pasted image 20261117224420.png",
     "img/sinx x.png",
     "img/Pasted image 20261114190945.png",
