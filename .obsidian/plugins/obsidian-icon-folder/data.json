@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolderHeart",
+      "LiFolderClock",
       "LiPen",
       "LiImage",
-      "LiSchool",
-      "FasGhost",
-      "LiSnowflake"
+      "LiSchool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -47,7 +47,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Appunti Z": "LiFolderGit",
   "Appunti Emanuel": "LiFolderPen",
   "Appunti Z/analisi matematica": "LiEqualNot",
   "Appunti Z/fisica": "LiTriangle",
@@ -59,5 +58,7 @@
   "Appunti Z/analisi matematica/ottobre": "FasGhost",
   "Appunti Z/analisi matematica/settembre": "LiSchool",
   "img": "LiImage",
-  "Appunti Z/esercitazioni": "LiPen"
+  "Appunti Z/esercitazioni": "LiPen",
+  "Appunti Mike": "LiFolderClock",
+  "Appunti Z": "LiFolderHeart"
 }
