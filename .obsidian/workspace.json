@@ -30,6 +30,30 @@
               "icon": "excalidraw-icon",
               "title": "ex 9"
             }
+          },
+          {
+            "id": "2f3940ca5835882e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/fisica 05 11 (momento torcente e momento angolare).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 05 11 (momento torcente e momento angolare)"
+            }
+          },
+          {
+            "id": "0f614c2bc797a040",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 08 10 (moto circolare uniforme)"
+            }
           }
         ],
         "currentTab": 1
@@ -193,16 +217,18 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "6837131446825b48",
   "lastOpenFiles": [
+    "Appunti Z/fisica/fisica 05 11 (momento torcente e momento angolare).md",
+    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
     "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
     "Appunti Z/esercitazioni/ex 9.md",
+    "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
     "Appunti Z/esercitazioni/Senza nome.md",
     "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
     "Appunti Emanuel/Fisica/moto circolare uniforme.md",
-    "Appunti Z/fisica/fisica 05 11 (momento torcente e momento angolare).md",
     "Appunti Z/fisica/fisica 03 11 (rotolamento).md",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10 (tipi di dato).md",
     "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09 (calcolatore e memoria).md",
@@ -219,8 +245,6 @@
     "Appunti Z/esercitazioni/ex 5 (teorema di Rolle).md",
     "Appunti Z/esercitazioni/ex 4 (teorema di Lagrange).md",
     "Appunti Z/esercitazioni/ex 3 (teorema di Fermat).md",
-    "Appunti Z/esercitazioni/ex 2 (centro di massa del cubo).md",
-    "Appunti Z/esercitazioni/ex 1 (limite notevole sen x su x, dimostrazione).md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
