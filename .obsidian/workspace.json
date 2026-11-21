@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2e491d3bb2d55a1",
+            "id": "79fea48f6e48f86f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -174,20 +174,9 @@
               "icon": "excalidraw-icon",
               "title": "18_11_2026"
             }
-          },
-          {
-            "id": "ea67698a5020daaf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Momento Torcente & Forza Angolare"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,7 +201,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora file"
             }
           },
           {
@@ -345,20 +334,19 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "a2e491d3bb2d55a1",
+  "active": "54c5e86b31ee27ba",
   "lastOpenFiles": [
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
     "img/Pasted image 20261121154559.png",
-    "Appunti Mike/Analisi 1/ESERCIZI/Es. Limiti.md",
-    "Appunti Mike/Analisi 1/ESERCIZI/Es. Limiti(Tutoraggio).md",
-    "Appunti Mike/Analisi 1/ESERCIZI/Es. Studio di Funzione.md",
-    "Appunti Mike/Analisi 1/TEORIA/Teoremi.md",
-    "Appunti Mike/Analisi 1/TEORIA/Dimostrazioni.md",
-    "Appunti Mike/Analisi 1/TEORIA/Definizioni.md",
-    "Appunti Mike/Fisica 1/TEORIA/Moto Circolare Uniforme.md",
-    "Appunti Mike/Fisica 1/TEORIA/cdm & qdm.md",
+    "img/Pasted image 20261121150430.png",
+    "img/Pasted image 20261121150422.png",
+    "img/Pasted image 20261121150412.png",
+    "img/Pasted image 20261121150359.png",
+    "img/Pasted image 20261102220241.png",
+    "img/Pasted image 20261102214311.png",
+    "img/Pasted image 20261102184814.png",
+    "img/Pasted image 20261102174100.png",
+    "img/Pasted image 20261102170143.png",
+    "img/Pasted image 20261102163236.png",
     "Appunti Mike/Fisica 1/TEORIA/Rotazione.md",
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
     "Appunti Z/esercitazioni/ex 3 (teorema di Fermat).md",
@@ -377,20 +365,22 @@
     "Appunti Z/fisica/ottobre/tutoring 16 10 (esercizi sulle forze).md",
     "Appunti Z/fisica/ottobre/tutoring 02 10 (vettori).md",
     "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
-    "Appunti Z/esercitazioni/Senza nome.md",
+    "Appunti Z/fisica/ottobre/fisica 27 10 (esercitazione energia cinetica).md",
+    "Appunti Z/fisica/ottobre/Fisica 23 10 (impulso e quantità di moto).md",
+    "Appunti Z/fisica/ottobre/fisica 23 10 (2) (esercizio piano con attrito).md",
+    "Appunti Z/fisica/ottobre/fisica 22 10 (centro di massa).md",
+    "Appunti Z/fisica/ottobre/fisica 20 10 (forze conservative).md",
+    "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md",
+    "Appunti Z/fisica/ottobre/fisica 15 10 (attrito).md",
+    "Appunti Z/fisica/ottobre",
+    "Appunti Z/fisica",
+    "Appunti Mike/Analisi 1/Untitled.base",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
     "Appunti Mike/Fondamenti Di Programmazione",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
     "Appunti Mike/Fisica 1/TEORIA",
-    "img/sinx x.png",
-    "img/insiemi e sottoinsiemi di C.png",
-    "img/Pasted image 20261114190945.png",
-    "img/Pasted image 20261114183350.png",
-    "img/Pasted image 20261114182759.png",
-    "img/Pasted image 20261018185805.png",
-    "img/Pasted image 20261018174952.png",
-    "img/Pasted image 20261018174627.png"
+    "Appunti Mike/Fisica 1/ESERCIZI"
   ]
 }
