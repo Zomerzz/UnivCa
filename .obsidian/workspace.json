@@ -11,10 +11,13 @@
             "id": "12b3a55f69ac524b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Appunti Mike/Analisi 1/Untitled.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -171,6 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Appunti Mike/Analisi 1/Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f08f2f3d34f7a61",
+  "active": "12b3a55f69ac524b",
   "lastOpenFiles": [
+    "Appunti Mike/Analisi 1/Untitled.base",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
@@ -246,7 +251,6 @@
     "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10 (Rolle e Lagrange).md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10 (massimi e minimi).md",
     "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10 (continuità e derivabilità).md",
-    "Appunti Z/fondamenti di programmazione/pdf",
     "P.canvas"
   ]
 }
