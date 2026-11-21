@@ -1,77 +1,37 @@
 {
   "main": {
-    "id": "b9c29c689b528b71",
+    "id": "d9f7d6d7ec1f5eaf",
     "type": "split",
     "children": [
       {
-        "id": "b70051bb5a3bf449",
+        "id": "a3a5825abd8ee774",
         "type": "tabs",
         "children": [
           {
-            "id": "8348cd83abf0482a",
+            "id": "12b3a55f69ac524b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sunto moto rotazionale angolare torcente e inerzia"
-            }
-          },
-          {
-            "id": "6837131446825b48",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/esercitazioni/ex 9.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ex 9"
-            }
-          },
-          {
-            "id": "2f3940ca5835882e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/fisica/fisica 05 11 (momento torcente e momento angolare).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fisica 05 11 (momento torcente e momento angolare)"
-            }
-          },
-          {
-            "id": "0f614c2bc797a040",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fisica 08 10 (moto circolare uniforme)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f90a925bddf11987",
+    "id": "daeec2e60b786b83",
     "type": "split",
     "children": [
       {
-        "id": "8a0740bb57972b90",
+        "id": "6e76bd2a7f11bc9f",
         "type": "tabs",
-        "dimension": 81.44712430426716,
         "children": [
           {
-            "id": "38f4c57ea908ae9c",
+            "id": "2fc2189bdd9461ad",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -82,11 +42,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora file"
+              "title": "Files"
             }
           },
           {
-            "id": "fd6ba17a0989dc5c",
+            "id": "e46401dadd023d79",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -99,18 +59,30 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Ricerca"
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6ca257bebc08ac6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       },
       {
-        "id": "deeb9aa6cd61bfb9",
+        "id": "54fd26b68a76c444",
         "type": "tabs",
-        "dimension": 18.552875695732837,
         "children": [
           {
-            "id": "63b486af163b355e",
+            "id": "9f08f2f3d34f7a61",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -123,23 +95,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.61106872558594
+    "width": 300
   },
   "right": {
-    "id": "1338e7bce472a31c",
+    "id": "bd76ca4bbd3fe1d3",
     "type": "split",
     "children": [
       {
-        "id": "36e1b3e7bd833c93",
+        "id": "195c823815614a1d",
         "type": "tabs",
         "children": [
           {
-            "id": "5a68f68b7b397515",
+            "id": "d3742fa9f21dd09c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "analisi matematica/analisi 30 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,26 +120,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "4c470b95bf132a9e",
+            "id": "9fb3802899328e37",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
-                "file": "analisi matematica/analisi 30 09.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "Struttura"
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c74e35042fa5e00f",
+            "id": "6550fd6e60dfd463",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -179,11 +148,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etichette"
+              "title": "Tags"
             }
           },
           {
-            "id": "970f1414292fceed",
+            "id": "73a9ea6d54f4d248",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -193,77 +162,91 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Tutte le proprietà"
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0a9692d01dc295a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "handwriting-latex:Handwriting to LaTeX": false,
-      "obisidian-note-linker:Note Linker": false,
-      "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false,
-      "audio-recorder:Avvia/ferma registrazione": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "group-tabs:Recent tab groups": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6837131446825b48",
+  "active": "9f08f2f3d34f7a61",
   "lastOpenFiles": [
-    "Appunti Z/fisica/fisica 05 11 (momento torcente e momento angolare).md",
-    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
-    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
-    "Appunti Z/esercitazioni/ex 9.md",
-    "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
-    "Appunti Z/esercitazioni/Senza nome.md",
-    "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
-    "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
-    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
-    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
-    "Appunti Z/fisica/fisica 03 11 (rotolamento).md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10 (tipi di dato).md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09 (calcolatore e memoria).md",
-    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09 (presentazione del corso).md",
-    "Appunti Z/fisica/Esercizi per casa 4 settimana (lavoro ed energia).md",
-    "Appunti Z/fisica/esercizi per casa 3 settimana (forze).md",
-    "Appunti Z/fisica/fisica 20 11 (meccanica dei fluidi).md",
-    "Appunti Z/fisica/fisica 19 11 (gravitazione).md",
-    "Appunti Z/fisica/fisica 17 11 (equilibrio).md",
-    "Appunti Z/fisica/tutoraggio 03 11 (centro di massa e impulso).md",
-    "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md",
-    "Appunti Z/fisica/ottobre/fisica 15 10 (attrito).md",
-    "Appunti Z/fisica/ottobre/fisica 13 10 (terza legge di Newton).md",
-    "Appunti Z/esercitazioni/ex 5 (teorema di Rolle).md",
-    "Appunti Z/esercitazioni/ex 4 (teorema di Lagrange).md",
-    "Appunti Z/esercitazioni/ex 3 (teorema di Fermat).md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
-    "img/Pasted image 20261117224420.png",
-    "Appunti Mike/Fondamenti Di Programmazione",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
-    "Appunti Mike/Fisica 1/ESERCIZI",
-    "Appunti Mike/Fisica 1/TEORIA",
-    "Appunti Mike/Fisica 1",
+    "readme",
+    "img/Pasted image 20261114182759.png",
     "img/sinx x.png",
-    "img/insiemi e sottoinsiemi di C.png",
+    "img/Pasted image 20261117224420.png",
     "img/Pasted image 20261114190945.png",
     "img/Pasted image 20261114183350.png",
-    "img/Pasted image 20261114182759.png",
+    "img/Pasted Image 20261020191216_282.png",
     "img/Pasted image 20261018185805.png",
-    "img/Pasted image 20261018174952.png",
-    "img/Pasted image 20261018174627.png",
-    "img/Pasted image 20261018174541.png"
+    "img/Pasted Image 20261018213224_364.png",
+    "img/Pasted image 20261018171317.png",
+    "img/Pasted Image 20261018193019_807.png",
+    "img",
+    "Appunti Z/fondamenti di programmazione/pdf/input outpu.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf/intro_C.pdf",
+    "Appunti Z/fondamenti di programmazione/pdf/decisionali.pdf",
+    "Appunti Z/fisica/ottobre/fisica 22 10 (centro di massa).md",
+    "Appunti Z/fisica/ottobre/tutoring 16 10 (esercizi sulle forze).md",
+    "Appunti Z/fisica/ottobre/fisica 20 10 (forze conservative).md",
+    "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
+    "Appunti Z/fisica/ottobre/tutoring 02 10 (vettori).md",
+    "Appunti Z/fisica/ottobre/fisica 27 10 (esercitazione energia cinetica).md",
+    "Appunti Z/fisica/ottobre/Fisica 23 10 (impulso e quantità di moto).md",
+    "Appunti Z/fisica/ottobre/fisica 15 10 (attrito).md",
+    "Appunti Z/fisica/ottobre/fisica 23 10 (2) (esercizio piano con attrito).md",
+    "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md",
+    "Appunti Z/fisica/ottobre/fisica 06 10 (2) (esercizi tensione, centro di massa e razzo).md",
+    "Appunti Z/fisica/ottobre/fisica 13 10 (terza legge di Newton).md",
+    "Appunti Z/fisica/ottobre/fisica 09 10 (leggi di Newton).md",
+    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
+    "Appunti Z/fisica/ottobre/Fisica 06 10 (moto in 2 e 3 dimensioni).md",
+    "Appunti Z/fisica/ottobre/fisica 02 10 (esercizi di cinematica 1D).md",
+    "Appunti Z/fisica/ottobre/FIsica 01 10 (moto rettilineo uniforme).md",
+    "Appunti Z/analisi matematica/--pdf/lezione 1 10.pdf",
+    "Appunti Z/analisi matematica/--pdf/lezione 05 10.pdf",
+    "Appunti Z/analisi matematica/ottobre/tutoring ale (derivate e regola della catena).md",
+    "Appunti Z/analisi matematica/ottobre/tutoring 13 10 (trinomio speciale).md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10 (studio di funzione, esercizi).md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 28 10 (studio di funzione).md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 26 10 (criterio di monotonia).md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 22 10 (Rolle e Lagrange).md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 21 10 (massimi e minimi).md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 14 10 (continuità e derivabilità).md",
+    "Appunti Z/fondamenti di programmazione/pdf",
+    "P.canvas"
   ]
 }
