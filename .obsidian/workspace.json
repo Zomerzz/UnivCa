@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b70051bb5a3bf449",
+        "id": "b25079e9c1dcfcdb",
         "type": "tabs",
         "children": [
           {
-            "id": "8348cd83abf0482a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Sunto moto rotazionale angolare torcente e inerzia"
-            }
-          },
-          {
-            "id": "6837131446825b48",
+            "id": "ab4b5aede7309eb2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -32,31 +20,18 @@
             }
           },
           {
-            "id": "2f3940ca5835882e",
+            "id": "db0cfc7b86a42d00",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 05 11 (momento torcente e momento angolare).md"
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 05 11 (momento torcente e momento angolare)"
-            }
-          },
-          {
-            "id": "0f614c2bc797a040",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "fisica 08 10 (moto circolare uniforme)"
+              "title": "analisi matematica 18 11 (primitive, sostituzione e per parti)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +57,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora file"
             }
           },
           {
@@ -206,64 +181,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
       "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "6837131446825b48",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
-    "Appunti Mike/Analisi 1/Senza nome.md",
+    "Appunti Z/fisica/- pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
     "Appunti Z/esercitazioni/ex 9.md",
-    "Appunti Mike/Analisi 1/Untitled.base",
-    "Appunti Z/fisica/fisica 05 11 (momento torcente e momento angolare).md",
-    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 19 11 (integrazione per parti e sostituzione).md",
+    "Appunti Z/fisica/novembre/fisica 03 11 (rotolamento).md",
+    "Appunti Z/fisica/novembre/fisica 05 11 (momento torcente e momento angolare).md",
     "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
+    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
+    "Appunti Z/esercitazioni/Lavagna esercizzi 1 (cinematica e moto circolare).md",
+    "Appunti Z/esercitazioni/Lavagna esercizi 2 (limite notevole sen x su x).md",
+    "Appunti Z/fisica/novembre/tutoraggio 03 11 (centro di massa e impulso).md",
+    "Appunti Z/fisica/settembre",
     "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
+    "Appunti Z/fisica/novembre",
+    "Appunti Z/fisica/ottobre/tutoring 02 10 (vettori).md",
+    "Appunti Z/fisica/ottobre/fisica 22 10 (centro di massa).md",
+    "Appunti Z/fisica/ottobre/fisica 20 10 (forze conservative).md",
+    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
+    "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
+    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Studio di funzione.md",
+    "img/Pasted image 20261121150430.png",
+    "img/Pasted image 20261121150422.png",
+    "img/Pasted image 20261121150412.png",
+    "img/Pasted image 20261121150359.png",
+    "img/Pasted image 20261102220241.png",
+    "img/Pasted image 20261102214311.png",
+    "img/Pasted image 20261102184814.png",
+    "img/Pasted image 20261102174100.png",
+    "img/Pasted image 20261102170143.png",
+    "img/Pasted image 20261102163236.png",
+    "Appunti Mike/Fisica 1/TEORIA/Rotazione.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
+    "Appunti Mike/Analisi 1/Senza nome.md",
+    "Appunti Mike/Analisi 1/Untitled.base",
     "Appunti Z/esercitazioni/Senza nome.md",
     "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
     "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
     "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
-    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
-    "Appunti Z/fisica/fisica 03 11 (rotolamento).md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10 (tipi di dato).md",
-    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09 (calcolatore e memoria).md",
-    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09 (presentazione del corso).md",
-    "Appunti Z/fisica/Esercizi per casa 4 settimana (lavoro ed energia).md",
-    "Appunti Z/fisica/esercizi per casa 3 settimana (forze).md",
-    "Appunti Z/fisica/fisica 20 11 (meccanica dei fluidi).md",
-    "Appunti Z/fisica/fisica 19 11 (gravitazione).md",
-    "Appunti Z/fisica/fisica 17 11 (equilibrio).md",
-    "Appunti Z/fisica/tutoraggio 03 11 (centro di massa e impulso).md",
-    "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md",
-    "Appunti Z/fisica/ottobre/fisica 15 10 (attrito).md",
-    "Appunti Z/fisica/ottobre/fisica 13 10 (terza legge di Newton).md",
-    "Appunti Z/esercitazioni/ex 5 (teorema di Rolle).md",
-    "Appunti Z/esercitazioni/ex 4 (teorema di Lagrange).md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
     "Appunti Z/fisica/ottobre",
     "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
-    "img/Pasted image 20261117224420.png",
     "Appunti Mike/Fondamenti Di Programmazione",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
-    "Appunti Mike/Fisica 1/ESERCIZI",
-    "Appunti Mike/Fisica 1/TEORIA",
-    "img/sinx x.png",
-    "img/insiemi e sottoinsiemi di C.png",
-    "img/Pasted image 20261114190945.png",
-    "img/Pasted image 20261114183350.png",
-    "img/Pasted image 20261114182759.png",
-    "img/Pasted image 20261018185805.png",
-    "img/Pasted image 20261018174952.png",
-    "img/Pasted image 20261018174627.png",
-    "img/Pasted image 20261018174541.png"
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI"
   ]
 }
