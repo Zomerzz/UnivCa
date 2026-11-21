@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea67698a5020daaf",
+            "id": "a2e491d3bb2d55a1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -17,6 +17,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "Es. Tutoraggio(6° Settimana)"
+            }
+          },
+          {
+            "id": "ea67698a5020daaf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Momento d'inerzia"
             }
           }
         ]
@@ -180,8 +192,11 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "ea67698a5020daaf",
+  "active": "a2e491d3bb2d55a1",
   "lastOpenFiles": [
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
+    "img/Pasted image 20261121154559.png",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. Limiti.md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. Limiti(Tutoraggio).md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. Studio di Funzione.md",
@@ -207,8 +222,6 @@
     "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
     "Appunti Z/esercitazioni/Senza nome.md",
     "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
-    "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
-    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
@@ -226,7 +239,6 @@
     "img/Pasted image 20261114182759.png",
     "img/Pasted image 20261018185805.png",
     "img/Pasted image 20261018174952.png",
-    "img/Pasted image 20261018174627.png",
-    "img/Pasted image 20261018174541.png"
+    "img/Pasted image 20261018174627.png"
   ]
 }
