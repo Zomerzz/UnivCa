@@ -4,175 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "be7678d3f846098a",
+        "id": "b25079e9c1dcfcdb",
         "type": "tabs",
         "children": [
           {
-            "id": "79fea48f6e48f86f",
+            "id": "ab4b5aede7309eb2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/legge di gravitazione universale.md"
+                "file": "Appunti Z/esercitazioni/ex 9.md"
               },
               "icon": "excalidraw-icon",
-              "title": "legge di gravitazione universale"
+              "title": "ex 9"
             }
           },
           {
-            "id": "c5f98ba300c164a0",
+            "id": "db0cfc7b86a42d00",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/ultima parte integrazione per parti.md"
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md"
               },
               "icon": "excalidraw-icon",
-              "title": "ultima parte integrazione per parti"
-            }
-          },
-          {
-            "id": "b9cfa4d757ff0872",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/meccanica dei fluidi 20_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "meccanica dei fluidi 20_11_2026"
-            }
-          },
-          {
-            "id": "54c5e86b31ee27ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18_11_2026 proseguo integrali, primitiva"
-            }
-          },
-          {
-            "id": "bfc85bbee6a1faf1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/16_10_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_10_2026"
-            }
-          },
-          {
-            "id": "9fad87a9ee67db0b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Natura vettoriale delle rotazioni 05_11_2026"
-            }
-          },
-          {
-            "id": "553bfc1ce6bdb763",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/moto circolare uniforme.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "moto circolare uniforme"
-            }
-          },
-          {
-            "id": "458ef6202895c5f4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Polinomio di Taylor-sunto x 2 parziale"
-            }
-          },
-          {
-            "id": "cf56d36587c85fea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_11_2026 integrali e media integrale"
-            }
-          },
-          {
-            "id": "6ad8794e3fd83ad5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/16_11_26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_11_26"
-            }
-          },
-          {
-            "id": "5419fcb7c8b48b56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Natura vettoriale delle rotazioni 05_11_2026"
-            }
-          },
-          {
-            "id": "a3f2cfb0f3451294",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16_11_2026 integrali e media integrale"
-            }
-          },
-          {
-            "id": "bce6f337652385e2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18_11_2026 proseguo integrali, primitiva"
-            }
-          },
-          {
-            "id": "effed1a5a73bfe62",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/18_11_2026.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18_11_2026"
+              "title": "analisi matematica 18 11 (primitive, sostituzione e per parti)"
             }
           }
         ]
@@ -187,6 +43,7 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
+        "dimension": 58.94346617238183,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -194,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,6 +82,7 @@
       {
         "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
+        "dimension": 41.05653382761816,
         "children": [
           {
             "id": "63b486af163b355e",
@@ -240,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 486.61106872558594
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -323,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
@@ -333,16 +192,32 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "a2e491d3bb2d55a1",
+  "active": "ab4b5aede7309eb2",
   "lastOpenFiles": [
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Quantita di moto.md",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Rotolamento.md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
     "img/Pasted image 20261121164336.png",
     "img/Pasted image 20261121164318.png",
     "img/Pasted image 20261121154559.png",
+    "Appunti Z/fisica/- pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/esercitazioni/ex 9.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 19 11 (integrazione per parti e sostituzione).md",
+    "Appunti Z/fisica/novembre/fisica 03 11 (rotolamento).md",
+    "Appunti Z/fisica/novembre/fisica 05 11 (momento torcente e momento angolare).md",
+    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
+    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
+    "Appunti Z/esercitazioni/Lavagna esercizzi 1 (cinematica e moto circolare).md",
+    "Appunti Z/esercitazioni/Lavagna esercizi 2 (limite notevole sen x su x).md",
+    "Appunti Z/fisica/novembre/tutoraggio 03 11 (centro di massa e impulso).md",
+    "Appunti Z/fisica/settembre",
+    "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
+    "Appunti Z/fisica/novembre",
+    "Appunti Z/fisica/ottobre/tutoring 02 10 (vettori).md",
+    "Appunti Z/fisica/ottobre/fisica 22 10 (centro di massa).md",
+    "Appunti Z/fisica/ottobre/fisica 20 10 (forze conservative).md",
+    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
+    "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
+    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Studio di funzione.md",
     "img/Pasted image 20261121150430.png",
     "img/Pasted image 20261121150422.png",
     "img/Pasted image 20261121150412.png",
@@ -352,30 +227,18 @@
     "img/Pasted image 20261102184814.png",
     "img/Pasted image 20261102174100.png",
     "Appunti Mike/Fisica 1/TEORIA/Rotazione.md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. (a Caso).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (Piani Inclinati).md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Esercitazione.md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio Prima Prova Parziale.md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (2° Settimana).md",
-    "Appunti Mike/Analisi 1/ESERCIZI/Es. (a caso).md",
-    "Appunti Mike/Analisi 1/ESERCIZI/Es. Derivate.md",
-    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
-    "Appunti Z/fisica/fisica 05 11 (momento torcente e momento angolare).md",
-    "Appunti Z/esercitazioni/ex 9.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
     "Appunti Mike/Analisi 1/Senza nome.md",
     "Appunti Mike/Analisi 1/Untitled.base",
-    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
+    "Appunti Z/esercitazioni/Senza nome.md",
+    "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
+    "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
+    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Appunti Mike/Fondamenti Di Programmazione",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
-    "Appunti Mike/Fisica 1/TEORIA",
-    "img/sinx x.png",
-    "img/insiemi e sottoinsiemi di C.png",
-    "img/Pasted image 20261114190945.png",
-    "img/Pasted image 20261114183350.png",
-    "img/Pasted image 20261114182759.png",
-    "img/Pasted image 20261018185805.png"
+    "Appunti Z/fisica/ottobre",
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
+    "Appunti Mike/Fondamenti Di Programmazione"
   ]
 }
