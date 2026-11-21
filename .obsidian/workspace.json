@@ -25,14 +25,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md"
+                "file": "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Momento d'inerzia"
+              "title": "Momento Torcente & Forza Angolare"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +57,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora file"
+              "title": "Files"
             }
           },
           {
@@ -195,6 +194,7 @@
   },
   "active": "a2e491d3bb2d55a1",
   "lastOpenFiles": [
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md",
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
     "img/Pasted image 20261121154559.png",
@@ -222,7 +222,6 @@
     "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
     "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
     "Appunti Z/esercitazioni/Senza nome.md",
-    "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
