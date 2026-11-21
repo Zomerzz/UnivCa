@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +195,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -334,8 +334,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "54c5e86b31ee27ba",
+  "active": "ea67698a5020daaf",
   "lastOpenFiles": [
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Quantita di moto.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Rotolamento.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
     "img/Pasted image 20261121164336.png",
     "img/Pasted image 20261121164318.png",
     "img/Pasted image 20261121154559.png",
@@ -348,39 +353,30 @@
     "img/Pasted image 20261102184814.png",
     "img/Pasted image 20261102174100.png",
     "Appunti Mike/Fisica 1/TEORIA/Rotazione.md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
-    "Appunti Z/esercitazioni/ex 3 (teorema di Fermat).md",
-    "Appunti Z/esercitazioni/ex 2 (centro di massa del cubo).md",
-    "Appunti Z/esercitazioni/ex 1 (limite notevole sen x su x, dimostrazione).md",
-    "Appunti Z/esercitazioni/Lavagna esercizzi 1 (cinematica e moto circolare).md",
-    "Appunti Z/esercitazioni/Lavagna esercizi 2 (limite notevole sen x su x).md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 30 09 (punti interni e frontiera).md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 29 09 (modulo e disequazioni).md",
-    "Appunti Z/analisi matematica/settembre/analisi matematica 28 09 (insiemi).md",
-    "Appunti Z/analisi matematica/ottobre/tutoring ale (derivate e regola della catena).md",
-    "Appunti Z/analisi matematica/ottobre/tutoring 13 10 (trinomio speciale).md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 29 10 (studio di funzione, esercizi).md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 28 10 (studio di funzione).md",
-    "Appunti Z/analisi matematica/ottobre/analisi matematica 26 10 (criterio di monotonia).md",
-    "Appunti Z/fisica/ottobre/tutoring 16 10 (esercizi sulle forze).md",
-    "Appunti Z/fisica/ottobre/tutoring 02 10 (vettori).md",
-    "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
-    "Appunti Z/fisica/ottobre/fisica 27 10 (esercitazione energia cinetica).md",
-    "Appunti Z/fisica/ottobre/Fisica 23 10 (impulso e quantità di moto).md",
-    "Appunti Z/fisica/ottobre/fisica 23 10 (2) (esercizio piano con attrito).md",
-    "Appunti Z/fisica/ottobre/fisica 22 10 (centro di massa).md",
-    "Appunti Z/fisica/ottobre/fisica 20 10 (forze conservative).md",
-    "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md",
-    "Appunti Z/fisica/ottobre/fisica 15 10 (attrito).md",
-    "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. (a Caso).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (Piani Inclinati).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Esercitazione.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio Prima Prova Parziale.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio (2° Settimana).md",
+    "Appunti Mike/Analisi 1/ESERCIZI/Es. (a caso).md",
+    "Appunti Mike/Analisi 1/ESERCIZI/Es. Derivate.md",
+    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
+    "Appunti Z/fisica/fisica 05 11 (momento torcente e momento angolare).md",
+    "Appunti Z/esercitazioni/ex 9.md",
+    "Appunti Mike/Analisi 1/Senza nome.md",
     "Appunti Mike/Analisi 1/Untitled.base",
+    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
     "Appunti Mike/Fondamenti Di Programmazione",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
     "Appunti Mike/Fisica 1/TEORIA",
-    "Appunti Mike/Fisica 1/ESERCIZI"
+    "img/sinx x.png",
+    "img/insiemi e sottoinsiemi di C.png",
+    "img/Pasted image 20261114190945.png",
+    "img/Pasted image 20261114183350.png",
+    "img/Pasted image 20261114182759.png",
+    "img/Pasted image 20261018185805.png"
   ]
 }
