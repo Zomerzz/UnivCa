@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md"
+                "file": "Appunti Z/fisica/ottobre/fisica 08 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Sunto moto rotazionale angolare torcente e inerzia"
+              "title": "fisica 08 10"
             }
           }
         ]
@@ -31,6 +31,7 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
+        "dimension": 81.44712430426716,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -69,6 +70,7 @@
       {
         "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
+        "dimension": 18.552875695732837,
         "children": [
           {
             "id": "63b486af163b355e",
@@ -180,32 +182,32 @@
   },
   "active": "8348cd83abf0482a",
   "lastOpenFiles": [
-    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
-    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
-    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
-    "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
-    "Appunti Z/fisica/ottobre/fisica 20 10.md",
-    "Appunti Z/fisica/ottobre/fisica 16 10.md",
-    "Appunti Z/fisica/ottobre/fisica 22 10.md",
-    "Appunti Z/fisica/ottobre/fisica 08 10.md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 05 10 (tipi di dato).md",
+    "Appunti Z/fondamenti di programmazione/fondamenti di programmazione 30 09 (calcolatore e memoria).md",
+    "Appunti Z/fondamenti di programmazione/fondamentali di programmazione 28 09 (presentazione del corso).md",
+    "Appunti Z/fisica/Esercizi per casa 4 settimana (lavoro ed energia).md",
+    "Appunti Z/fisica/esercizi per casa 3 settimana (forze).md",
+    "Appunti Z/fisica/fisica 20 11 (meccanica dei fluidi).md",
+    "Appunti Z/fisica/fisica 19 11 (gravitazione).md",
+    "Appunti Z/fisica/fisica 17 11 (equilibrio).md",
+    "Appunti Z/fisica/tutoraggio 03 11 (centro di massa e impulso).md",
+    "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md",
+    "Appunti Z/fisica/ottobre/fisica 15 10 (attrito).md",
+    "Appunti Z/fisica/ottobre/fisica 13 10 (terza legge di Newton).md",
+    "Appunti Z/esercitazioni/ex 5 (teorema di Rolle).md",
+    "Appunti Z/esercitazioni/ex 4 (teorema di Lagrange).md",
+    "Appunti Z/esercitazioni/ex 3 (teorema di Fermat).md",
+    "Appunti Z/esercitazioni/ex 2 (centro di massa del cubo).md",
+    "Appunti Z/esercitazioni/ex 1 (limite notevole sen x su x, dimostrazione).md",
+    "Appunti Z/analisi matematica/ottobre/analisi matematica 01 10 (trigonometria).md",
+    "Appunti Z/analisi matematica/settembre/analisi matematica 30 09 (punti interni e frontiera).md",
+    "Appunti Z/analisi matematica/settembre/analisi matematica 29 09 (modulo e disequazioni).md",
+    "Appunti Z/analisi matematica/settembre/analisi matematica 28 09 (insiemi).md",
     "Appunti Z/fisica/ottobre/fisica 06 10 (2).md",
     "Appunti Z/fisica/ottobre/Fisica 06 10.md",
-    "Appunti Z/fisica/ottobre/FIsica 01 10.md",
     "Appunti Z/fisica/ottobre/fisica 02 10.md",
-    "Appunti Z/fisica/ottobre/fisica 13 10.md",
-    "Appunti Z/fisica/ottobre/fisica 29 10.md",
-    "Appunti Z/fisica/ottobre/fisica 27 10.md",
-    "Appunti Z/fisica/ottobre/fisica 23 10 (2).md",
-    "Appunti Z/fisica/ottobre/Fisica 23 10.md",
-    "Appunti Z/fisica/ottobre/fisica 15 10.md",
-    "Appunti Z/fisica/fisica 03 11.md",
-    "Appunti Z/esercitazioni/ex 1.md",
-    "Appunti Z/esercitazioni/Lavagna esercizzi 1.md",
-    "Appunti Z/esercitazioni/Lavagna esercizi 2.md",
-    "Appunti Z/esercitazioni/ex 2.md",
-    "Appunti Z/esercitazioni/ex 3.md",
-    "Appunti Z/esercitazioni/ex 4.md",
-    "Appunti Z/esercitazioni/ex 5.md",
+    "Appunti Z/fisica/ottobre/FIsica 01 10.md",
+    "Appunti Z/fisica/ottobre/fisica 20 10.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
