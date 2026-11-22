@@ -4,19 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "8437dd8879f4733a",
+        "id": "b25079e9c1dcfcdb",
         "type": "tabs",
         "children": [
           {
-            "id": "cb51e95806e79511",
+            "id": "ab4b5aede7309eb2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md"
+                "file": "Appunti Z/esercitazioni/ex 9.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Es. Integrali"
+              "title": "ex 9"
+            }
+          },
+          {
+            "id": "13d07432f798099b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 08 10 (moto circolare uniforme)"
+            }
+          },
+          {
+            "id": "3796d29d6c2d948b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Sunto moto rotazionale angolare torcente e inerzia"
             }
           },
           {
@@ -31,7 +55,8 @@
               "title": "Integrale di Riemann"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,6 +68,7 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
+        "dimension": 58.94346617238183,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -50,13 +76,13 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora file"
             }
           },
           {
@@ -81,6 +107,7 @@
       {
         "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
+        "dimension": 41.05653382761816,
         "children": [
           {
             "id": "63b486af163b355e",
@@ -96,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 486.61106872558594,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -179,18 +207,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
       "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "cb51e95806e79511",
+  "active": "13d07432f798099b",
   "lastOpenFiles": [
     "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrale di Riemann.md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. (a caso).md",
@@ -221,10 +249,25 @@
     "Appunti Z/fisica/novembre",
     "Appunti Z/esercitazioni/Esercizi per casa 4 settimana (lavoro ed energia).md",
     "img/Pasted image 20261121175456.png",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Quantita di moto.md",
     "img/Pasted image 20261121164336.png",
     "img/Pasted image 20261121164318.png",
     "img/Pasted image 20261121154559.png",
+    "Appunti Z/fisica/- pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/fisica/novembre/fisica 03 11 (rotolamento).md",
+    "Appunti Z/fisica/novembre/fisica 05 11 (momento torcente e momento angolare).md",
+    "Appunti Z/esercitazioni/Lavagna esercizzi 1 (cinematica e moto circolare).md",
+    "Appunti Z/esercitazioni/Lavagna esercizi 2 (limite notevole sen x su x).md",
+    "Appunti Z/fisica/novembre/tutoraggio 03 11 (centro di massa e impulso).md",
+    "Appunti Z/fisica/settembre",
+    "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
+    "Appunti Z/fisica/novembre",
+    "Appunti Z/fisica/ottobre/tutoring 02 10 (vettori).md",
+    "Appunti Z/fisica/ottobre/fisica 22 10 (centro di massa).md",
+    "Appunti Z/fisica/ottobre/fisica 20 10 (forze conservative).md",
+    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
+    "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
+    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Studio di funzione.md",
     "img/Pasted image 20261121150430.png",
     "img/Pasted image 20261121150422.png",
     "img/Pasted image 20261121150412.png",
@@ -233,10 +276,14 @@
     "Appunti Z/fisica/ottobre",
     "Appunti Z/fisica",
     "Appunti Mike/Analisi 1/Untitled.base",
+    "Appunti Z/esercitazioni/Senza nome.md",
+    "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
+    "Appunti Emanuel/Fisica/riepilogo circolare uniforme.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Appunti Mike/Fondamenti Di Programmazione",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI"
+    "Appunti Z/fisica/ottobre",
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
+    "Appunti Mike/Fondamenti Di Programmazione"
   ]
 }
