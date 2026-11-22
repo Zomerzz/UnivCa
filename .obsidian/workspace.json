@@ -30,8 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "analisi matematica 18 11 (primitive, sostituzione e per parti)"
             }
+          },
+          {
+            "id": "d0bd2b953da9cf7e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrale di Riemann.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Integrale di Riemann"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,9 +205,14 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "ab4b5aede7309eb2",
+  "active": "d0bd2b953da9cf7e",
   "lastOpenFiles": [
+    "Appunti Mike/Analisi 1/ESERCIZI/Es. (a caso).md",
+    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrale di Riemann.md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(cinetica, potenziale etc).md",
     "img/Pasted image 20261122162733.png",
     "Appunti Z/esercitazioni/ex 9.md",
     "img/Pasted image 20261122010829.png",
@@ -227,8 +245,9 @@
     "img/Pasted image 20261121150422.png",
     "img/Pasted image 20261121150412.png",
     "Appunti Mike/Fisica 1/TEORIA/Rotazione.md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
-    "Appunti Mike/Analisi 1/Senza nome.md",
+    "Appunti Z/esercitazioni/ex 3 (teorema di Fermat).md",
+    "Appunti Z/fisica/ottobre",
+    "Appunti Z/fisica",
     "Appunti Mike/Analisi 1/Untitled.base",
     "Appunti Z/esercitazioni/Senza nome.md",
     "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
