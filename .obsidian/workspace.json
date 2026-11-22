@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Es. Integrali"
             }
+          },
+          {
+            "id": "d0bd2b953da9cf7e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrale di Riemann.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Integrale di Riemann"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,12 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "cb51e95806e79511",
+  "active": "d0bd2b953da9cf7e",
   "lastOpenFiles": [
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
+    "Appunti Mike/Analisi 1/ESERCIZI/Es. (a caso).md",
+    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrale di Riemann.md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(cinetica, potenziale etc).md",
     "img/Pasted image 20261122162733.png",
@@ -216,8 +231,6 @@
     "img/Pasted image 20261121150412.png",
     "Appunti Mike/Fisica 1/TEORIA/Rotazione.md",
     "Appunti Z/esercitazioni/ex 3 (teorema di Fermat).md",
-    "Appunti Z/esercitazioni/ex 2 (centro di massa del cubo).md",
-    "Appunti Z/esercitazioni/ex 1 (limite notevole sen x su x, dimostrazione).md",
     "Appunti Z/fisica/ottobre",
     "Appunti Z/fisica",
     "Appunti Mike/Analisi 1/Untitled.base",
