@@ -42,6 +42,18 @@
               "icon": "excalidraw-icon",
               "title": "Sunto moto rotazionale angolare torcente e inerzia"
             }
+          },
+          {
+            "id": "d0bd2b953da9cf7e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrale di Riemann.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Integrale di Riemann"
+            }
           }
         ],
         "currentTab": 1
@@ -208,16 +220,34 @@
   },
   "active": "13d07432f798099b",
   "lastOpenFiles": [
-    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
-    "Appunti Z/esercitazioni/ex 9.md",
-    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
-    "img/Pasted Image 20261008221059_150.png",
-    "img/Pasted Image 20261008224258_004.png",
-    "img/insiemi e sottoinsiemi di C.png",
+    "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrale di Riemann.md",
+    "Appunti Mike/Analisi 1/ESERCIZI/Es. (a caso).md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
-    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 19 11 (integrazione per parti e sostituzione).md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(cinetica, potenziale etc).md",
+    "img/Pasted image 20261122162733.png",
+    "img/Pasted image 20261122010829.png",
+    "img/Pasted image 20261122010821.png",
+    "Appunti Emanuel/fondamenti programmazione/18_11_2026.md",
+    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
+    "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
+    "Appunti Emanuel/Fisica/Natura vettoriale delle rotazioni 05_11_2026.md",
+    "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
+    "Appunti Emanuel/matematica/Polinomio di Taylor-sunto x 2 parziale.md",
+    "Appunti Emanuel/Fisica/moto circolare uniforme.md",
+    "Appunti Emanuel/Fisica/16_10_2026.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Rotolamento.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento d'inerzia.md",
+    "Appunti Z/fisica/settembre/fisica 29 09 (presentazione del corso).md",
+    "Appunti Z/fisica/settembre",
+    "Appunti Z/fisica/novembre/fisica 20 11 (meccanica dei fluidi).md",
+    "Appunti Z/fisica/novembre/fisica 19 11 (gravitazione).md",
+    "Appunti Z/fisica/novembre/fisica 17 11 (equilibrio).md",
+    "Appunti Z/fisica/novembre/fisica 05 11 (momento torcente e momento angolare).md",
+    "Appunti Z/fisica/novembre/fisica 03 11 (rotolamento).md",
+    "Appunti Z/fisica/novembre",
+    "Appunti Z/esercitazioni/Esercizi per casa 4 settimana (lavoro ed energia).md",
     "img/Pasted image 20261121175456.png",
     "img/Pasted image 20261121164336.png",
     "img/Pasted image 20261121164318.png",
@@ -242,7 +272,9 @@
     "img/Pasted image 20261121150422.png",
     "img/Pasted image 20261121150412.png",
     "Appunti Mike/Fisica 1/TEORIA/Rotazione.md",
-    "Appunti Mike/Analisi 1/Senza nome.md",
+    "Appunti Z/esercitazioni/ex 3 (teorema di Fermat).md",
+    "Appunti Z/fisica/ottobre",
+    "Appunti Z/fisica",
     "Appunti Mike/Analisi 1/Untitled.base",
     "Appunti Z/esercitazioni/Senza nome.md",
     "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
