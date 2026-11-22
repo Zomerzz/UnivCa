@@ -8,27 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86a290770329174c",
+            "id": "cb51e95806e79511",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md"
+                "file": "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Es. Tutoraggio(6° Settimana)"
-            }
-          },
-          {
-            "id": "02f41cb63f91ab59",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Momento Torcente & Forza Angolare"
+              "title": "Es. Integrali"
             }
           }
         ]
@@ -50,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,10 +178,11 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "86a290770329174c",
+  "active": "cb51e95806e79511",
   "lastOpenFiles": [
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
+    "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(cinetica, potenziale etc).md",
     "img/Pasted image 20261122162733.png",
     "img/Pasted image 20261122010829.png",
