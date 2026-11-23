@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8437dd8879f4733a",
+        "id": "0c838867f09a9a8c",
         "type": "tabs",
         "children": [
           {
-            "id": "cb51e95806e79511",
+            "id": "328bde6221ddf25a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md"
+                "file": "Appunti Z/esercitazioni/ex 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Es. Integrali"
-            }
-          },
-          {
-            "id": "d0bd2b953da9cf7e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrale di Riemann.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Integrale di Riemann"
-            }
-          },
-          {
-            "id": "c61c8d0e19e3fe74",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Es. Tutoraggio(6° Settimana)"
+              "title": "ex 10"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,9 +167,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "bases:Crea nuova Base": false,
       "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
       "omnisearch:Omnisearch": false,
@@ -203,18 +178,24 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "c61c8d0e19e3fe74",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
-    "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
-    "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
-    "Appunti Emanuel/fondamenti programmazione/23_11_2026 array in allocazione dinamica.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 19 11 (integrazione per parti e sostituzione).md",
+    "Appunti Z/fisica/novembre/tutoraggio 03 11.md",
+    "Appunti Z/fisica/novembre/fisica 29 09.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 23 11.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
     "img/Pasted image 20261122230928.png",
     "img/Pasted image 20261122230919.png",
     "img/Pasted image 20261122230907.png",
     "img/Pasted image 20261122230842.png",
     "img/Pasted image 20261122230826.png",
     "img/Pasted image 20261122230811.png",
+    "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
+    "Appunti Emanuel/fondamenti programmazione/23_11_2026 array in allocazione dinamica.md",
+    "Appunti Z/esercitazioni/ex 10.md",
     "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrale di Riemann.md",
+    "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. (a caso).md",
     "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
@@ -235,14 +216,8 @@
     "Appunti Z/fisica/settembre/fisica 29 09 (presentazione del corso).md",
     "Appunti Z/fisica/settembre",
     "Appunti Z/fisica/novembre/fisica 20 11 (meccanica dei fluidi).md",
-    "Appunti Z/fisica/novembre/fisica 19 11 (gravitazione).md",
-    "Appunti Z/fisica/novembre/fisica 17 11 (equilibrio).md",
-    "Appunti Z/fisica/novembre/fisica 05 11 (momento torcente e momento angolare).md",
-    "Appunti Z/fisica/novembre/fisica 03 11 (rotolamento).md",
     "Appunti Z/fisica/novembre",
-    "Appunti Z/esercitazioni/Esercizi per casa 4 settimana (lavoro ed energia).md",
     "img/Pasted image 20261121175456.png",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Quantita di moto.md",
     "Appunti Z/fisica/ottobre",
     "Appunti Z/fisica",
     "Appunti Mike/Analisi 1/Untitled.base",

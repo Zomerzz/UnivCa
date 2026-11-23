@@ -6,27 +6,14 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFolderHeart",
-      "LiFolderClock",
-      "LiPen",
-      "LiImage",
-      "LiSchool"
+      "LiWind",
+      "LiGhost",
+      "LiNetwork",
+      "LiComputer",
+      "LiTriangle"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [
-      {
-        "rule": ".pdf",
-        "icon": "FasFilePdf",
-        "for": "everything",
-        "order": 1
-      },
-      {
-        "rule": ".png",
-        "icon": "LiImage",
-        "for": "everything",
-        "order": 2
-      }
-    ],
+    "rules": [],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -34,8 +21,8 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconInTitleEnabled": true,
-    "iconInTitlePosition": "inline",
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
@@ -47,17 +34,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
+  "Appunti Z": "LiFolderGit",
   "Appunti Emanuel": "LiFolderPen",
   "Appunti Z/analisi matematica": "LiEqualNot",
+  "Appunti Z/fisica": "LiTriangle",
   "Appunti Z/fondamenti di programmazione": "LiComputer",
   "Appunti Emanuel/Fisica": "LiTriangle",
   "Appunti Emanuel/fondamenti programmazione": "LiNetwork",
   "Appunti Emanuel/matematica": "LiEqualNot",
-  "Appunti Z/analisi matematica/novembre": "LiSnowflake",
-  "Appunti Z/analisi matematica/ottobre": "FasGhost",
-  "Appunti Z/analisi matematica/settembre": "LiSchool",
-  "img": "LiImage",
-  "Appunti Z/esercitazioni": "LiPen",
-  "Appunti Mike": "LiFolderClock",
-  "Appunti Z": "LiFolderHeart"
+  "Appunti Z/fisica/Novembre": "LiGhost"
 }
