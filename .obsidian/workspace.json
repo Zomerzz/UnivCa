@@ -18,6 +18,18 @@
               "icon": "excalidraw-icon",
               "title": "ex 10"
             }
+          },
+          {
+            "id": "a706155f5a3b1138",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali)"
+            }
           }
         ]
       }
@@ -178,12 +190,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "328bde6221ddf25a",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md",
+    "Appunti Z/esercitazioni/ex 10.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 19 11 (integrazione per parti e sostituzione).md",
     "Appunti Z/fisica/novembre/tutoraggio 03 11.md",
     "Appunti Z/fisica/novembre/fisica 29 09.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 23 11.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
     "img/Pasted image 20261122230928.png",
     "img/Pasted image 20261122230919.png",
@@ -193,7 +206,6 @@
     "img/Pasted image 20261122230811.png",
     "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
     "Appunti Emanuel/fondamenti programmazione/23_11_2026 array in allocazione dinamica.md",
-    "Appunti Z/esercitazioni/ex 10.md",
     "Appunti Mike/Analisi 1/TEORIA/LEZIONI/Integrale di Riemann.md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. (a caso).md",
