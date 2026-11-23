@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8e0b2999217750c",
+        "id": "bd8e2f3a372d83b6",
         "type": "tabs",
         "children": [
           {
-            "id": "28c3f331e32439b1",
+            "id": "0714745e93e7118d",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/fisica 20 11 fluidodinamica.m4a"
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 23 11.md"
               },
-              "icon": "lucide-file-audio",
-              "title": "fisica 20 11 fluidodinamica"
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 23 11"
             }
           }
         ]
@@ -31,6 +31,7 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
+        "dimension": 70.84548104956268,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -79,6 +80,7 @@
       {
         "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
+        "dimension": 29.154518950437314,
         "children": [
           {
             "id": "63b486af163b355e",
@@ -94,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -194,14 +197,19 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "group-tabs:Recent tab groups": false,
-      "handwriting-latex:Handwriting to LaTeX": false
+      "handwriting-latex:Handwriting to LaTeX": false,
+      "group-tabs:Recent tab groups": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "0714745e93e7118d",
   "lastOpenFiles": [
-    "Appunti Z/fisica/fisica 20 11 fluidodinamica.m4a",
-    "Appunti Z/fisica/fisica 20 11.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 23 11.md",
+    "Appunti Z/Lavagna esercizzi 1.md",
+    "Appunti Z/Lavagna esercizi 2.md",
+    "Appunti Z/fisica/Senza nome.md",
+    "Appunti Z/fisica/Novembre",
+    "Appunti Z/fisica/Novembre/fisica 20 11 fluidodinamica.m4a",
+    "Appunti Z/fisica/Novembre/fisica 20 11.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
@@ -227,14 +235,10 @@
     "Appunti Z/fisica/ottobre",
     "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-19 15.03.36.excalidraw.md",
-    "Appunti Z/fisica/fisica 19 11.md",
-    "Appunti Emanuel/Fisica/legge di gravitazione universale.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11.md",
     "Appunti Mike/Fondamenti Di Programmazione",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
     "Appunti Mike/Fisica 1/TEORIA",
     "Appunti Mike/Fisica 1/ESERCIZI",
-    "Appunti Mike/Fisica 1",
     "img/Pasted image 20261117224420.png",
     "img/sinx x.png",
     "img/Pasted image 20261114190945.png",
