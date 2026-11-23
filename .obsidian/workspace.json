@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "238ae5ee360cc1d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/fondamenti programmazione/23_11_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "23_11_2026"
+            }
+          },
+          {
             "id": "db0cfc7b86a42d00",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,10 +217,11 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "1cc1a0fc10f87137",
+  "active": "38f4c57ea908ae9c",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
     "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
+    "Appunti Emanuel/fondamenti programmazione/23_11_2026.md",
+    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
     "img/Pasted image 20261122230928.png",
     "img/Pasted image 20261122230919.png",
     "img/Pasted image 20261122230907.png",
@@ -246,7 +259,6 @@
     "Appunti Mike/Analisi 1/Senza nome.md",
     "Appunti Mike/Analisi 1/Untitled.base",
     "Appunti Z/esercitazioni/Senza nome.md",
-    "Appunti Emanuel/Fisica/sistemi a massa variabile.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
