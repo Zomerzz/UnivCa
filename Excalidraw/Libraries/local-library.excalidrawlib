@@ -51,7 +51,8 @@
           "endBinding": null,
           "startArrowhead": null,
           "endArrowhead": "arrow",
-          "elbowed": false
+          "elbowed": false,
+          "hasTextLink": false
         }
       ],
       "created": 1795167418240

@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 23 11.md"
+                "file": "Appunti Z/fisica/Novembre/fisica 20 11 (meccanica dei fluidi).md"
               },
               "icon": "excalidraw-icon",
-              "title": "analisi matematica 23 11"
+              "title": "fisica 20 11 (meccanica dei fluidi)"
             }
           }
         ]
@@ -31,7 +31,7 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
-        "dimension": 70.84548104956268,
+        "dimension": 37.372262773722625,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -80,7 +80,7 @@
       {
         "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
-        "dimension": 29.154518950437314,
+        "dimension": 62.62773722627737,
         "children": [
           {
             "id": "63b486af163b355e",
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469,
-    "collapsed": true
+    "width": 322.8000183105469
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -201,44 +200,44 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "0714745e93e7118d",
+  "active": "63b486af163b355e",
   "lastOpenFiles": [
+    "Appunti Z/fisica/Novembre/fisica 20 11.md",
+    "Appunti Z/fisica/Novembre/fisica 20 11 (meccanica dei fluidi).md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 23 11.md",
-    "Appunti Z/Lavagna esercizzi 1.md",
-    "Appunti Z/Lavagna esercizi 2.md",
-    "Appunti Z/fisica/Senza nome.md",
+    "Appunti Z/fisica/settembre/fisica 29 09 (presentazione del corso).md",
+    "Appunti Z/fisica/settembre",
+    "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
+    "Appunti Z/fisica/ottobre/fisica 27 10 (esercitazione energia cinetica).md",
+    "Appunti Z/fisica/ottobre/Fisica 23 10 (impulso e quantità di moto).md",
+    "Appunti Z/fisica/ottobre/fisica 23 10 (2) (esercizio piano con attrito).md",
+    "Appunti Z/fisica/ottobre/fisica 22 10 (centro di massa).md",
+    "Appunti Z/fisica/ottobre/fisica 20 10 (forze conservative).md",
+    "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md",
+    "Appunti Z/fisica/ottobre/fisica 15 10 (attrito).md",
+    "Appunti Z/fisica/ottobre/fisica 13 10 (terza legge di Newton).md",
+    "Appunti Z/fisica/ottobre/fisica 09 10 (leggi di Newton).md",
+    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
+    "Appunti Z/fisica/ottobre/Fisica 06 10 (moto in 2 e 3 dimensioni).md",
+    "Appunti Z/fisica/ottobre/fisica 06 10 (2) (esercizi tensione, centro di massa e razzo).md",
+    "Appunti Z/fisica/ottobre/fisica 02 10 (esercizi di cinematica 1D).md",
+    "Appunti Z/fisica/ottobre/FIsica 01 10 (moto rettilineo uniforme).md",
+    "Appunti Z/fisica/ottobre",
+    "Appunti Z/fisica/Novembre/fisica 19 11 (gravitazione).md",
+    "Appunti Z/fisica/Novembre/fisica 17 11 (equilibrio).md",
+    "Appunti Z/fisica/Novembre/fisica 05 11 (momento torcente e momento angolare).md",
+    "Appunti Z/fisica/Novembre/fisica 03 11 (rotolamento).md",
+    "Appunti Z/esercitazioni/ex8 (integrali per sostituzione e per parti).md",
+    "Appunti Z/esercitazioni/ex 9.md",
+    "Appunti Z/esercitazioni/ex 7 (energia e molla).md",
     "Appunti Z/fisica/Novembre",
     "Appunti Z/fisica/Novembre/fisica 20 11 fluidodinamica.m4a",
-    "Appunti Z/fisica/Novembre/fisica 20 11.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Appunti Emanuel/Fisica/meccanica dei fluidi 20_11_2026.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 19 11.md",
-    "Appunti Z/fisica/ottobre/tutoring 16 10.md",
-    "Appunti Z/fisica/ottobre/tutoring 02 10.md",
-    "Appunti Z/fisica/ottobre/fisica 29 10.md",
-    "Appunti Z/fisica/ottobre/fisica 27 10.md",
-    "Appunti Z/fisica/ottobre/fisica 23 10 (2).md",
-    "Appunti Z/fisica/ottobre/fisica 22 10.md",
-    "Appunti Z/fisica/ottobre/fisica 20 10.md",
-    "Appunti Z/fisica/ottobre/fisica 16 10.md",
-    "Appunti Z/fisica/ottobre/fisica 15 10.md",
-    "Appunti Z/fisica/ottobre/Fisica 23 10.md",
-    "Appunti Z/fisica/ottobre/fisica 13 10.md",
-    "Appunti Z/fisica/ottobre/fisica 09 10.md",
-    "Appunti Z/fisica/ottobre/fisica 08 10.md",
-    "Appunti Z/fisica/ottobre/Fisica 06 10.md",
-    "Appunti Z/fisica/ottobre/fisica 06 10 (2).md",
-    "Appunti Z/fisica/ottobre/fisica 02 10.md",
-    "Appunti Z/fisica/ottobre/FIsica 01 10.md",
-    "Appunti Z/fisica/ottobre",
-    "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
-    "Appunti Emanuel/matematica/Drawing 2026-11-19 15.03.36.excalidraw.md",
     "Appunti Mike/Fondamenti Di Programmazione",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
     "Appunti Mike/Fisica 1/TEORIA",
-    "Appunti Mike/Fisica 1/ESERCIZI",
     "img/Pasted image 20261117224420.png",
     "img/sinx x.png",
     "img/Pasted image 20261114190945.png",
