@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b25079e9c1dcfcdb",
+        "id": "bd8e2f3a372d83b6",
         "type": "tabs",
         "children": [
           {
-            "id": "ab4b5aede7309eb2",
+            "id": "0714745e93e7118d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
+                "file": "Appunti Z/fisica/Novembre/fisica 20 11 (meccanica dei fluidi).md"
               },
               "icon": "excalidraw-icon",
               "title": "18_11_2026 proseguo integrali, primitiva"
@@ -68,7 +68,7 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
-        "dimension": 58.94346617238183,
+        "dimension": 37.372262773722625,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -101,13 +101,23 @@
               "icon": "lucide-search",
               "title": "Ricerca"
             }
+          },
+          {
+            "id": "97b7f7bd556932fd",
+            "type": "leaf",
+            "state": {
+              "type": "group-tabs-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "Recent tab groups"
+            }
           }
         ]
       },
       {
         "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
-        "dimension": 41.05653382761816,
+        "dimension": 62.62773722627737,
         "children": [
           {
             "id": "63b486af163b355e",
@@ -123,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.61106872558594
+    "width": 322.8000183105469
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -195,9 +205,19 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
+          },
+          {
+            "id": "acbaa2d64a7c58d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,7 +226,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
@@ -214,6 +233,7 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
+      "handwriting-latex:Handwriting to LaTeX": false,
       "group-tabs:Recent tab groups": false
     }
   },
@@ -246,8 +266,9 @@
     "Appunti Z/fisica/novembre/tutoraggio 03 11 (centro di massa e impulso).md",
     "Appunti Z/fisica/settembre",
     "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
-    "Appunti Z/fisica/novembre",
-    "Appunti Z/fisica/ottobre/tutoring 02 10 (vettori).md",
+    "Appunti Z/fisica/ottobre/fisica 27 10 (esercitazione energia cinetica).md",
+    "Appunti Z/fisica/ottobre/Fisica 23 10 (impulso e quantità di moto).md",
+    "Appunti Z/fisica/ottobre/fisica 23 10 (2) (esercizio piano con attrito).md",
     "Appunti Z/fisica/ottobre/fisica 22 10 (centro di massa).md",
     "Appunti Z/fisica/ottobre/fisica 20 10 (forze conservative).md",
     "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
@@ -262,8 +283,18 @@
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
-    "Appunti Mike/Fondamenti Di Programmazione"
+    "Appunti Mike/Fondamenti Di Programmazione",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
+    "Appunti Mike/Fisica 1/TEORIA",
+    "img/Pasted image 20261117224420.png",
+    "img/sinx x.png",
+    "img/Pasted image 20261114190945.png",
+    "img/Pasted image 20261114183350.png",
+    "img/Pasted image 20261114182759.png",
+    "img/Pasted Image 20261020191216_282.png",
+    "img/Pasted Image 20261018213224_364.png",
+    "img/Pasted Image 20261018193019_807.png",
+    "img/Pasted image 20261018185805.png",
+    "img/Pasted image 20261018174952.png"
   ]
 }
