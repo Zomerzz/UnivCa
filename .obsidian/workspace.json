@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "fisica 16 10 (lavoro)"
             }
+          },
+          {
+            "id": "2dd4b9ae6e8f75f7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/fisica/Novembre/fisica 24 11.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fisica 24 11"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +44,7 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
-        "dimension": 37.372262773722625,
+        "dimension": 64.23357664233576,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -80,7 +93,7 @@
       {
         "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
-        "dimension": 62.62773722627737,
+        "dimension": 35.76642335766424,
         "children": [
           {
             "id": "63b486af163b355e",
@@ -96,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -200,8 +214,10 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "0714745e93e7118d",
+  "active": "2dd4b9ae6e8f75f7",
   "lastOpenFiles": [
+    "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md",
+    "Appunti Z/fisica/Novembre/fisica 24 11.md",
     "Appunti Z/esercitazioni/ex 10.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md",
     "Appunti Z/fisica/Novembre/fisica 20 11 (meccanica dei fluidi).md",
@@ -216,7 +232,6 @@
     "Appunti Z/fisica/ottobre/fisica 23 10 (2) (esercizio piano con attrito).md",
     "Appunti Z/fisica/ottobre/fisica 22 10 (centro di massa).md",
     "Appunti Z/fisica/ottobre/fisica 20 10 (forze conservative).md",
-    "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md",
     "Appunti Z/fisica/ottobre/fisica 15 10 (attrito).md",
     "Appunti Z/fisica/ottobre/fisica 13 10 (terza legge di Newton).md",
     "Appunti Z/fisica/ottobre/fisica 09 10 (leggi di Newton).md",
@@ -229,7 +244,6 @@
     "Appunti Z/fisica/Novembre/fisica 19 11 (gravitazione).md",
     "Appunti Z/fisica/Novembre/fisica 17 11 (equilibrio).md",
     "Appunti Z/fisica/Novembre/fisica 05 11 (momento torcente e momento angolare).md",
-    "Appunti Z/fisica/Novembre/fisica 03 11 (rotolamento).md",
     "Appunti Z/fisica/Novembre",
     "Appunti Z/fisica/Novembre/fisica 20 11 fluidodinamica.m4a",
     "Excalidraw/Libraries/local-library.excalidrawlib",
