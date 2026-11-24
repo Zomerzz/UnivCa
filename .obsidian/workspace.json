@@ -4,19 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "bd8e2f3a372d83b6",
+        "id": "b25079e9c1dcfcdb",
         "type": "tabs",
         "children": [
           {
-            "id": "0714745e93e7118d",
+            "id": "ab4b5aede7309eb2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md"
+                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
               },
               "icon": "excalidraw-icon",
-              "title": "fisica 16 10 (lavoro)"
+              "title": "18_11_2026 proseguo integrali, primitiva"
+            }
+          },
+          {
+            "id": "1cc1a0fc10f87137",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "23_11_2026 Integrali delle funzioni razionali fratte"
+            }
+          },
+          {
+            "id": "238ae5ee360cc1d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/matematica/ultima parte integrazione per parti.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ultima parte integrazione per parti"
+            }
+          },
+          {
+            "id": "db0cfc7b86a42d00",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 18 11 (primitive, sostituzione e per parti)"
             }
           }
         ]
@@ -31,7 +67,7 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
-        "dimension": 37.372262773722625,
+        "dimension": 58.94346617238183,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -64,23 +100,13 @@
               "icon": "lucide-search",
               "title": "Ricerca"
             }
-          },
-          {
-            "id": "97b7f7bd556932fd",
-            "type": "leaf",
-            "state": {
-              "type": "group-tabs-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "Recent tab groups"
-            }
           }
         ]
       },
       {
         "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
-        "dimension": 62.62773722627737,
+        "dimension": 41.05653382761816,
         "children": [
           {
             "id": "63b486af163b355e",
@@ -96,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 486.61106872558594
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -168,19 +194,9 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
-          },
-          {
-            "id": "acbaa2d64a7c58d8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,6 +205,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
@@ -196,57 +213,56 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "handwriting-latex:Handwriting to LaTeX": false,
       "group-tabs:Recent tab groups": false
     }
   },
   "active": "0714745e93e7118d",
   "lastOpenFiles": [
-    "Appunti Z/fisica/Novembre/fisica 20 11 (meccanica dei fluidi).md",
+    "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
+    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
+    "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
     "Appunti Emanuel/fondamenti programmazione/23_11_2026 array in allocazione dinamica.md",
-    "Appunti Z/fisica/Novembre/fisica 20 11.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 23 11.md",
-    "Appunti Z/fisica/settembre/fisica 29 09 (presentazione del corso).md",
+    "Appunti Z/fisica/novembre/tutoraggio 03 11.md",
+    "Appunti Z/fisica/novembre/fisica 29 09.md",
+    "Appunti Z/esercitazioni/ex 10.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md",
+    "img/Pasted image 20261122230928.png",
+    "img/Pasted image 20261122230919.png",
+    "img/Pasted image 20261122230907.png",
+    "img/Pasted image 20261122230842.png",
+    "img/Pasted image 20261122230826.png",
+    "img/Pasted image 20261122230811.png",
+    "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
+    "img/Pasted image 20261122162733.png",
+    "Appunti Z/esercitazioni/ex 9.md",
+    "img/Pasted image 20261122010829.png",
+    "img/Pasted image 20261122010821.png",
+    "img/Pasted image 20261121175456.png",
+    "Appunti Z/fisica/- pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 19 11 (integrazione per parti e sostituzione).md",
+    "Appunti Z/fisica/novembre/fisica 03 11 (rotolamento).md",
+    "Appunti Z/fisica/novembre/fisica 05 11 (momento torcente e momento angolare).md",
+    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
+    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
+    "Appunti Z/esercitazioni/Lavagna esercizzi 1 (cinematica e moto circolare).md",
+    "Appunti Z/esercitazioni/Lavagna esercizi 2 (limite notevole sen x su x).md",
+    "Appunti Z/fisica/novembre/tutoraggio 03 11 (centro di massa e impulso).md",
     "Appunti Z/fisica/settembre",
     "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
-    "Appunti Z/fisica/ottobre/fisica 27 10 (esercitazione energia cinetica).md",
-    "Appunti Z/fisica/ottobre/Fisica 23 10 (impulso e quantità di moto).md",
-    "Appunti Z/fisica/ottobre/fisica 23 10 (2) (esercizio piano con attrito).md",
+    "Appunti Z/fisica/novembre",
+    "Appunti Z/fisica/ottobre/tutoring 02 10 (vettori).md",
     "Appunti Z/fisica/ottobre/fisica 22 10 (centro di massa).md",
     "Appunti Z/fisica/ottobre/fisica 20 10 (forze conservative).md",
-    "Appunti Z/fisica/ottobre/fisica 16 10 (lavoro).md",
-    "Appunti Z/fisica/ottobre/fisica 15 10 (attrito).md",
-    "Appunti Z/fisica/ottobre/fisica 13 10 (terza legge di Newton).md",
-    "Appunti Z/fisica/ottobre/fisica 09 10 (leggi di Newton).md",
-    "Appunti Z/fisica/ottobre/fisica 08 10 (moto circolare uniforme).md",
-    "Appunti Z/fisica/ottobre/Fisica 06 10 (moto in 2 e 3 dimensioni).md",
-    "Appunti Z/fisica/ottobre/fisica 06 10 (2) (esercizi tensione, centro di massa e razzo).md",
-    "Appunti Z/fisica/ottobre/fisica 02 10 (esercizi di cinematica 1D).md",
-    "Appunti Z/fisica/ottobre/FIsica 01 10 (moto rettilineo uniforme).md",
-    "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica/Novembre/fisica 19 11 (gravitazione).md",
-    "Appunti Z/fisica/Novembre/fisica 17 11 (equilibrio).md",
-    "Appunti Z/fisica/Novembre/fisica 05 11 (momento torcente e momento angolare).md",
-    "Appunti Z/fisica/Novembre/fisica 03 11 (rotolamento).md",
-    "Appunti Z/esercitazioni/ex8 (integrali per sostituzione e per parti).md",
-    "Appunti Z/esercitazioni/ex 9.md",
-    "Appunti Z/fisica/Novembre",
-    "Appunti Z/fisica/Novembre/fisica 20 11 fluidodinamica.m4a",
+    "Appunti Emanuel/Fisica/lezione del razzo centro di massa.md",
+    "Appunti Emanuel/Fisica/Drawing 2026-11-05 10.41.40.excalidraw.md",
+    "Appunti Emanuel/Fisica/esercitazione 27_10_2026.md",
+    "Appunti Mike/Analisi 1/Untitled.base",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Appunti Mike/Fondamenti Di Programmazione",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI",
-    "Appunti Mike/Fisica 1/TEORIA",
-    "img/Pasted image 20261117224420.png",
-    "img/sinx x.png",
-    "img/Pasted image 20261114190945.png",
-    "img/Pasted image 20261114183350.png",
-    "img/Pasted image 20261114182759.png",
-    "img/Pasted Image 20261020191216_282.png",
-    "img/Pasted Image 20261018213224_364.png",
-    "img/Pasted Image 20261018193019_807.png",
-    "img/Pasted image 20261018185805.png",
-    "img/Pasted image 20261018174952.png"
+    "Appunti Z/fisica/ottobre",
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
+    "Appunti Mike/Fondamenti Di Programmazione"
   ]
 }
