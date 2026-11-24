@@ -8,19 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14e5880d7d096d23",
+            "id": "2fc29c10dafeeae7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md"
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 24 11 ( integrali generalizzati).md"
               },
               "icon": "excalidraw-icon",
-              "title": "analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali)"
+              "title": "analisi matematica 24 11 ( integrali generalizzati)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.61106872558594,
-    "collapsed": true
+    "width": 486.61106872558594
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -182,22 +180,15 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "58a53a9e490cc707",
+  "active": "2fc29c10dafeeae7",
   "lastOpenFiles": [
+    "Appunti Z/fisica/novembre/fisica 24 11 ( fluido cinetica ).md",
+    "Appunti Z/fisica/settembre/fisica 29 09.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 24 11 ( integrali generalizzati).md",
-    "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
     "Appunti Emanuel/matematica/24_11_2026 Integrali generalizzati.md",
-    "Appunti Emanuel/matematica/24_11_2026.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 24 11 ( integrali generalizzati).md",
-    "Appunti Z/fisica/Novembre/fisica 24 11 ( fluido cinetica ).md",
-    "Appunti Z/fisica/Novembre/fisica 20 11 fluidodinamica.m4a",
+    "Appunti Emanuel/Fisica/Flusso Fluidodinamica 24_11_2026.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
     "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
-    "Appunti Emanuel/Fisica/Flusso Fluidodinamica 24_11_2026.md",
-    "Appunti Z/fisica/novembre/fisica 24 11.md",
-    "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
-    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
     "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
     "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
@@ -228,12 +219,14 @@
     "Appunti Z/esercitazioni/Lavagna esercizi 2 (limite notevole sen x su x).md",
     "Appunti Z/fisica/novembre/tutoraggio 03 11 (centro di massa e impulso).md",
     "Appunti Z/fisica/settembre",
+    "Appunti Z/fisica/ottobre/fisica 29 10 (cinematica rotazionale).md",
     "Appunti Z/fisica/novembre",
     "Appunti Mike/Analisi 1/Untitled.base",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
     "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf"
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
+    "Appunti Mike/Fondamenti Di Programmazione"
   ]
 }
