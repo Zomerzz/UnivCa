@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab4b5aede7309eb2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18_11_2026 proseguo integrali, primitiva"
-            }
-          },
-          {
-            "id": "1cc1a0fc10f87137",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "23_11_2026 Integrali delle funzioni razionali fratte"
-            }
-          },
-          {
-            "id": "238ae5ee360cc1d2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/ultima parte integrazione per parti.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ultima parte integrazione per parti"
-            }
-          },
-          {
             "id": "14e5880d7d096d23",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md"
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md"
               },
               "icon": "excalidraw-icon",
-              "title": "23_11_2026 Integrali delle funzioni razionali fratte"
-            }
-          },
-          {
-            "id": "db0cfc7b86a42d00",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "analisi matematica 18 11 (primitive, sostituzione e per parti)"
+              "title": "analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,13 +182,14 @@
   },
   "active": "14e5880d7d096d23",
   "lastOpenFiles": [
-    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
-    "Appunti Emanuel/Fisica/Flusso Fluidodinamica 24_11_2026.md",
-    "Appunti Z/fisica/settembre/fisica 29 09.md",
-    "Appunti Z/fisica/novembre/fisica 24 11 ( fluido cinetica ).md",
-    "Appunti Z/fisica/novembre/fisica 24 11.md",
+    "Appunti Z/fisica/Novembre/fisica 24 11 ( fluido cinetica ).md",
+    "Appunti Z/fisica/Novembre/fisica 20 11 fluidodinamica.m4a",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
     "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
+    "Appunti Emanuel/Fisica/Flusso Fluidodinamica 24_11_2026.md",
+    "Appunti Z/fisica/novembre/fisica 24 11.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
+    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
     "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
     "Appunti Emanuel/fondamenti programmazione/23_11_2026 array in allocazione dinamica.md",
     "Appunti Z/fisica/novembre/tutoraggio 03 11.md",
@@ -257,7 +209,6 @@
     "img/Pasted image 20261122010821.png",
     "img/Pasted image 20261121175456.png",
     "Appunti Z/fisica/- pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 19 11 (integrazione per parti e sostituzione).md",
     "Appunti Z/fisica/novembre/fisica 03 11 (rotolamento).md",
     "Appunti Z/fisica/novembre/fisica 05 11 (momento torcente e momento angolare).md",
@@ -275,7 +226,6 @@
     "Excalidraw/Libraries",
     "Excalidraw",
     "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
-    "Appunti Mike/Fondamenti Di Programmazione"
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf"
   ]
 }
