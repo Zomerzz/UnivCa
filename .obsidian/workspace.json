@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6140dc622228c355",
+        "id": "42b0f887b7e5cc38",
         "type": "tabs",
         "children": [
           {
-            "id": "bea170a161a55ba9",
+            "id": "bde75e4cb601ba36",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md"
+                "file": "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md"
               },
               "icon": "excalidraw-icon",
-              "title": "29_10_2026 funzioni"
+              "title": "Es. Integrali"
             }
           }
         ]
@@ -178,8 +178,9 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "bea170a161a55ba9",
+  "active": "bde75e4cb601ba36",
   "lastOpenFiles": [
+    "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
     "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
     "Appunti Emanuel/fondamenti programmazione/23_10_2026 le funzioni.md",
     "Appunti Emanuel/fondamenti programmazione/22_10_2026 Array e puntatori.md",
@@ -206,7 +207,6 @@
     "Appunti Z/analisi matematica/novembre/analisi matematica 19 11 (integrazione per parti e sostituzione).md",
     "Appunti Z/fisica/novembre/tutoraggio 03 11.md",
     "Appunti Z/fisica/novembre/fisica 29 09.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
     "img/Pasted image 20261122230928.png",
     "img/Pasted image 20261122230919.png",
     "img/Pasted image 20261122230907.png",
