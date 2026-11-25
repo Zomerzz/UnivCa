@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/esercitazioni/Drawing 2026-11-25 14.57.48.excalidraw.md"
+                "file": "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-25 14.57.48.excalidraw"
+              "title": "Es. Integrali"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora file"
+              "title": "Files"
             }
           },
           {
@@ -167,9 +167,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Apri riquadro comandi": false,
-      "audio-recorder:Avvia/ferma registrazione": false,
-      "bases:Crea nuova Base": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
       "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
       "omnisearch:Omnisearch": false,
