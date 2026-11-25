@@ -18,6 +18,18 @@
               "icon": "excalidraw-icon",
               "title": "Es. Integrali"
             }
+          },
+          {
+            "id": "95483d062b1dd442",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali)"
+            }
           }
         ]
       }
@@ -84,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -180,8 +193,8 @@
   },
   "active": "5b68dbce1c469e82",
   "lastOpenFiles": [
-    "Appunti Z/esercitazioni/Drawing 2026-11-25 14.57.48.excalidraw.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md",
+    "Appunti Z/esercitazioni/Drawing 2026-11-25 14.57.48.excalidraw.md",
     "Appunti Z/esercitazioni/ex 10.md",
     "Appunti Z/fisica/settembre/fisica 29 09.md",
     "Appunti Z/fisica/novembre/fisica 24 11 ( fluido cinetica ).md",
