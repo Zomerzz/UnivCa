@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "42b0f887b7e5cc38",
+        "id": "5b2e41510c366c2f",
         "type": "tabs",
         "children": [
           {
-            "id": "bde75e4cb601ba36",
+            "id": "a22e06df4a5870c5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md"
+                "file": "Appunti Z/esercitazioni/Drawing 2026-11-25 14.57.48.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Es. Integrali"
+              "title": "Drawing 2026-11-25 14.57.48.excalidraw"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora file"
             }
           },
           {
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 322.8000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -167,9 +168,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "bases:Crea nuova Base": false,
       "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
       "omnisearch:Omnisearch": false,
@@ -178,8 +179,9 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "bde75e4cb601ba36",
+  "active": "a22e06df4a5870c5",
   "lastOpenFiles": [
+    "Appunti Z/esercitazioni/ex 10.md",
     "Appunti Emanuel/fondamenti programmazione/29_10_2026 funzioni.md",
     "Appunti Emanuel/fondamenti programmazione/16_11_26.md",
     "Appunti Emanuel/fondamenti programmazione/23_10_2026 le funzioni.md",
@@ -198,7 +200,6 @@
     "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md",
     "Appunti Z/esercitazioni/Drawing 2026-11-25 14.57.48.excalidraw.md",
     "img/Pasted image 20261125154119.png",
-    "Appunti Z/esercitazioni/ex 10.md",
     "Appunti Z/fisica/settembre/fisica 29 09.md",
     "Appunti Z/fisica/novembre/fisica 24 11 ( fluido cinetica ).md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 24 11 ( integrali generalizzati).md",
