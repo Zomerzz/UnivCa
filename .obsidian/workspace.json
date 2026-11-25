@@ -11,10 +11,12 @@
             "id": "5b68dbce1c469e82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Es. Integrali"
             }
           }
         ]
