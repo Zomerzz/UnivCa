@@ -85,10 +85,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/Equazioni differenziali ordinarie primordine.md"
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Equazioni differenziali ordinarie primordine"
+              "title": "analisi matematica 26 11 (equazioni differenziali di primo ordine)"
             }
           },
           {
@@ -265,13 +265,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "a22e06df4a5870c5",
+  "active": "71cabf3cc476bcd0",
   "lastOpenFiles": [
+    "Appunti Emanuel/matematica/Equazioni differenziali ordinarie primordine.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).html",
     "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md",
     "Appunti Z/esercitazioni/ex 11.md",
     "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
-    "Appunti Emanuel/matematica/Equazioni differenziali ordinarie primordine.md",
     "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
     "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
     "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
@@ -311,7 +311,6 @@
     "Excalidraw/Libraries",
     "Excalidraw",
     "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
-    "Appunti Mike/Fondamenti Di Programmazione"
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf"
   ]
 }
