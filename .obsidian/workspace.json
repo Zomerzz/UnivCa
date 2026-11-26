@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "ex 11"
             }
+          },
+          {
+            "id": "dc5a6319fe3680ca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 26 11 (equazioni differenziali di primo ordine)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.2751007080078
+    "width": 263.2751007080078,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -180,8 +194,10 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "dc5a6319fe3680ca",
   "lastOpenFiles": [
+    "Appunti Z/esercitazioni/ex 11.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md",
     "Appunti Z/esercitazioni/ex 10.md",
     "Appunti Z/esercitazioni/ex 9.md",
     "Appunti Z/esercitazioni/ex8 (integrali per sostituzione e per parti).md",
@@ -190,7 +206,6 @@
     "Appunti Z/analisi matematica/novembre/analisi matematica 24 11 ( integrali generalizzati).md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md",
     "img/Pasted image 20261125154119.png",
-    "Appunti Z/esercitazioni/ex 11.md",
     "Appunti Emanuel/matematica/24_11_2026 Integrali generalizzati.md",
     "Appunti Emanuel/matematica/24_11_2026.md",
     "Appunti Z/fisica/Novembre/fisica 24 11 ( fluido cinetica ).md",
@@ -219,7 +234,6 @@
     "Appunti Z/analisi matematica/novembre/analisi matematica 19 11 (integrazione per parti e sostituzione).md",
     "Appunti Z/fisica/novembre/fisica 03 11 (rotolamento).md",
     "Appunti Z/fisica/novembre/fisica 05 11 (momento torcente e momento angolare).md",
-    "Appunti Emanuel/Fisica/Sunto moto rotazionale angolare torcente e inerzia.md",
     "Appunti Z/fisica/settembre",
     "Appunti Z/fisica/novembre",
     "Appunti Mike/Analisi 1/Untitled.base",
