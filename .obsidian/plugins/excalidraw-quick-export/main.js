@@ -11,18 +11,19 @@
 const { Plugin, Notice, TFile, normalizePath, PluginSettingTab, Setting, requestUrl } = require("obsidian");
 
 /*
- * Handwriting -> LaTeX (SimpleTex)
+ * Handwriting -> LaTeX (Google Gemini, free tier)
  * Select a handwritten formula in an open drawing and run "Convert selected handwriting to LaTeX": the selection is
- * rendered black-on-white, sent to SimpleTex's formula OCR, and a typed LaTeX formula is placed where the handwriting
- * was, scaled to the same height. The handwriting is kept (invisible and locked) under the formula; "Restore
- * handwriting" on a selected formula brings it back and removes the formula.
- * The SimpleTex token lives in this plugin's data.json, which is git-ignored so obsidian-git never pushes it.
+ * rendered black-on-white, sent to Gemini with a "return only LaTeX" prompt, and a typed LaTeX formula is placed where
+ * the handwriting was, scaled to the same height. The handwriting is kept (invisible and locked) under the formula;
+ * "Restore handwriting" on a selected formula brings it back and removes the formula.
+ * The Gemini key lives in this plugin's data.json, which is git-ignored so obsidian-git never pushes it.
  */
-const OCR_ENDPOINTS = {
-  standard: "https://server.simpletex.cn/api/latex_ocr",
-  turbo: "https://server.simpletex.cn/api/latex_ocr_turbo",
-};
-const DEFAULT_SETTINGS = { simpletexToken: "", ocrModel: "standard" };
+const GEMINI_URL = (model) => `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
+const OCR_PROMPT =
+  "Transcribe the handwritten mathematics in this image into LaTeX. Return ONLY the LaTeX source: no $ or \\[ delimiters, " +
+  "no markdown code fences, no explanation. Keep exactly what is written (do not solve or simplify). If there are " +
+  "several lines, put them in \\begin{aligned} ... \\end{aligned} separated by \\\\. Italian words stay as \\text{...}.";
+const DEFAULT_SETTINGS = { geminiKey: "", geminiModel: "gemini-flash-latest" };
 
 const EXCALIDRAW_ID = "obsidian-excalidraw-plugin";
 const FORMATS = [
@@ -102,8 +103,8 @@ module.exports = class ExcalidrawQuickExport extends Plugin {
   }
 
   async convertSelection() {
-    if (!this.settings.simpletexToken) {
-      new Notice("Add your SimpleTex token first: Settings → Excalidraw Quick Export.", 8000);
+    if (!this.settings.geminiKey) {
+      new Notice("Add your Gemini API key first: Settings → Excalidraw Quick Export.", 8000);
       return;
     }
     const ea = this.activeEA();
@@ -112,16 +113,24 @@ module.exports = class ExcalidrawQuickExport extends Plugin {
       new Notice("Select the handwritten formula first (lasso or drag a box around it).");
       return;
     }
-    const notice = new Notice("Reading the handwriting…", 0);
+    const notice = new Notice("1/3 Rendering the selection…", 0);
+    const step = (t) => notice.setMessage(t);
+    const timeout = (p, s, what) =>
+      Promise.race([p, new Promise((_, rej) => setTimeout(() => rej(new Error(`${what} took more than ${s} s`)), s * 1000))]);
     try {
-      const png = await this.renderForOCR(sel);
-      const latex = await this.simpletex(png);
-      if (!latex) throw new Error("SimpleTex found no formula in the selection");
-      await this.placeFormula(sel, latex);
+      const png = await timeout(this.renderForOCR(sel), 25, "rendering the selection");
+      console.log("[excalidraw-quick-export] PNG bytes", png.length);
+      step("2/3 Asking Gemini…");
+      const latex = await timeout(this.gemini(png), 60, "Gemini");
+      console.log("[excalidraw-quick-export] LaTeX", latex);
+      if (!latex) throw new Error("Gemini found no formula in the selection");
+      step("3/3 Placing the formula…");
+      await timeout(this.placeFormula(sel, latex), 25, "placing the formula");
       new Notice(`LaTeX: ${latex}`, 6000);
     } catch (e) {
       console.error("[excalidraw-quick-export] OCR", e);
-      new Notice(`Conversion failed: ${e && e.message ? e.message : e}`, 8000);
+      await this.log(`convert failed: ${e && e.message ? e.message : e}`);
+      new Notice(`Conversion failed: ${e && e.message ? e.message : e}`, 20000);
     } finally {
       notice.hide();
     }
@@ -137,28 +146,61 @@ module.exports = class ExcalidrawQuickExport extends Plugin {
       el.opacity = 100;
     }
     r.canvas.viewBackgroundColor = "#FFFFFF";
-    let png = await r.createPNG(undefined, 2, { withBackground: true, withTheme: false, isMask: false }, undefined, "light", 16);
-    if (typeof png === "string") png = await (await fetch(png)).blob();
-    if (!png || !png.arrayBuffer) throw new Error("could not render the selection");
-    return new Uint8Array(await png.arrayBuffer());
+    // vector first (the same path the SVG export uses), then rasterised here: white background, 2x, max 2000 px
+    const svg = await r.createSVG(undefined, false, { withBackground: true, withTheme: false }, undefined, "light", 16);
+    if (!svg) throw new Error("could not render the selection");
+    const w = parseFloat(svg.getAttribute("width")) || 800;
+    const h = parseFloat(svg.getAttribute("height")) || 200;
+    const scale = Math.min(2, 2000 / Math.max(w, h));
+    const url = URL.createObjectURL(new Blob([new XMLSerializer().serializeToString(svg)], { type: "image/svg+xml" }));
+    try {
+      const img = await new Promise((ok, ko) => {
+        const i = new Image();
+        i.onload = () => ok(i);
+        i.onerror = () => ko(new Error("could not rasterise the selection"));
+        i.src = url;
+      });
+      const c = document.createElement("canvas");
+      c.width = Math.ceil(w * scale);
+      c.height = Math.ceil(h * scale);
+      const ctx = c.getContext("2d");
+      ctx.fillStyle = "#ffffff";
+      ctx.fillRect(0, 0, c.width, c.height);
+      ctx.drawImage(img, 0, 0, c.width, c.height);
+      const blob = await new Promise((ok) => c.toBlob(ok, "image/png"));
+      if (!blob) throw new Error("could not encode the selection");
+      return new Uint8Array(await blob.arrayBuffer());
+    } finally {
+      URL.revokeObjectURL(url);
+    }
   }
 
-  async simpletex(pngBytes) {
-    const boundary = "----zqe" + Date.now().toString(16);
-    const enc = new TextEncoder();
-    const head = enc.encode(
-      `--${boundary}\r\nContent-Disposition: form-data; name="file"; filename="formula.png"\r\nContent-Type: image/png\r\n\r\n`
-    );
-    const tail = enc.encode(`\r\n--${boundary}--\r\n`);
-    const body = new Uint8Array(head.length + pngBytes.length + tail.length);
-    body.set(head, 0);
-    body.set(pngBytes, head.length);
-    body.set(tail, head.length + pngBytes.length);
+  // debug log next to the plugin (status codes and errors only, never the key); git-ignored
+  async log(line) {
+    try {
+      const p = `${this.manifest.dir}/debug.log`;
+      const a = this.app.vault.adapter;
+      const old = (await a.exists(p)) ? await a.read(p) : "";
+      await a.write(p, (old + `${new Date().toISOString()} ${line}\n`).slice(-20000));
+    } catch (e) {
+      /* logging must never break the command */
+    }
+  }
+
+  async gemini(pngBytes) {
+    const t0 = Date.now();
+    await this.log(`gemini request: model=${this.settings.geminiModel} png=${pngBytes.length}B`);
+    let bin = "";
+    for (let i = 0; i < pngBytes.length; i += 0x8000) bin += String.fromCharCode.apply(null, pngBytes.subarray(i, i + 0x8000));
     const res = await requestUrl({
-      url: OCR_ENDPOINTS[this.settings.ocrModel] || OCR_ENDPOINTS.standard,
+      url: GEMINI_URL(this.settings.geminiModel || DEFAULT_SETTINGS.geminiModel),
       method: "POST",
-      headers: { token: this.settings.simpletexToken, "Content-Type": `multipart/form-data; boundary=${boundary}` },
-      body: body.buffer,
+      // key in a header, never in the URL
+      headers: { "x-goog-api-key": this.settings.geminiKey, "Content-Type": "application/json" },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: OCR_PROMPT }, { inline_data: { mime_type: "image/png", data: btoa(bin) } }] }],
+        generationConfig: { temperature: 0 },
+      }),
       throw: false,
     });
     let json = null;
@@ -167,12 +209,16 @@ module.exports = class ExcalidrawQuickExport extends Plugin {
     } catch (e) {
       /* not JSON */
     }
-    if (res.status !== 200 || !json || json.status === false) {
-      const why = json && (json.err_info?.err_msg || json.message || json.msg || JSON.stringify(json).slice(0, 160));
-      throw new Error(`SimpleTex ${res.status}${why ? ": " + why : ""}`);
+    await this.log(`gemini response: status=${res.status} in ${Date.now() - t0} ms body=${String(res.text || "").slice(0, 600).replace(/\s+/g, " ")}`);
+    if (res.status !== 200 || !json) {
+      const why = json && json.error ? json.error.message : "";
+      throw new Error(`Gemini ${res.status}${why ? ": " + why.slice(0, 200) : ""}`);
     }
-    const latex = json.res?.latex ?? json.res?.info ?? json.latex ?? "";
-    return String(latex).trim().replace(/^\$\$?|\$\$?$/g, "").trim();
+    const parts = (json.candidates && json.candidates[0] && json.candidates[0].content && json.candidates[0].content.parts) || [];
+    let latex = parts.map((p) => p.text || "").join("").trim();
+    latex = latex.replace(/^```[a-z]*\s*|\s*```$/gi, "").trim(); // stray code fences
+    latex = latex.replace(/^\\\[|\\\]$/g, "").replace(/^\$\$?|\$\$?$/g, "").trim(); // stray delimiters
+    return latex;
   }
 
   async placeFormula(sel, latex) {
@@ -348,32 +394,31 @@ class QuickExportSettings extends PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    containerEl.createEl("h3", { text: "Handwriting → LaTeX (SimpleTex)" });
+    containerEl.createEl("h3", { text: "Handwriting → LaTeX (Google Gemini)" });
     containerEl.createEl("p", {
-      text: "Get a free token at simpletex.cn → user centre → API / UAT token. It is stored only in this vault's plugin data (git-ignored).",
+      text: "Free key: aistudio.google.com → Get API key → Create API key. It is stored only in this vault's plugin data (git-ignored, never pushed).",
     });
     new Setting(containerEl)
-      .setName("SimpleTex token")
+      .setName("Gemini API key")
       .setDesc("Used to read handwritten formulas.")
       .addText((t) => {
         t.inputEl.type = "password";
-        t.setPlaceholder("paste your token")
-          .setValue(this.plugin.settings.simpletexToken)
+        t.setPlaceholder("paste your key")
+          .setValue(this.plugin.settings.geminiKey)
           .onChange(async (v) => {
-            this.plugin.settings.simpletexToken = v.trim();
+            this.plugin.settings.geminiKey = v.trim();
             await this.plugin.saveData(this.plugin.settings);
           });
       });
     new Setting(containerEl)
-      .setName("Recognition model")
-      .setDesc("Standard is more accurate on handwriting; Turbo is faster.")
-      .addDropdown((d) =>
-        d
-          .addOption("standard", "Standard")
-          .addOption("turbo", "Turbo")
-          .setValue(this.plugin.settings.ocrModel)
+      .setName("Gemini model")
+      .setDesc("Default gemini-flash-latest (free tier, always the current Flash). Change only if Google retires the name.")
+      .addText((t) =>
+        t
+          .setPlaceholder(DEFAULT_SETTINGS.geminiModel)
+          .setValue(this.plugin.settings.geminiModel)
           .onChange(async (v) => {
-            this.plugin.settings.ocrModel = v;
+            this.plugin.settings.geminiModel = v.trim() || DEFAULT_SETTINGS.geminiModel;
             await this.plugin.saveData(this.plugin.settings);
           })
       );

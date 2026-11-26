@@ -46,6 +46,23 @@
               "icon": "lucide-folder-closed",
               "title": "Esplora file"
             }
+          },
+          {
+            "id": "6bce4e6731951cf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
           }
         ]
       },
@@ -67,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 896.3075408935547
+    "width": 321.19883728027344
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -161,7 +178,7 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "5e352a23dab0b58f",
+  "active": "a22e06df4a5870c5",
   "lastOpenFiles": [
     "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).pdf",
     "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).html",
