@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab4b5aede7309eb2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18_11_2026 proseguo integrali, primitiva"
-            }
-          },
-          {
-            "id": "1cc1a0fc10f87137",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "23_11_2026 Integrali delle funzioni razionali fratte"
-            }
-          },
-          {
-            "id": "238ae5ee360cc1d2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/ultima parte integrazione per parti.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ultima parte integrazione per parti"
-            }
-          },
-          {
-            "id": "14e5880d7d096d23",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "23_11_2026 Integrali delle funzioni razionali fratte"
-            }
-          },
-          {
-            "id": "46ce55f12bc68bac",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "23_11_2026 Integrali delle funzioni razionali fratte"
-            }
-          },
-          {
-            "id": "ae2c138f26c82816",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18_11_2026 proseguo integrali, primitiva"
-            }
-          },
-          {
             "id": "71cabf3cc476bcd0",
             "type": "leaf",
             "state": {
@@ -103,8 +31,7 @@
               "title": "analisi matematica 18 11 (primitive, sostituzione e per parti)"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,17 +194,18 @@
   },
   "active": "71cabf3cc476bcd0",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/novembre/analisi matematica 18 11 (primitive, sostituzione e per parti).md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md",
+    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
+    "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
+    "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
     "Appunti Emanuel/matematica/Equazioni differenziali ordinarie primordine.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).html",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md",
     "Appunti Z/esercitazioni/ex 11.md",
-    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
     "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
     "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
-    "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
     "Appunti Emanuel/matematica/24_11_2026 Integrali generalizzati.md",
-    "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
     "Appunti Emanuel/Fisica/moto armonico 26_11_2026.md",
     "Appunti Z/fisica/novembre/fisica 26 11.md",
     "img/Pasted image 20261125154119.png",
