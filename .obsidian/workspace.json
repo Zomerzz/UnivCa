@@ -11,10 +11,12 @@
             "id": "a22e06df4a5870c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "analisi matematica 26 11 (equazioni differenziali di primo ordine)"
             }
           }
         ]
