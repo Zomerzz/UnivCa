@@ -29,16 +29,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a0740bb57972b90",
+        "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
         "children": [
           {
-            "id": "38f4c57ea908ae9c",
+            "id": "5e352a23dab0b58f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -46,28 +46,11 @@
               "icon": "lucide-folder-closed",
               "title": "Esplora file"
             }
-          },
-          {
-            "id": "fd6ba17a0989dc5c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Ricerca"
-            }
           }
         ]
       },
       {
-        "id": "deeb9aa6cd61bfb9",
+        "id": "e0f497fe3d395e7e",
         "type": "tabs",
         "children": [
           {
@@ -84,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.8000183105469
+    "width": 896.3075408935547
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -178,8 +161,11 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "a22e06df4a5870c5",
+  "active": "5e352a23dab0b58f",
   "lastOpenFiles": [
+    "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).pdf",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).html",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).svg",
     "Appunti Z/esercitazioni/Drawing 2026-11-25 14.57.48.excalidraw.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md",
     "Appunti Emanuel/matematica/Equazioni differenziali ordinarie primordine.md",
@@ -206,7 +192,6 @@
     "img/Pasted image 20261125154119.png",
     "Appunti Z/fisica/settembre/fisica 29 09.md",
     "Appunti Z/fisica/novembre/fisica 24 11 ( fluido cinetica ).md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 24 11 ( integrali generalizzati).md",
     "img/Pasted image 20261122230928.png",
     "img/Pasted image 20261122230919.png",
     "img/Pasted image 20261122230907.png",
@@ -215,7 +200,6 @@
     "img/Pasted image 20261122230811.png",
     "img/Pasted image 20261122162733.png",
     "img/Pasted image 20261122010829.png",
-    "img/Pasted image 20261122010821.png",
     "Appunti Z/fisica/settembre",
     "Appunti Z/fisica/novembre",
     "Appunti Z/fisica/ottobre",
@@ -224,7 +208,6 @@
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "Appunti Mike/Fondamenti Di Programmazione",
-    "Appunti Mike/Fisica 1/TEORIA/LEZIONI"
+    "Appunti Mike/Fondamenti Di Programmazione"
   ]
 }

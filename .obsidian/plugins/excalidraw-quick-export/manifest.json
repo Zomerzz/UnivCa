@@ -1,0 +1,9 @@
+{
+  "id": "excalidraw-quick-export",
+  "name": "Excalidraw Quick Export",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Export a whole Excalidraw drawing as one-page PDF, standalone HTML or SVG from the file menu or the command palette.",
+  "author": "Z",
+  "isDesktopOnly": true
+}
