@@ -11,22 +11,12 @@
             "id": "6cca1f1fca9e8bed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
-            }
-          },
-          {
-            "id": "dc5a6319fe3680ca",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md"
+                "file": "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md"
               },
               "icon": "excalidraw-icon",
-              "title": "analisi matematica 26 11 (equazioni differenziali di primo ordine)"
+              "title": "18_11_2026 proseguo integrali, primitiva"
             }
           }
         ],
@@ -42,6 +32,7 @@
       {
         "id": "8a0740bb57972b90",
         "type": "tabs",
+        "dimension": 58.94346617238183,
         "children": [
           {
             "id": "38f4c57ea908ae9c",
@@ -49,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -80,6 +71,7 @@
       {
         "id": "deeb9aa6cd61bfb9",
         "type": "tabs",
+        "dimension": 41.05653382761816,
         "children": [
           {
             "id": "63b486af163b355e",
@@ -179,31 +171,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Apri riquadro comandi": false,
-      "audio-recorder:Avvia/ferma registrazione": false,
-      "bases:Crea nuova Base": false,
       "handwriting-latex:Handwriting to LaTeX": false,
       "obisidian-note-linker:Note Linker": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "dc5a6319fe3680ca",
+  "active": "63b486af163b355e",
   "lastOpenFiles": [
     "Appunti Emanuel/matematica/Equazioni differenziali ordinarie primordine.md",
     "Appunti Z/esercitazioni/ex 11.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md",
-    "Appunti Z/esercitazioni/ex 10.md",
-    "Appunti Z/esercitazioni/ex 9.md",
-    "Appunti Z/esercitazioni/ex8 (integrali per sostituzione e per parti).md",
-    "Appunti Z/fisica/Novembre/fisica 26 11.md",
+    "Appunti Z/esercitazioni/ex 11.md",
+    "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
+    "Appunti Emanuel/matematica/Equazioni differenziali ordinarie primordine.md",
+    "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
+    "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
+    "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
+    "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
+    "Appunti Emanuel/matematica/24_11_2026 Integrali generalizzati.md",
+    "Appunti Emanuel/matematica/23_11_2026 Integrali delle funzioni razionali fratte.md",
     "Appunti Emanuel/Fisica/moto armonico 26_11_2026.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 24 11 ( integrali generalizzati).md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md",
     "img/Pasted image 20261125154119.png",
-    "Appunti Emanuel/matematica/24_11_2026 Integrali generalizzati.md",
+    "Appunti Z/esercitazioni/Drawing 2026-11-25 14.57.48.excalidraw.md",
+    "Appunti Z/analisi matematica/novembre/analisi matematica 24 11 ( integrali generalizzati).md",
     "Appunti Emanuel/Fisica/Flusso Fluidodinamica 24_11_2026.md",
     "Appunti Z/fisica/novembre/fisica 24 11.md",
     "Appunti Emanuel/matematica/Drawing 2026-11-05 08.30.09.excalidraw.md",
@@ -218,6 +216,7 @@
     "img/Pasted image 20261122230842.png",
     "img/Pasted image 20261122230826.png",
     "img/Pasted image 20261122230811.png",
+    "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
     "img/Pasted image 20261122162733.png",
     "img/Pasted image 20261122010829.png",
     "img/Pasted image 20261122010821.png",
@@ -225,8 +224,6 @@
     "Appunti Z/analisi matematica/novembre/analisi matematica 19 11 (integrazione per parti e sostituzione).md",
     "Appunti Z/fisica/settembre",
     "Appunti Z/fisica/novembre",
-    "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica",
     "Appunti Mike/Analisi 1/Untitled.base",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
