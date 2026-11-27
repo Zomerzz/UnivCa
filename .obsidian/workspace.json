@@ -85,10 +85,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Appunti Emanuel/matematica/Equazioni differenziali ordinarie primordine.md"
+                "file": "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Equazioni differenziali ordinarie primordine"
+              "title": "15_10_2026 newton ed esercizio sulle montagne russe"
+            }
+          },
+          {
+            "id": "2c1dcd02cbd6b920",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Emanuel/Fisica/sempre moto armonico 27_11_2026.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "sempre moto armonico 27_11_2026"
             }
           },
           {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             }
           },
           {
-            "id": "6bce4e6731951cf9",
+            "id": "fd6ba17a0989dc5c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -171,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.19883728027344
+    "width": 486.61106872558594
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -265,13 +277,15 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "a22e06df4a5870c5",
+  "active": "2c1dcd02cbd6b920",
   "lastOpenFiles": [
+    "Appunti Emanuel/Fisica/15_10_2026 newton ed esercizio sulle montagne russe.md",
+    "Appunti Emanuel/Fisica/sempre moto armonico 27_11_2026.md",
+    "Appunti Emanuel/matematica/Equazioni differenziali ordinarie primordine.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).html",
     "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md",
     "Appunti Z/esercitazioni/ex 11.md",
     "Appunti Emanuel/matematica/18_11_2026 proseguo integrali, primitiva.md",
-    "Appunti Emanuel/matematica/Equazioni differenziali ordinarie primordine.md",
     "Appunti Emanuel/matematica/16_11_2026 integrali e media integrale.md",
     "Appunti Emanuel/matematica/sviluppo di taylor e mcglory.md",
     "Appunti Emanuel/matematica/ultima parte integrazione per parti.md",
@@ -300,7 +314,6 @@
     "img/Pasted image 20261122230811.png",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
     "img/Pasted image 20261122162733.png",
-    "Appunti Z/esercitazioni/ex 9.md",
     "img/Pasted image 20261122010829.png",
     "img/Pasted image 20261122010821.png",
     "Appunti Z/fisica/- pdf/Fondamenti di fisica (David Halliday, Robert Resnick, Jearl Walker) (Z-Library).pdf",
@@ -311,7 +324,6 @@
     "Excalidraw/Libraries",
     "Excalidraw",
     "Appunti Z/fisica/ottobre",
-    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf",
-    "Appunti Mike/Fondamenti Di Programmazione"
+    "Appunti Z/fisica/pdf/25555160-3UW0R91222139.pdf"
   ]
 }
