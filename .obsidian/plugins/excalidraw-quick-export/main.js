@@ -41,6 +41,18 @@ module.exports = class ExcalidrawQuickExport extends Plugin {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
     this.addSettingTab(new QuickExportSettings(this.app, this));
 
+    // red marks from Claude: it drops marks.json in this plugin's folder, we draw it into the open drawing
+    this.registerInterval(window.setInterval(() => this.checkMarks(), 2000));
+    this.addCommand({
+      id: "clear-marks",
+      name: "Clear Claude's red marks in this drawing",
+      checkCallback: (checking) => {
+        if (!this.activeDrawingView()) return false;
+        if (!checking) this.clearMarks(this.activeDrawingView());
+        return true;
+      },
+    });
+
     this.addCommand({
       id: "handwriting-to-latex",
       name: "Convert selected handwriting to LaTeX",
@@ -96,6 +108,58 @@ module.exports = class ExcalidrawQuickExport extends Plugin {
   }
 
   // ---------- handwriting -> LaTeX ----------
+
+  // ---------- red marks (Claude) ----------
+
+  async checkMarks() {
+    if (this._marking) return;
+    const adapter = this.app.vault.adapter;
+    const p = this.manifest.dir + "/marks.json";
+    if (!(await adapter.exists(p))) return;
+    this._marking = true;
+    try {
+      const job = JSON.parse(await adapter.read(p));
+      await adapter.remove(p);
+      const leaf = this.app.workspace.getLeavesOfType("excalidraw").find((l) => l.view && l.view.file && l.view.file.path === job.file);
+      if (!leaf) {
+        new Notice("Claude's marks: open " + job.file + " to see them", 6000);
+        return;
+      }
+      if (job.clear) await this.clearMarks(leaf.view);
+      const ea = this.api();
+      ea.reset();
+      ea.setView(leaf.view);
+      ea.style.strokeColor = "#e03131";
+      ea.style.strokeWidth = 2;
+      ea.style.roughness = 0;
+      ea.style.backgroundColor = "transparent";
+      ea.style.fillStyle = "solid";
+      for (const m of job.items || []) {
+        ea.style.fontSize = m.size || 20;
+        if (m.type === "ellipse") ea.addEllipse(m.x, m.y, m.w, m.h);
+        else if (m.type === "rect") ea.addRect(m.x, m.y, m.w, m.h);
+        else if (m.type === "text") ea.addText(m.x, m.y, m.text);
+        else if (m.type === "arrow") ea.addArrow(m.points);
+        else if (m.type === "line") ea.addLine(m.points);
+      }
+      for (const e of ea.getElements()) e.customData = Object.assign({}, e.customData, { zMark: true });
+      await ea.addElementsToView(false, true, true);
+      await this.log(`marks: ${job.items ? job.items.length : 0} on ${job.file}`);
+    } catch (e) {
+      console.error(e);
+      new Notice("Claude's marks failed: " + e.message, 8000);
+    } finally {
+      this._marking = false;
+    }
+  }
+
+  async clearMarks(view) {
+    const ea = this.api();
+    ea.reset();
+    ea.setView(view);
+    const marks = ea.getViewElements().filter((e) => e.customData && e.customData.zMark);
+    if (marks.length) ea.deleteViewElements(marks);
+  }
 
   activeEA() {
     const ea = this.api();
