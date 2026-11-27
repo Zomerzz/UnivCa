@@ -69,13 +69,13 @@ un blocco di massa M poggia sopra una molla ed oscilla in verticale, quanto vale
 fino a che l'accelerazione della molla nel punto più alto è inferirore a g, il blocco continuerà a rimanere in contatto con la molla in qualsiasi punto del oscillazione, nel momento in cui l'accelerazione del blocco è maggiore di g, il blocco riuscirà a staccarsi ^mhdIHCzx
 
 ## Embedded Files
-9e541d3694bd8dc1a91e6f2757e6eb67bfbb145e: $$L = \int_{k_{i}}^{k_{f}} F \ dx  \ \ \ \ \ \ \text{in 1D, forza variabile}$$
+9e541d3694bd8dc1a91e6f2757e6eb67bfbb145e: $$L = \int_{x_{i}}^{x_{f}} F \ dx  \ \ \ \ \ \ \text{in 1D, forza variabile}$$
 
-33d8fb4de01945644dbbf30b1700dddb1c4698e9: $$U = -L = - \int_{k_{i}}^{k_{f}}F\ dx  \ \ \ \ \text{ definizione di energia potenziale} \implies F= - \left( \frac{U(x)'}{x'} \right)$$
+33d8fb4de01945644dbbf30b1700dddb1c4698e9: $$U = -L = - \int_{x_{i}}^{x_{f}}F\ dx  \ \ \ \ \text{ definizione di energia potenziale} \implies F= - \left( \frac{U(x)'}{x'} \right)$$
 
 234a22a50b0c828465c25bf4fa5f446224e84421: $$U_{x} = \frac{1}{2}kx^2$$
 
-d7139240fdc5e3ae58d4c4c5fe4614c487a9f1e0: $$F = -K_{x}$$
+d7139240fdc5e3ae58d4c4c5fe4614c487a9f1e0: $$F = -kx$$
 
 4ea6bb0a82abbb292fd5b7c031e8c12622b3675e: $$a = -\frac{K}{m}x \ \ \ \ \ \ \ \ definizione: w = \sqrt{ \frac{k}{m} }$$
 
