@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.2751007080078
+    "width": 263.2751007080078,
+    "collapsed": true
   },
   "right": {
     "id": "1338e7bce472a31c",
@@ -205,7 +206,7 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "38f4c57ea908ae9c",
+  "active": "d0b1be4d980ecba0",
   "lastOpenFiles": [
     "Appunti Z/fisica/Novembre/fisica 27 11.md",
     "Appunti Z/fisica/Novembre/fisica 26 11 (moto armonico).md",
