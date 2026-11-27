@@ -24,6 +24,8 @@ const OCR_PROMPT =
   "no markdown code fences, no explanation. Keep exactly what is written (do not solve or simplify). If there are " +
   "several lines, put them in \\begin{aligned} ... \\end{aligned} separated by \\\\. Italian words stay as \\text{...}.";
 const DEFAULT_SETTINGS = { geminiKey: "", geminiModel: "gemini-flash-latest" };
+const FALLBACK_MODEL = "gemini-flash-lite-latest";
+const STABLE_MODEL = "gemini-2.5-flash";
 
 const EXCALIDRAW_ID = "obsidian-excalidraw-plugin";
 const FORMATS = [
@@ -121,7 +123,7 @@ module.exports = class ExcalidrawQuickExport extends Plugin {
       const png = await timeout(this.renderForOCR(sel), 25, "rendering the selection");
       console.log("[excalidraw-quick-export] PNG bytes", png.length);
       step("2/3 Asking Gemini…");
-      const latex = await timeout(this.gemini(png), 60, "Gemini");
+      const latex = await timeout(this.gemini(png, step), 330, "Gemini");
       console.log("[excalidraw-quick-export] LaTeX", latex);
       if (!latex) throw new Error("Gemini found no formula in the selection");
       step("3/3 Placing the formula…");
@@ -187,29 +189,77 @@ module.exports = class ExcalidrawQuickExport extends Plugin {
     }
   }
 
-  async gemini(pngBytes) {
-    const t0 = Date.now();
-    await this.log(`gemini request: model=${this.settings.geminiModel} png=${pngBytes.length}B`);
+  async gemini(pngBytes, onRetry) {
     let bin = "";
     for (let i = 0; i < pngBytes.length; i += 0x8000) bin += String.fromCharCode.apply(null, pngBytes.subarray(i, i + 0x8000));
-    const res = await requestUrl({
-      url: GEMINI_URL(this.settings.geminiModel || DEFAULT_SETTINGS.geminiModel),
-      method: "POST",
-      // key in a header, never in the URL
-      headers: { "x-goog-api-key": this.settings.geminiKey, "Content-Type": "application/json" },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: OCR_PROMPT }, { inline_data: { mime_type: "image/png", data: btoa(bin) } }] }],
-        generationConfig: { temperature: 0 },
-      }),
-      throw: false,
-    });
+    const contents = [{ parts: [{ text: OCR_PROMPT }, { inline_data: { mime_type: "image/png", data: btoa(bin) } }] }];
+    // transcription needs no "thinking": off = answers in seconds instead of minutes. A model that rejects the
+    // option (400) is asked again without it, and remembered for the rest of this run.
+    const thinkingRejected = new Set();
+    const makeBody = (model) =>
+      JSON.stringify({
+        contents,
+        generationConfig: Object.assign(
+          { temperature: 0 },
+          thinkingRejected.has(model) ? {} : { thinkingConfig: { thinkingBudget: 0 } }
+        ),
+      });
+    const PER_TRY_S = 35;
+    // Google's free tier answers 503 ("high demand") / 429 / hangs in spikes: retry with backoff, then other models.
+    // A model that doesn't exist (404) or refuses the request (400) is skipped, not fatal.
+    const main = this.settings.geminiModel || DEFAULT_SETTINGS.geminiModel;
+    const attempts = [
+      [main, 0],
+      [main, 3],
+      [FALLBACK_MODEL, 0],
+      [STABLE_MODEL, 0],
+      [main, 8],
+      [FALLBACK_MODEL, 5],
+      [STABLE_MODEL, 5],
+    ];
+    const skip = new Set();
+    let res = null;
     let json = null;
-    try {
-      json = res.json;
-    } catch (e) {
-      /* not JSON */
+    for (const [model, wait] of attempts) {
+      if (skip.has(model)) continue;
+      if (wait) {
+        if (onRetry) onRetry(`Gemini busy, retrying in ${wait} s (${model})…`);
+        await new Promise((r) => setTimeout(r, wait * 1000));
+      }
+      const t0 = Date.now();
+      const call = () =>
+        Promise.race([
+          requestUrl({
+            url: GEMINI_URL(model),
+            method: "POST",
+            // key in a header, never in the URL
+            headers: { "x-goog-api-key": this.settings.geminiKey, "Content-Type": "application/json" },
+            body: makeBody(model),
+            throw: false,
+          }),
+          // a request that hangs counts as "busy": give up on it and go to the next attempt
+          new Promise((r) => setTimeout(() => r({ status: 504, text: `no answer in ${PER_TRY_S} s`, json: null }), PER_TRY_S * 1000)),
+        ]);
+      res = await call();
+      if (res.status === 400 && !thinkingRejected.has(model)) {
+        thinkingRejected.add(model);
+        res = await call();
+      }
+      json = null;
+      try {
+        json = res.json;
+      } catch (e) {
+        /* not JSON */
+      }
+      await this.log(
+        `gemini ${model} png=${pngBytes.length}B: status=${res.status} in ${Date.now() - t0} ms body=${String(res.text || "")
+          .slice(0, 400)
+          .replace(/\s+/g, " ")}`
+      );
+      if (res.status === 200 && json) break;
+      if ([401, 403].includes(res.status)) break; // bad key: no model will work
+      if ([400, 404].includes(res.status)) skip.add(model); // this model can't do it: try the others
     }
-    await this.log(`gemini response: status=${res.status} in ${Date.now() - t0} ms body=${String(res.text || "").slice(0, 600).replace(/\s+/g, " ")}`);
     if (res.status !== 200 || !json) {
       const why = json && json.error ? json.error.message : "";
       throw new Error(`Gemini ${res.status}${why ? ": " + why.slice(0, 200) : ""}`);
