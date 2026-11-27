@@ -141,6 +141,16 @@ module.exports = class ExcalidrawQuickExport extends Plugin {
         else if (m.type === "text") ea.addText(m.x, m.y, m.text);
         else if (m.type === "arrow") ea.addArrow(m.points);
         else if (m.type === "line") ea.addLine(m.points);
+        else if (m.type === "latex") {
+          // real formula, red, scaled to the requested height (default 40 px)
+          const id = await ea.addLaTex(m.x, m.y, "\\color{#e03131}{" + m.tex + "}");
+          const el = id && ea.getElement(id);
+          if (el && el.height) {
+            const f = (m.h || 40) / el.height;
+            el.width *= f;
+            el.height *= f;
+          }
+        }
       }
       for (const e of ea.getElements()) e.customData = Object.assign({}, e.customData, { zMark: true });
       await ea.addElementsToView(false, true, true);
