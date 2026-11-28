@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bed4f3380a128a77",
+        "id": "6d76c44e2f7dec14",
         "type": "tabs",
         "children": [
           {
-            "id": "ebd598420b675285",
+            "id": "7423af1bfe5573f9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Es. Integrali"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -178,8 +176,9 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "ebd598420b675285",
+  "active": "7423af1bfe5573f9",
   "lastOpenFiles": [
+    "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
     "Appunti Z/fisica/novembre/fisica 26 11.md",
     "Appunti Z/esercitazioni/ex 11.md",
     "Appunti Z/analisi matematica/novembre/analisi matematica 26 11 (equazioni differenziali di primo ordine).md",
@@ -206,7 +205,6 @@
     "img/Pasted image 20261125154119.png",
     "Appunti Z/fisica/settembre/fisica 29 09.md",
     "Appunti Z/fisica/novembre/fisica 24 11 ( fluido cinetica ).md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 24 11 ( integrali generalizzati).md",
     "img/Pasted image 20261122230928.png",
     "img/Pasted image 20261122230919.png",
     "img/Pasted image 20261122230907.png",
