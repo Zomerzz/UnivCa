@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "142be460a1b8372c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(7° Settimana).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Es. Tutoraggio(7° Settimana)"
+            }
+          },
+          {
             "id": "ad569bf5b8bf8009",
             "type": "leaf",
             "state": {
@@ -17,18 +29,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "Equilibrio & Gravitazione"
-            }
-          },
-          {
-            "id": "7423af1bfe5573f9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Equilibrio.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Equilibrio"
             }
           },
           {
@@ -202,11 +202,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "ad569bf5b8bf8009",
+  "active": "142be460a1b8372c",
   "lastOpenFiles": [
+    "Appunti Mike/Fisica 1/TEORIA/Equilibrio & Gravitazione.md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(7° Settimana).md",
+    "Appunti Mike/Fisica 1/ESERCIZI/Es. Tutoraggio(6° Settimana).md",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Equilibrio.md",
     "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
-    "Appunti Mike/Fisica 1/TEORIA/Equilibrio & Gravitazione.md",
     "Appunti Mike/Fisica 1/TEORIA/Rotazione.md",
     "Appunti Mike/Fisica 1/TEORIA/cdm & qdm.md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
@@ -228,8 +230,6 @@
     "Appunti Emanuel/fondamenti programmazione/14_10_2026 generare un n casuale.md",
     "Appunti Z/esercitazioni/Lavagna esercizzi 1 (cinematica e moto circolare).md",
     "Appunti Z/esercitazioni/ex 5 (teorema di Rolle).md",
-    "Appunti Z/esercitazioni/ex 6 (teorema di Rolle).md",
-    "Appunti Z/esercitazioni/ex 7 (energia e molla).md",
     "img/Pasted image 20261125154119.png",
     "img/Pasted image 20261122230928.png",
     "img/Pasted image 20261122230919.png",
