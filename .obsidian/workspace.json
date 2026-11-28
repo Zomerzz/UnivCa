@@ -8,13 +8,39 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ad569bf5b8bf8009",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Mike/Fisica 1/TEORIA/Equilibrio & Gravitazione.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Equilibrio & Gravitazione"
+            }
+          },
+          {
             "id": "7423af1bfe5573f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Equilibrio.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Equilibrio"
+            }
+          },
+          {
+            "id": "fd1e15f5c8457459",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Momento Torcente & Forza Angolare"
             }
           }
         ]
@@ -176,8 +202,13 @@
       "group-tabs:Recent tab groups": false
     }
   },
-  "active": "7423af1bfe5573f9",
+  "active": "ad569bf5b8bf8009",
   "lastOpenFiles": [
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Momento Torcente & Forza Angolare.md",
+    "Appunti Mike/Fisica 1/TEORIA/Rotazione.md",
+    "Appunti Mike/Fisica 1/TEORIA/cdm & qdm.md",
+    "Appunti Mike/Fisica 1/TEORIA/Equilibrio & Gravitazione.md",
+    "Appunti Mike/Fisica 1/TEORIA/LEZIONI/Equilibrio.md",
     "Appunti Mike/Analisi 1/ESERCIZI/Es. Integrali.md",
     "Appunti Z/fisica/novembre/fisica 26 11.md",
     "Appunti Z/esercitazioni/ex 11.md",
@@ -199,12 +230,7 @@
     "Appunti Z/esercitazioni/ex 5 (teorema di Rolle).md",
     "Appunti Z/esercitazioni/ex 6 (teorema di Rolle).md",
     "Appunti Z/esercitazioni/ex 7 (energia e molla).md",
-    "Appunti Z/esercitazioni/ex8 (integrali per sostituzione e per parti).md",
-    "Appunti Z/esercitazioni/ex 9.md",
-    "Appunti Z/analisi matematica/novembre/analisi matematica 23 11 (integrali razzonali fratti e calcolo delle aree tramite l'uso degli integrali).md",
     "img/Pasted image 20261125154119.png",
-    "Appunti Z/fisica/settembre/fisica 29 09.md",
-    "Appunti Z/fisica/novembre/fisica 24 11 ( fluido cinetica ).md",
     "img/Pasted image 20261122230928.png",
     "img/Pasted image 20261122230919.png",
     "img/Pasted image 20261122230907.png",
